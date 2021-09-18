@@ -5,23 +5,25 @@ English | [简体中文](./README.md)
 ## Table of contents
 
 - [Table of contents](#table-of-contents)
-- [Repository](#repository)
-  - [UI Frameworks](#ui-frameworks)
-  - [UI Components](#ui-components)
-    - [Buttons](#buttons)
-    - [Icons](#icons)
-    - [Layout](#layout)
-    - [Tooltip](#tooltip)
-    - [Menu](#menu)
-    - [Sticky](#sticky)
-    - [Tabs](#tabs)
-    - [Drag and Drop](#drag-and-drop)
-  - [Dev Tools](#dev-tools)
-    - [Test](#test)
+- [UI Frameworks](#ui-frameworks)
+- [UI Components](#ui-components)
+  - [Buttons](#buttons)
+  - [Icons](#icons)
+  - [Layout](#layout)
+    - [flexbox implementation](#flexbox-implementation)
+  - [Tooltip](#tooltip)
+  - [Menu](#menu)
+  - [Sticky](#sticky)
+  - [Tabs](#tabs)
+  - [Drag and Drop](#drag-and-drop)
+  - [Form Components](#form-components)
+    - [Date / Time picker](#date--time-picker)
+    - [Emoji picker](#emoji-picker)
+    - [Image Editing](#image-editing)
+- [Dev Tools](#dev-tools)
+  - [Test](#test)
 
-## Repository
-
-### UI Frameworks
+## UI Frameworks
 
 - [ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library. ![](https://img.shields.io/github/stars/ant-design/ant-design.svg?style=social&label=Star)
 - [material-ui](https://github.com/mui-org/material-ui) - React components for faster and easier web development. ![](https://img.shields.io/github/stars/mui-org/material-ui.svg?style=social&label=Star)
@@ -58,21 +60,21 @@ English | [简体中文](./README.md)
 - [trunx](https://github.com/fibo/trunx) - Super Saiyan React components, son of awesome Bulma, implemented in TypeScript. ![](https://img.shields.io/github/stars/fibo/trunx.svg?style=social&label=Star)
 - [cdbreact](https://github.com/Devwares-Team/cdbreact) - Elegant UI Kit library and reusable components for building mobile-first, responsive websites and web apps. ![](https://img.shields.io/github/stars/Devwares-Team/cdbreact.svg?style=social&label=Star)
 
-### UI Components
+## UI Components
 
-#### Buttons
+### Buttons
 
 - [react-awesome-button](https://github.com/rcaferati/react-awesome-button) - 3D animated 60fps buttons with load progress and social share actions. ![](https://img.shields.io/github/stars/rcaferati/react-awesome-button.svg?style=social&label=Star)
 - [reactive-button](https://github.com/arifszn/reactive-button) - A beautiful animated button component with progress indicator. ![](https://img.shields.io/github/stars/arifszn/reactive-button.svg?style=social&label=Star)
 
-#### Icons
+### Icons
 
 - [react-icons](https://github.com/gorangajic/react-icons) - Svg react icons of popular icon packs using ES6 imports. ![](https://img.shields.io/github/stars/gorangajic/react-icons.svg?style=social&label=Star)
 - [react-fontawesome](https://github.com/danawoodman/react-fontawesome) - A React Font Awesome component. ![](https://img.shields.io/github/stars/danawoodman/react-fontawesome.svg?style=social&label=Star)
 - [iconify-react](https://github.com/iconify/iconify-react) - Over 40k icons from 50+ icon sets, including all popular icon and emoji sets. ![](https://img.shields.io/github/stars/iconify/iconify-react.svg?style=social&label=Star)
 - [react-open-doodles](https://github.com/lunahq/react-open-doodles) - A Free Set of Sketchy Illustrations provided by opendoodles. ![](https://img.shields.io/github/stars/lunahq/react-open-doodles.svg?style=social&label=Star)
 
-#### Layout
+### Layout
 
 - [react-grid-layout](https://github.com/STRML/react-grid-layout) - A draggable and resizable grid layout with responsive breakpoints, for React. ![](https://img.shields.io/github/stars/STRML/react-grid-layout.svg?style=social&label=Star)
 - [golden-layout](https://github.com/deepstreamIO/golden-layout) - A multi-screen JavaScript Layout manager. ![](https://img.shields.io/github/stars/deepstreamIO/golden-layout.svg?style=social&label=Star)
@@ -83,36 +85,36 @@ English | [简体中文](./README.md)
 - [muuri-react](https://github.com/Paol-imi/muuri-react) - [demo](https://1czo5.csb.app/) - [docs](https://paol-imi.github.io/muuri-react) - Responsive, sortable, filterable and draggable grid layouts. ![](https://img.shields.io/github/stars/Paol-imi/muuri-react.svg?style=social&label=Star)
 - [m-react-splitters](https://github.com/martinnov92/React-Splitters) - Splitter component, written in TypeScript. ![](https://img.shields.io/github/stars/martinnov92/React-Splitters.svg?style=social&label=Star)
 
-- flexbox implementation
+#### flexbox implementation
   - [hedron](https://github.com/JSBros/hedron) - A no-frills flexbox grid system, powered by styled-components. ![](https://img.shields.io/github/stars/JSBros/hedron.svg?style=social&label=Star)
   - [react-reflex](https://github.com/leefsmp/Re-Flex) - Flex layout container component for advanced React web applications. ![](https://img.shields.io/github/stars/leefsmp/Re-Flex.svg?style=social&label=Star)
   - [flexbox-react](https://github.com/nachoaIvarez/flexbox-react) - Unopinionated, standard compliant flexbox components. ![](https://img.shields.io/github/stars/nachoaIvarez/flexbox-react.svg?style=social&label=Star)
   - [react-flexbox](https://github.com/tcoopman/react-flexbox) - React flexbox implementation. ![](https://img.shields.io/github/stars/tcoopman/react-flexbox.svg?style=social&label=Star)
 
-#### Tooltip
+### Tooltip
 
 - [react-tooltip](https://github.com/wwayne/react-tooltip) - React tooltip component. ![](https://img.shields.io/github/stars/wwayne/react-tooltip.svg?style=social&label=Star)
 - [react-popper](https://github.com/popperjs/react-popper) - 🍿⚛Official React library to use Popper, the positioning library. ![](https://img.shields.io/github/stars/popperjs/react-popper.svg?style=social&label=Star)
 
-#### Menu
+### Menu
 
 - [react-burger-menu](https://github.com/negomi/react-burger-menu) - An off-canvas sidebar with effects and styles. ![](https://img.shields.io/github/stars/negomi/react-burger-menu.svg?style=social&label=Star)
 - [hamburger-react](https://github.com/luukdv/hamburger-react) - Animated hamburger menu icons for React. ![](https://img.shields.io/github/stars/luukdv/hamburger-react.svg?style=social&label=Star)
 - [react-planet](https://github.com/innFactory/react-planet) - Create circular menus which looks like planets. ![](https://img.shields.io/github/stars/innFactory/react-planet.svg?style=social&label=Star)
 - [react-offcanvas](https://github.com/vutran/react-offcanvas) - Off-canvas menus for React. ![](https://img.shields.io/github/stars/vutran/react-offcanvas.svg?style=social&label=Star)
 
-#### Sticky
+### Sticky
 
 - [react-sticky](https://github.com/captivationsoftware/react-sticky) - &lt;Sticky /&gt; component for awesome React apps. ![](https://img.shields.io/github/stars/captivationsoftware/react-sticky.svg?style=social&label=Star)
 - [react-headroom](https://github.com/KyleAMathews/react-headroom) - Hide your header until you need it. ![](https://img.shields.io/github/stars/KyleAMathews/react-headroom.svg?style=social&label=Star)
 - [react-stickynode](https://github.com/yahoo/react-stickynode) - A performant and comprehensive React sticky. ![](https://img.shields.io/github/stars/yahoo/react-stickynode.svg?style=social&label=Star)
 
-#### Tabs
+### Tabs
 
 - [react-tabs](https://github.com/reactjs/react-tabs) - React tabs component. ![](https://img.shields.io/github/stars/reactjs/react-tabs.svg?style=social&label=Star)
 - [react-tabtab](https://github.com/ctxhou/react-tabtab) - React, tabs. ![](https://img.shields.io/github/stars/ctxhou/react-tabtab.svg?style=social&label=Star)
 
-#### Drag and Drop
+### Drag and Drop
 
 - [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) - Beautiful and accessible drag and drop for lists with React. ![](https://img.shields.io/github/stars/atlassian/react-beautiful-dnd.svg?style=social&label=Star)
 - [react-dnd](https://github.com/gaearon/react-dnd) - Drag and Drop for React. ![](https://img.shields.io/github/stars/gaearon/react-dnd.svg?style=social&label=Star)
@@ -122,9 +124,42 @@ English | [简体中文](./README.md)
 - [react-dragula](https://github.com/bevacqua/react-dragula) - Drag and drop so simple it hurts. ![](https://img.shields.io/github/stars/bevacqua/react-dragula.svg?style=social&label=Star)
 - [react-sortable-pane](https://github.com/bokuweb/react-sortable-pane) - Sortable and resizable pane component for React. ![](https://img.shields.io/github/stars/bokuweb/react-sortable-pane.svg?style=social&label=Star)
 
-### Dev Tools
+### Form Components
 
-#### Test
+#### Date / Time picker
+
+- [react-datepicker](https://github.com/Hacker0x01/react-datepicker) - A simple and reusable datepicker component for React. ![](https://img.shields.io/github/stars/Hacker0x01/react-datepicker.svg?style=social&label=Star)
+- [react-big-calendar](https://github.com/intljusticemission/react-big-calendar) - Gcal/outlook like calendar component. ![](https://img.shields.io/github/stars/intljusticemission/react-big-calendar.svg?style=social&label=Star)
+- [react-day-picker](https://github.com/gpbl/react-day-picker) - Flexible date picker for React. ![](https://img.shields.io/github/stars/gpbl/react-day-picker.svg?style=social&label=Star)
+- [react-calendar](https://github.com/wojtekmaj/react-calendar) - Ultimate calendar for your React app. ![](https://img.shields.io/github/stars/wojtekmaj/react-calendar.svg?style=social&label=Star)
+- [react-date-range](https://github.com/Adphorus/react-date-range) - A React component for choosing dates and date ranges. ![](https://img.shields.io/github/stars/Adphorus/react-date-range.svg?style=social&label=Star)
+- [react-datetime](https://github.com/YouCanBookMe/react-datetime) - A lightweight but complete datetime picker react component. ![](https://img.shields.io/github/stars/YouCanBookMe/react-datetime.svg?style=social&label=Star)
+- [devextreme-reactive](https://github.com/DevExpress/devextreme-reactive) - High-performance plugin-based scheduler/calendar for Material Design. ![](https://img.shields.io/github/stars/DevExpress/devextreme-reactive.svg?style=social&label=Star)
+- [react-nice-dates](https://github.com/hernansartorio/react-nice-dates) - A responsive, touch-friendly, and modular date picker library. ![](https://img.shields.io/github/stars/hernansartorio/react-nice-dates.svg?style=social&label=Star)
+- [react-flatpickr](https://github.com/coderhaoxin/react-flatpickr) - Flatpickr for React. ![](https://img.shields.io/github/stars/coderhaoxin/react-flatpickr.svg?style=social&label=Star)
+- [react-date-picker](https://github.com/wojtekmaj/react-date-picker) - A date picker for your React app. ![](https://img.shields.io/github/stars/wojtekmaj/react-date-picker.svg?style=social&label=Star)
+- [react-yearly-calendar](https://github.com/BelkaLab/react-yearly-calendar) - React.js Yearly Calendar Component. ![](https://img.shields.io/github/stars/BelkaLab/react-yearly-calendar.svg?style=social&label=Star)
+- [react-datepicker2](https://github.com/mberneti/react-datepicker2) - A simple and reusable datepicker component (with persian jalali calendar support). ![](https://img.shields.io/github/stars/mberneti/react-datepicker2.svg?style=social&label=Star)
+- [date-range-picker](https://github.com/almogtavor/date-range-picker) - A calendar component that supports date, range & ranges picks. ![](https://img.shields.io/github/stars/almogtavor/date-range-picker.svg?style=social&label=Star)
+- [react-simple-timefield](https://github.com/antonfisher/react-simple-timefield) - Simple time input field. ![](https://img.shields.io/github/stars/antonfisher/react-simple-timefield.svg?style=social&label=Star)
+- [react-timezone-select](https://github.com/ndom91/react-timezone-select) - Dynamic, succinct timezone select. Based on `react-select`. ![](https://img.shields.io/github/stars/ndom91/react-timezone-select.svg?style=social&label=Star)
+
+#### Emoji picker
+
+- [interweave-emoji-picker](https://github.com/milesj/interweave/tree/master/packages/emoji-picker) - A React based emoji picker powered by Interweave and Emojibase. ![](https://img.shields.io/github/stars/milesj/interweave.svg?style=social&label=Star)
+
+
+#### Image Editing
+
+- [react-image-crop](https://github.com/DominicTobias/react-image-crop) - A responsive image cropping tool for React. ![](https://img.shields.io/github/stars/DominicTobias/react-image-crop.svg?style=social&label=Star)
+- [react-avatar-editor](https://github.com/mosch/react-avatar-editor) - Facebook-like, avatar / profile picture component. ![](https://img.shields.io/github/stars/mosch/react-avatar-editor.svg?style=social&label=Star)
+- [react-easy-crop](https://github.com/ricardo-ch/react-easy-crop) - Component to crop/rotate images/videos with easy interactions. Touch friendly. ![](https://img.shields.io/github/stars/ricardo-ch/react-easy-crop.svg?style=social&label=Star)
+- [react-image-cropper](https://github.com/jerryshew/react-image-cropper) - Image cropper. ![](https://img.shields.io/github/stars/jerryshew/react-image-cropper.svg?style=social&label=Star)
+- [react-avatar-generator](https://github.com/JosephSmith127/react-avatar-generator) - Generate fun kaleidoscope for user avatars. ![](https://img.shields.io/github/stars/JosephSmith127/react-avatar-generator.svg?style=social&label=Star)
+
+## Dev Tools
+
+### Test
 
 - [jest](https://github.com/facebook/jest) - Delightful JavaScript Testing. ![](https://img.shields.io/github/stars/facebook/jest.svg?style=social&label=Star)
 - [enzyme](https://github.com/airbnb/enzyme) - JavaScript Testing utilities for React. ![](https://img.shields.io/github/stars/airbnb/enzyme.svg?style=social&label=Star)
