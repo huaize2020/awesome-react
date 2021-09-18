@@ -6,17 +6,18 @@
 
 - [目录](#目录)
 - [GIT仓库](#git仓库)
-  - [组件库](#组件库)
+  - [UI框架](#ui框架)
   - [UI组件](#ui组件)
     - [按钮](#按钮)
     - [图标](#图标)
     - [布局](#布局)
+    - [提示工具](#提示工具)
   - [开发工具](#开发工具)
     - [测试相关](#测试相关)
 
 ## GIT仓库
 
-### 组件库
+### UI框架
 
 - [ant-design](https://github.com/ant-design/ant-design) - 一套企业级 UI 设计语言和 React 组件库。 ![](https://img.shields.io/github/stars/ant-design/ant-design.svg?style=social&label=Star)
 - [material-ui](https://github.com/mui-org/material-ui) - 一套React 组件，以实现更快、更轻松的 Web 开发。 ![](https://img.shields.io/github/stars/mui-org/material-ui.svg?style=social&label=Star)
@@ -24,6 +25,7 @@
 - [react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) - 使用 React 构建的 Bootstrap 组件。 ![](https://img.shields.io/github/stars/react-bootstrap/react-bootstrap.svg?style=social&label=Star)
 - [blueprint](https://github.com/palantir/blueprint) - 用于 Web 的基于 React 的 UI 工具包。 ![](https://img.shields.io/github/stars/palantir/blueprint.svg?style=social&label=Star)
 - [semantic-ui-react](https://github.com/Semantic-Org/Semantic-UI-React) - Semantic 官方提供的 React 封装。 ![](https://img.shields.io/github/stars/Semantic-Org/Semantic-UI-React.svg?style=social&label=Star)
+- [office-ui-fabric-react](https://github.com/OfficeDev/office-ui-fabric-react) - 用于构建Microsoft Web体验的React组件。 ![](https://img.shields.io/github/stars/OfficeDev/office-ui-fabric-react.svg?style=social&label=Star)
 - [Fluent UI](https://github.com/microsoft/fluentui) - 一套用于构建 Microsoft Web 体验的 React 组件。 ![](https://img.shields.io/github/stars/microsoft/fluentui.svg?style=social&label=Star)
 - [evergreen](https://github.com/segmentio/evergreen) - Segment使用的UI框架。 ![](https://img.shields.io/github/stars/segmentio/evergreen.svg?style=social&label=Star)
 - [reactstrap](https://github.com/reactstrap/reactstrap) - 简单的 React Bootstrap 4 组件。 ![](https://img.shields.io/github/stars/reactstrap/reactstrap.svg?style=social&label=Star)
@@ -33,14 +35,24 @@
 - [rsuite](https://github.com/rsuite/rsuite) - 一套 React 组件。 ![](https://img.shields.io/github/stars/rsuite/rsuite.svg?style=social&label=Star)
 - [react-spectrum](https://github.com/adobe/react-spectrum) - Adobe 的库和工具集合，可帮助您构建适应性强、可访问且强大的用户体验。 ![](https://img.shields.io/github/stars/adobe/react-spectrum.svg?style=social&label=Star)
 - [reakit](https://github.com/reakit/reakit) - 可访问、可组合和可定制的React组件。 ![](https://img.shields.io/github/stars/reakit/reakit.svg?style=social&label=Star)
+- [carbon](https://github.com/carbon-design-system/carbon) - IBM构建的设计系统。 ![](https://img.shields.io/github/stars/carbon-design-system/carbon.svg?style=social&label=Star)
+- [searchkit](https://github.com/searchkit/searchkit) - React UI组件/小部件。使用`Elasticsearch`构建出色搜索体验的最简单方法。 ![](https://img.shields.io/github/stars/searchkit/searchkit.svg?style=social&label=Star)
+- [gestalt](https://github.com/pinterest/gestalt) - 一组支持 Pinterest设计语言的组件。 ![](https://img.shields.io/github/stars/pinterest/gestalt.svg?style=social&label=Star)
 - [eui](https://github.com/elastic/eui) - 弹性式UI框架。 ![](https://img.shields.io/github/stars/elastic/eui.svg?style=social&label=Star)
 - [ring-ui](https://github.com/JetBrains/ring-ui) - JetBrains的 Web UI组件库。 ![](https://img.shields.io/github/stars/JetBrains/ring-ui.svg?style=social&label=Star)
+- [zeit-ui-react](https://github.com/zeit-ui/react) - 现代简约的 React UI库。 ![](https://img.shields.io/github/stars/zeit-ui/react.svg?style=social&label=Star)
 - [primereact](https://github.com/primefaces/primereact) - 一个完整的 React UI 框架，包含 50 多个具有material、bootstrap和自定义主题的组件。 ![](https://img.shields.io/github/stars/primefaces/primereact.svg?style=social&label=Star)
 - [mantine](https://github.com/mantinedev/mantine) -具有原生深色主题支持的 React 组件和Hooks库专注于可用性、可访问性和开发人员体验。 ![](https://img.shields.io/github/stars/mantinedev/mantine.svg?style=social&label=Star)
+- [ChatUI](https://github.com/alibaba/ChatUI) - 服务于对话领域的设计和开发体系。 ![](https://img.shields.io/github/stars/alibaba/ChatUI.svg?style=social&label=Star)
+- [orbit-components](https://github.com/kiwicom/orbit-components) - 用于构建面向旅行的项目的组件。 ![](https://img.shields.io/github/stars/kiwicom/orbit-components.svg?style=social&label=Star)
 - [react-bulma-components](https://github.com/couds/react-bulma-components) - Bulma 的React组件。 ![](https://img.shields.io/github/stars/couds/react-bulma-components.svg?style=social&label=Star)
 - [bumbag-ui](https://github.com/bumbag/bumbag-ui) - 使用 Bumbag 构建具备可访问性且主题化的 React 应用程序。 ![](https://img.shields.io/github/stars/bumbag/bumbag-ui.svg?style=social&label=Star)
+- [shineout](https://github.com/sheinsight/shineout) - 中文友好的组件集：表单元素、导航、表格、树、树选择下拉等。 ![](https://img.shields.io/github/stars/sheinsight/shineout.svg?style=social&label=Star)
+- [pivotal-ui-react](https://github.com/pivotal-cf/pivotal-ui) - 基于自定义版本的Bootstrap库的React组件。 ![](https://img.shields.io/github/stars/pivotal-cf/pivotal-ui.svg?style=social&label=Star)
+- [react-foundation](https://github.com/nordsoftware/react-foundation) - 作为React组件的基础。 ![](https://img.shields.io/github/stars/nordsoftware/react-foundation.svg?style=social&label=Star)
 - [react-bulma](https://github.com/kulakowka/react-bulma) - 基于 Flexbox 的现代 CSS 框架的 React.js 组件。 ![](https://img.shields.io/github/stars/kulakowka/react-bulma.svg?style=social&label=Star)
 - [trunx](https://github.com/fibo/trunx) - 使用 TypeScript 实现，基于Bulma 的React 组件。 ![](https://img.shields.io/github/stars/fibo/trunx.svg?style=social&label=Star)
+- [cdbreact](https://github.com/Devwares-Team/cdbreact) - 优雅的UI Kit库和可重用组件，用于构建移动优先、响应式网站和Web应用程序。 ![](https://img.shields.io/github/stars/Devwares-Team/cdbreact.svg?style=social&label=Star)
 
 ### UI组件
 #### 按钮
@@ -70,6 +82,10 @@
   - [react-reflex](https://github.com/leefsmp/Re-Flex) - 用于高级React Web应用程序的Flex布局容器组件。 ![](https://img.shields.io/github/stars/leefsmp/Re-Flex.svg?style=social&label=Star)
   - [flexbox-react](https://github.com/nachoaIvarez/flexbox-react) - 无偏见、符合标准的 flexbox 组件. ![](https://img.shields.io/github/stars/nachoaIvarez/flexbox-react.svg?style=social&label=Star)
   - [react-flexbox](https://github.com/tcoopman/react-flexbox) - React flexbox思想。 ![](https://img.shields.io/github/stars/tcoopman/react-flexbox.svg?style=social&label=Star)
+
+#### 提示工具
+
+- [react-tooltip](https://github.com/wwayne/react-tooltip) - React提示工具组件。 ![](https://img.shields.io/github/stars/wwayne/react-tooltip.svg?style=social&label=Star)
 
 ### 开发工具
 
