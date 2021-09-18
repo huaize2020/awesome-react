@@ -7,6 +7,10 @@ English | [简体中文](./README.md)
 - [Table of contents](#table-of-contents)
 - [Repository](#repository)
   - [Component Libraries](#component-libraries)
+  - [UI Components](#ui-components)
+    - [Buttons](#buttons)
+    - [Icons](#icons)
+    - [Layout](#layout)
 
 ## Repository
 
@@ -35,3 +39,33 @@ English | [简体中文](./README.md)
 - [bumbag-ui](https://github.com/bumbag/bumbag-ui) - Build accessible & themeable React applications with your Bumbag. ![](https://img.shields.io/github/stars/bumbag/bumbag-ui.svg?style=social&label=Star)
 - [react-bulma](https://github.com/kulakowka/react-bulma) - React.js components for Modern CSS framework based on Flexbox. ![](https://img.shields.io/github/stars/kulakowka/react-bulma.svg?style=social&label=Star)
 - [trunx](https://github.com/fibo/trunx) - Super Saiyan React components, son of awesome Bulma, implemented in TypeScript. ![](https://img.shields.io/github/stars/fibo/trunx.svg?style=social&label=Star)
+
+### UI Components
+
+#### Buttons
+
+- [react-awesome-button](https://github.com/rcaferati/react-awesome-button) - 3D animated 60fps buttons with load progress and social share actions. ![](https://img.shields.io/github/stars/rcaferati/react-awesome-button.svg?style=social&label=Star)
+- [reactive-button](https://github.com/arifszn/reactive-button) - A beautiful animated button component with progress indicator. ![](https://img.shields.io/github/stars/arifszn/reactive-button.svg?style=social&label=Star)
+
+#### Icons
+
+- [react-icons](https://github.com/gorangajic/react-icons) - Svg react icons of popular icon packs using ES6 imports. ![](https://img.shields.io/github/stars/gorangajic/react-icons.svg?style=social&label=Star)
+- [iconify-react](https://github.com/iconify/iconify-react) - Over 40k icons from 50+ icon sets, including all popular icon and emoji sets. ![](https://img.shields.io/github/stars/iconify/iconify-react.svg?style=social&label=Star)
+- [react-open-doodles](https://github.com/lunahq/react-open-doodles) - A Free Set of Sketchy Illustrations provided by opendoodles. ![](https://img.shields.io/github/stars/lunahq/react-open-doodles.svg?style=social&label=Star)
+
+#### Layout
+
+- [react-grid-layout](https://github.com/STRML/react-grid-layout) - A draggable and resizable grid layout with responsive breakpoints, for React. ![](https://img.shields.io/github/stars/STRML/react-grid-layout.svg?style=social&label=Star)
+- [golden-layout](https://github.com/deepstreamIO/golden-layout) - A multi-screen JavaScript Layout manager. ![](https://img.shields.io/github/stars/deepstreamIO/golden-layout.svg?style=social&label=Star)
+- [autoresponsive-react](https://github.com/xudafeng/autoresponsive-react) - Auto responsive grid layout library. ![](https://img.shields.io/github/stars/xudafeng/autoresponsive-react.svg?style=social&label=Star)
+- [react-masonry-component](https://github.com/eiriklv/react-masonry-component) - Wrapper for @desandro's Masonry. ![](https://img.shields.io/github/stars/eiriklv/react-masonry-component.svg?style=social&label=Star)
+- [react-stonecutter](https://github.com/dantrain/react-stonecutter) - Animated grid layout component. ![](https://img.shields.io/github/stars/dantrain/react-stonecutter.svg?style=social&label=Star)
+- [react-spaces](https://github.com/aeagle/react-spaces) - [demo/docs](https://www.allaneagle.com/react-spaces/demo/) - Nestable anchored, resizable, scrollable components. ![](https://img.shields.io/github/stars/aeagle/react-spaces.svg?style=social&label=Star)
+- [muuri-react](https://github.com/Paol-imi/muuri-react) - [demo](https://1czo5.csb.app/) - [docs](https://paol-imi.github.io/muuri-react) - Responsive, sortable, filterable and draggable grid layouts. ![](https://img.shields.io/github/stars/Paol-imi/muuri-react.svg?style=social&label=Star)
+- [m-react-splitters](https://github.com/martinnov92/React-Splitters) - Splitter component, written in TypeScript. ![](https://img.shields.io/github/stars/martinnov92/React-Splitters.svg?style=social&label=Star)
+
+- flexbox implementation
+  - [hedron](https://github.com/JSBros/hedron) - A no-frills flexbox grid system, powered by styled-components. ![](https://img.shields.io/github/stars/JSBros/hedron.svg?style=social&label=Star)
+  - [react-reflex](https://github.com/leefsmp/Re-Flex) - Flex layout container component for advanced React web applications. ![](https://img.shields.io/github/stars/leefsmp/Re-Flex.svg?style=social&label=Star)
+  - [flexbox-react](https://github.com/nachoaIvarez/flexbox-react) - Unopinionated, standard compliant flexbox components. ![](https://img.shields.io/github/stars/nachoaIvarez/flexbox-react.svg?style=social&label=Star)
+  - [react-flexbox](https://github.com/tcoopman/react-flexbox) - React flexbox implementation. ![](https://img.shields.io/github/stars/tcoopman/react-flexbox.svg?style=social&label=Star)
