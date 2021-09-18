@@ -15,6 +15,7 @@
     - [导航菜单](#导航菜单)
     - [粘性吸顶](#粘性吸顶)
     - [标签页](#标签页)
+    - [拖放](#拖放)
   - [开发工具](#开发工具)
     - [测试相关](#测试相关)
 
@@ -90,6 +91,7 @@
 #### 提示工具
 
 - [react-tooltip](https://github.com/wwayne/react-tooltip) - React提示工具组件。 ![](https://img.shields.io/github/stars/wwayne/react-tooltip.svg?style=social&label=Star)
+- [react-popper](https://github.com/popperjs/react-popper) - 🍿⚛官方 React 库，使用定位库 Popper。 ![](https://img.shields.io/github/stars/popperjs/react-popper.svg?style=social&label=Star)
 
 #### 导航菜单
 
@@ -108,6 +110,16 @@
 
 - [react-tabs](https://github.com/reactjs/react-tabs) - 选项卡切换组件。 ![](https://img.shields.io/github/stars/reactjs/react-tabs.svg?style=social&label=Star)
 - [react-tabtab](https://github.com/ctxhou/react-tabtab) - 选项卡切换组件。 ![](https://img.shields.io/github/stars/ctxhou/react-tabtab.svg?style=social&label=Star)
+
+#### 拖放
+
+- [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) - 漂亮且易于使用的 React 列表拖拽。 ![](https://img.shields.io/github/stars/atlassian/react-beautiful-dnd.svg?style=social&label=Star)
+- [react-dnd](https://github.com/gaearon/react-dnd) - 拖拽库 ![](https://img.shields.io/github/stars/gaearon/react-dnd.svg?style=social&label=Star)
+- [react-dropzone](https://github.com/okonet/react-dropzone) - 简单 HTML5 拖放区。 ![](https://img.shields.io/github/stars/okonet/react-dropzone.svg?style=social&label=Star)
+- [react-draggable](https://github.com/mzabriskie/react-draggable) - React可拖动组件。 ![](https://img.shields.io/github/stars/mzabriskie/react-draggable.svg?style=social&label=Star)
+- [react-movable](https://github.com/tajo/react-movable) - 可访问且简约（<4kB gzipped）库，用于在列表和表格中进行垂直拖放。 ![](https://img.shields.io/github/stars/tajo/react-movable.svg?style=social&label=Star)
+- [react-dragula](https://github.com/bevacqua/react-dragula) - 拖放如此简单，让人心痛。 ![](https://img.shields.io/github/stars/bevacqua/react-dragula.svg?style=social&label=Star)
+- [react-sortable-pane](https://github.com/bokuweb/react-sortable-pane) - 可排序和可调整大小的窗格组件。 ![](https://img.shields.io/github/stars/bokuweb/react-sortable-pane.svg?style=social&label=Star)
 
 ### 开发工具
 
