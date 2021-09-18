@@ -12,6 +12,9 @@
     - [图标](#图标)
     - [布局](#布局)
     - [提示工具](#提示工具)
+    - [导航菜单](#导航菜单)
+    - [粘性吸顶](#粘性吸顶)
+    - [标签页](#标签页)
   - [开发工具](#开发工具)
     - [测试相关](#测试相关)
 
@@ -63,6 +66,7 @@
 #### 图标
 
 - [react-icons](https://github.com/gorangajic/react-icons) - 使用ES6导入React SVG流行图标库。![](https://img.shields.io/github/stars/gorangajic/react-icons.svg?style=social&label=Star)
+- [react-fontawesome](https://github.com/danawoodman/react-fontawesome) - Font Awesome组件。 ![](https://img.shields.io/github/stars/danawoodman/react-fontawesome.svg?style=social&label=Star)
 - [iconify-react](https://github.com/iconify/iconify-react) - 来自50多个图标集的超过4万个图标，包括所有流行的图标和表情符号集。 ![](https://img.shields.io/github/stars/iconify/iconify-react.svg?style=social&label=Star)
 - [react-open-doodles](https://github.com/lunahq/react-open-doodles) - 由`opendoodles`提供的一组免费粗略插图。 ![](https://img.shields.io/github/stars/lunahq/react-open-doodles.svg?style=social&label=Star)
 
@@ -86,6 +90,24 @@
 #### 提示工具
 
 - [react-tooltip](https://github.com/wwayne/react-tooltip) - React提示工具组件。 ![](https://img.shields.io/github/stars/wwayne/react-tooltip.svg?style=social&label=Star)
+
+#### 导航菜单
+
+- [react-burger-menu](https://github.com/negomi/react-burger-menu) - 带有特效和样式的侧边栏菜单。 ![](https://img.shields.io/github/stars/negomi/react-burger-menu.svg?style=social&label=Star)
+- [hamburger-react](https://github.com/luukdv/hamburger-react) - React 的动画汉堡菜单图标。 ![](https://img.shields.io/github/stars/luukdv/hamburger-react.svg?style=social&label=Star)
+- [react-planet](https://github.com/innFactory/react-planet) - 创建看起来像行星的圆形菜单。 ![](https://img.shields.io/github/stars/innFactory/react-planet.svg?style=social&label=Star)
+- [react-offcanvas](https://github.com/vutran/react-offcanvas) - 侧边栏菜单。 ![](https://img.shields.io/github/stars/vutran/react-offcanvas.svg?style=social&label=Star)
+
+#### 粘性吸顶
+
+- [react-sticky](https://github.com/captivationsoftware/react-sticky) - &lt;Sticky /&gt;组件。 ![](https://img.shields.io/github/stars/captivationsoftware/react-sticky.svg?style=social&label=Star)
+- [react-headroom](https://github.com/KyleAMathews/react-headroom) - 隐藏头部，直到你需要它。 ![](https://img.shields.io/github/stars/KyleAMathews/react-headroom.svg?style=social&label=Star)
+- [react-stickynode](https://github.com/yahoo/react-stickynode) - 一个高性能和全面的React吸顶。 ![](https://img.shields.io/github/stars/yahoo/react-stickynode.svg?style=social&label=Star)
+
+#### 标签页
+
+- [react-tabs](https://github.com/reactjs/react-tabs) - 选项卡切换组件。 ![](https://img.shields.io/github/stars/reactjs/react-tabs.svg?style=social&label=Star)
+- [react-tabtab](https://github.com/ctxhou/react-tabtab) - 选项卡切换组件。 ![](https://img.shields.io/github/stars/ctxhou/react-tabtab.svg?style=social&label=Star)
 
 ### 开发工具
 
