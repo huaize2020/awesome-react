@@ -11,6 +11,8 @@ English | [简体中文](./README.md)
     - [Buttons](#buttons)
     - [Icons](#icons)
     - [Layout](#layout)
+  - [Dev Tools](#dev-tools)
+    - [Test](#test)
 
 ## Repository
 
@@ -69,3 +71,17 @@ English | [简体中文](./README.md)
   - [react-reflex](https://github.com/leefsmp/Re-Flex) - Flex layout container component for advanced React web applications. ![](https://img.shields.io/github/stars/leefsmp/Re-Flex.svg?style=social&label=Star)
   - [flexbox-react](https://github.com/nachoaIvarez/flexbox-react) - Unopinionated, standard compliant flexbox components. ![](https://img.shields.io/github/stars/nachoaIvarez/flexbox-react.svg?style=social&label=Star)
   - [react-flexbox](https://github.com/tcoopman/react-flexbox) - React flexbox implementation. ![](https://img.shields.io/github/stars/tcoopman/react-flexbox.svg?style=social&label=Star)
+
+### Dev Tools
+
+#### Test
+
+- [jest](https://github.com/facebook/jest) - Delightful JavaScript Testing. ![](https://img.shields.io/github/stars/facebook/jest.svg?style=social&label=Star)
+- [enzyme](https://github.com/airbnb/enzyme) - JavaScript Testing utilities for React. ![](https://img.shields.io/github/stars/airbnb/enzyme.svg?style=social&label=Star)
+- [react-testing-library](https://github.com/testing-library/react-testing-library) - 🐐 Simple and complete React DOM testing utilities that encourage good testing practices. ![](https://img.shields.io/github/stars/testing-library/react-testing-library.svg?style=social&label=Star)
+- [chai-enzyme](https://github.com/producthunt/chai-enzyme) - Chai.js assertions and convenience functions for testing React Components with enzyme. ![](https://img.shields.io/github/stars/producthunt/chai-enzyme.svg?style=social&label=Star)
+- [ui-harness](https://github.com/philcockfield/ui-harness) - Create, isolate and test modular UI components in React. ![](https://img.shields.io/github/stars/philcockfield/ui-harness.svg?style=social&label=Star)
+- [react-unit](https://github.com/pzavolinsky/react-unit) - Lightweight unit test library for ReactJS. ![](https://img.shields.io/github/stars/pzavolinsky/react-unit.svg?style=social&label=Star)
+- [unexpected-react](https://github.com/bruderstein/unexpected-react) - Plugin for unexpected to enable testing the full React virtual DOM, and also the shallow renderer. ![](https://img.shields.io/github/stars/bruderstein/unexpected-react.svg?style=social&label=Star)
+- [redux-test-recorder](https://github.com/conorhastings/redux-test-recorder) - A redux middleware to automatically generate tests for reducers through ui interaction. ![](https://img.shields.io/github/stars/tcoopman/react-flexbox.svg?style=social&label=Star)
+- [rut](https://github.com/milesj/rut) - React testing made easy with `react-test-renderer`. Supports DOM and custom renderers. ![](https://img.shields.io/github/stars/milesj/rut.svg?style=social&label=Star)
