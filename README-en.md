@@ -12,6 +12,9 @@ English | [简体中文](./README.md)
     - [Icons](#icons)
     - [Layout](#layout)
     - [Tooltip](#tooltip)
+    - [Menu](#menu)
+    - [Sticky](#sticky)
+    - [Tabs](#tabs)
   - [Dev Tools](#dev-tools)
     - [Test](#test)
 
@@ -64,6 +67,7 @@ English | [简体中文](./README.md)
 #### Icons
 
 - [react-icons](https://github.com/gorangajic/react-icons) - Svg react icons of popular icon packs using ES6 imports. ![](https://img.shields.io/github/stars/gorangajic/react-icons.svg?style=social&label=Star)
+- [react-fontawesome](https://github.com/danawoodman/react-fontawesome) - A React Font Awesome component. ![](https://img.shields.io/github/stars/danawoodman/react-fontawesome.svg?style=social&label=Star)
 - [iconify-react](https://github.com/iconify/iconify-react) - Over 40k icons from 50+ icon sets, including all popular icon and emoji sets. ![](https://img.shields.io/github/stars/iconify/iconify-react.svg?style=social&label=Star)
 - [react-open-doodles](https://github.com/lunahq/react-open-doodles) - A Free Set of Sketchy Illustrations provided by opendoodles. ![](https://img.shields.io/github/stars/lunahq/react-open-doodles.svg?style=social&label=Star)
 
@@ -87,6 +91,24 @@ English | [简体中文](./README.md)
 #### Tooltip
 
 - [react-tooltip](https://github.com/wwayne/react-tooltip) - React tooltip component. ![](https://img.shields.io/github/stars/wwayne/react-tooltip.svg?style=social&label=Star)
+
+#### Menu
+
+- [react-burger-menu](https://github.com/negomi/react-burger-menu) - An off-canvas sidebar with effects and styles. ![](https://img.shields.io/github/stars/negomi/react-burger-menu.svg?style=social&label=Star)
+- [hamburger-react](https://github.com/luukdv/hamburger-react) - Animated hamburger menu icons for React. ![](https://img.shields.io/github/stars/luukdv/hamburger-react.svg?style=social&label=Star)
+- [react-planet](https://github.com/innFactory/react-planet) - Create circular menus which looks like planets. ![](https://img.shields.io/github/stars/innFactory/react-planet.svg?style=social&label=Star)
+- [react-offcanvas](https://github.com/vutran/react-offcanvas) - Off-canvas menus for React. ![](https://img.shields.io/github/stars/vutran/react-offcanvas.svg?style=social&label=Star)
+
+#### Sticky
+
+- [react-sticky](https://github.com/captivationsoftware/react-sticky) - &lt;Sticky /&gt; component for awesome React apps. ![](https://img.shields.io/github/stars/captivationsoftware/react-sticky.svg?style=social&label=Star)
+- [react-headroom](https://github.com/KyleAMathews/react-headroom) - Hide your header until you need it. ![](https://img.shields.io/github/stars/KyleAMathews/react-headroom.svg?style=social&label=Star)
+- [react-stickynode](https://github.com/yahoo/react-stickynode) - A performant and comprehensive React sticky. ![](https://img.shields.io/github/stars/yahoo/react-stickynode.svg?style=social&label=Star)
+
+#### Tabs
+
+- [react-tabs](https://github.com/reactjs/react-tabs) - React tabs component. ![](https://img.shields.io/github/stars/reactjs/react-tabs.svg?style=social&label=Star)
+- [react-tabtab](https://github.com/ctxhou/react-tabtab) - React, tabs. ![](https://img.shields.io/github/stars/ctxhou/react-tabtab.svg?style=social&label=Star)
 
 ### Dev Tools
 
