@@ -6,17 +6,18 @@ English | [简体中文](./README.md)
 
 - [Table of contents](#table-of-contents)
 - [Repository](#repository)
-  - [Component Libraries](#component-libraries)
+  - [UI Frameworks](#ui-frameworks)
   - [UI Components](#ui-components)
     - [Buttons](#buttons)
     - [Icons](#icons)
     - [Layout](#layout)
+    - [Tooltip](#tooltip)
   - [Dev Tools](#dev-tools)
     - [Test](#test)
 
 ## Repository
 
-### Component Libraries
+### UI Frameworks
 
 - [ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library. ![](https://img.shields.io/github/stars/ant-design/ant-design.svg?style=social&label=Star)
 - [material-ui](https://github.com/mui-org/material-ui) - React components for faster and easier web development. ![](https://img.shields.io/github/stars/mui-org/material-ui.svg?style=social&label=Star)
@@ -24,6 +25,7 @@ English | [简体中文](./README.md)
 - [react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) - Bootstrap components built with React. ![](https://img.shields.io/github/stars/react-bootstrap/react-bootstrap.svg?style=social&label=Star)
 - [blueprint](https://github.com/palantir/blueprint) - A React-based UI toolkit for the webs. ![](https://img.shields.io/github/stars/palantir/blueprint.svg?style=social&label=Star)
 - [semantic-ui-react](https://github.com/Semantic-Org/Semantic-UI-React) - The official Semantic-UI-React integration. ![](https://img.shields.io/github/stars/Semantic-Org/Semantic-UI-React.svg?style=social&label=Star)
+- [office-ui-fabric-react](https://github.com/OfficeDev/office-ui-fabric-react) - React components for building Microsoft web experiences. ![](https://img.shields.io/github/stars/OfficeDev/office-ui-fabric-react.svg?style=social&label=Star)
 - [Fluent UI](https://github.com/microsoft/fluentui) - A set of React components for building Microsoft web experiences. ![](https://img.shields.io/github/stars/microsoft/fluentui.svg?style=social&label=Star)
 - [evergreen](https://github.com/segmentio/evergreen) - Evergreen React UI Framework by Segment. ![](https://img.shields.io/github/stars/segmentio/evergreen.svg?style=social&label=Star)
 - [reactstrap](https://github.com/reactstrap/reactstrap) - Simple React Bootstrap 4 components. ![](https://img.shields.io/github/stars/reactstrap/reactstrap.svg?style=social&label=Star)
@@ -33,14 +35,24 @@ English | [简体中文](./README.md)
 - [rsuite](https://github.com/rsuite/rsuite) - A suite of React components. ![](https://img.shields.io/github/stars/rsuite/rsuite.svg?style=social&label=Star)
 - [react-spectrum](https://github.com/adobe/react-spectrum) - Adobe's collection of libraries and tools that help you build adaptive, accessible, and robust user experiences. ![](https://img.shields.io/github/stars/adobe/react-spectrum.svg?style=social&label=Star)
 - [reakit](https://github.com/reakit/reakit) - Accessible, Composable and Customizable components for React. ![](https://img.shields.io/github/stars/reakit/reakit.svg?style=social&label=Star)
+- [carbon](https://github.com/carbon-design-system/carbon) - A design system built by IBM. ![](https://img.shields.io/github/stars/carbon-design-system/carbon.svg?style=social&label=Star)
+- [searchkit](https://github.com/searchkit/searchkit) - React UI components / widgets. The easiest way to build a great search experience with Elasticsearch. ![](https://img.shields.io/github/stars/searchkit/searchkit.svg?style=social&label=Star)
+- [gestalt](https://github.com/pinterest/gestalt) - A set of components that supports Pinterest’s design language. ![](https://img.shields.io/github/stars/pinterest/gestalt.svg?style=social&label=Star)
 - [eui](https://github.com/elastic/eui) - Elastic UI Framework. ![](https://img.shields.io/github/stars/elastic/eui.svg?style=social&label=Star)
 - [ring-ui](https://github.com/JetBrains/ring-ui) - JetBrains Web UI components. ![](https://img.shields.io/github/stars/JetBrains/ring-ui.svg?style=social&label=Star)
+- [zeit-ui-react](https://github.com/zeit-ui/react) - Modern and minimalist React UI library. ![](https://img.shields.io/github/stars/zeit-ui/react.svg?style=social&label=Star)
 - [primereact](https://github.com/primefaces/primereact) - A complete UI Framework for React with 50+ components featuring material, bootstrap and custom themes. ![](https://img.shields.io/github/stars/primefaces/primereact.svg?style=social&label=Star)
 - [mantine](https://github.com/mantinedev/mantine) - React components and hooks library with native dark theme support focused on usability, accessibility and developer experience. ![](https://img.shields.io/github/stars/mantinedev/mantine.svg?style=social&label=Star)
+- [ChatUI](https://github.com/alibaba/ChatUI) - The UI design language and React library for Conversational UI. ![](https://img.shields.io/github/stars/alibaba/ChatUI.svg?style=social&label=Star)
+- [orbit-components](https://github.com/kiwicom/orbit-components) - Components for building travel oriented projects. ![](https://img.shields.io/github/stars/kiwicom/orbit-components.svg?style=social&label=Star)
 - [react-bulma-components](https://github.com/couds/react-bulma-components) - React components for Bulma framework. ![](https://img.shields.io/github/stars/couds/react-bulma-components.svg?style=social&label=Star)
 - [bumbag-ui](https://github.com/bumbag/bumbag-ui) - Build accessible & themeable React applications with your Bumbag. ![](https://img.shields.io/github/stars/bumbag/bumbag-ui.svg?style=social&label=Star)
+- [shineout](https://github.com/sheinsight/shineout)  - Chinese-friendly set of components: form elements, navigation, table, tree, tree select drop-down etc. ![](https://img.shields.io/github/stars/sheinsight/shineout.svg?style=social&label=Star)
+- [pivotal-ui-react](https://github.com/pivotal-cf/pivotal-ui) - React components based on a custom version of the Bootstrap library. ![](https://img.shields.io/github/stars/pivotal-cf/pivotal-ui.svg?style=social&label=Star)
+- [react-foundation](https://github.com/nordsoftware/react-foundation) - Foundation as React components. ![](https://img.shields.io/github/stars/nordsoftware/react-foundation.svg?style=social&label=Star)
 - [react-bulma](https://github.com/kulakowka/react-bulma) - React.js components for Modern CSS framework based on Flexbox. ![](https://img.shields.io/github/stars/kulakowka/react-bulma.svg?style=social&label=Star)
 - [trunx](https://github.com/fibo/trunx) - Super Saiyan React components, son of awesome Bulma, implemented in TypeScript. ![](https://img.shields.io/github/stars/fibo/trunx.svg?style=social&label=Star)
+- [cdbreact](https://github.com/Devwares-Team/cdbreact) - Elegant UI Kit library and reusable components for building mobile-first, responsive websites and web apps. ![](https://img.shields.io/github/stars/Devwares-Team/cdbreact.svg?style=social&label=Star)
 
 ### UI Components
 
@@ -71,6 +83,10 @@ English | [简体中文](./README.md)
   - [react-reflex](https://github.com/leefsmp/Re-Flex) - Flex layout container component for advanced React web applications. ![](https://img.shields.io/github/stars/leefsmp/Re-Flex.svg?style=social&label=Star)
   - [flexbox-react](https://github.com/nachoaIvarez/flexbox-react) - Unopinionated, standard compliant flexbox components. ![](https://img.shields.io/github/stars/nachoaIvarez/flexbox-react.svg?style=social&label=Star)
   - [react-flexbox](https://github.com/tcoopman/react-flexbox) - React flexbox implementation. ![](https://img.shields.io/github/stars/tcoopman/react-flexbox.svg?style=social&label=Star)
+
+#### Tooltip
+
+- [react-tooltip](https://github.com/wwayne/react-tooltip) - React tooltip component. ![](https://img.shields.io/github/stars/wwayne/react-tooltip.svg?style=social&label=Star)
 
 ### Dev Tools
 
