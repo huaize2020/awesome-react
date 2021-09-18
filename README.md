@@ -5,23 +5,23 @@
 ## 目录
 
 - [目录](#目录)
-- [GIT仓库](#git仓库)
-  - [UI框架](#ui框架)
-  - [UI组件](#ui组件)
-    - [按钮](#按钮)
-    - [图标](#图标)
-    - [布局](#布局)
-    - [提示工具](#提示工具)
-    - [导航菜单](#导航菜单)
-    - [粘性吸顶](#粘性吸顶)
-    - [标签页](#标签页)
-    - [拖放](#拖放)
-  - [开发工具](#开发工具)
-    - [测试相关](#测试相关)
+- [UI框架](#ui框架)
+- [UI组件](#ui组件)
+  - [按钮](#按钮)
+  - [图标](#图标)
+  - [布局](#布局)
+    - [flexbox实现](#flexbox实现)
+  - [提示工具](#提示工具)
+  - [导航菜单](#导航菜单)
+  - [粘性吸顶](#粘性吸顶)
+  - [标签页](#标签页)
+  - [拖放](#拖放)
+  - [表单组件](#表单组件)
+    - [日期和时间选择器](#日期和时间选择器)
+    - [表情符号选择器](#表情符号选择器)
+  - [测试相关](#测试相关)
 
-## GIT仓库
-
-### UI框架
+## UI框架
 
 - [ant-design](https://github.com/ant-design/ant-design) - 一套企业级 UI 设计语言和 React 组件库。 ![](https://img.shields.io/github/stars/ant-design/ant-design.svg?style=social&label=Star)
 - [material-ui](https://github.com/mui-org/material-ui) - 一套React 组件，以实现更快、更轻松的 Web 开发。 ![](https://img.shields.io/github/stars/mui-org/material-ui.svg?style=social&label=Star)
@@ -58,20 +58,20 @@
 - [trunx](https://github.com/fibo/trunx) - 使用 TypeScript 实现，基于Bulma 的React 组件。 ![](https://img.shields.io/github/stars/fibo/trunx.svg?style=social&label=Star)
 - [cdbreact](https://github.com/Devwares-Team/cdbreact) - 优雅的UI Kit库和可重用组件，用于构建移动优先、响应式网站和Web应用程序。 ![](https://img.shields.io/github/stars/Devwares-Team/cdbreact.svg?style=social&label=Star)
 
-### UI组件
-#### 按钮
+## UI组件
+### 按钮
 
 - [react-awesome-button](https://github.com/rcaferati/react-awesome-button) - 带有加载进度和社交分享操作的 3D 动画 60fps 按钮。 ![](https://img.shields.io/github/stars/rcaferati/react-awesome-button.svg?style=social&label=Star)
 - [reactive-button](https://github.com/arifszn/reactive-button) - 一个漂亮的带有进度指示器的动画按钮组件。 ![](https://img.shields.io/github/stars/arifszn/reactive-button.svg?style=social&label=Star)
 
-#### 图标
+### 图标
 
 - [react-icons](https://github.com/gorangajic/react-icons) - 使用ES6导入React SVG流行图标库。![](https://img.shields.io/github/stars/gorangajic/react-icons.svg?style=social&label=Star)
 - [react-fontawesome](https://github.com/danawoodman/react-fontawesome) - Font Awesome组件。 ![](https://img.shields.io/github/stars/danawoodman/react-fontawesome.svg?style=social&label=Star)
 - [iconify-react](https://github.com/iconify/iconify-react) - 来自50多个图标集的超过4万个图标，包括所有流行的图标和表情符号集。 ![](https://img.shields.io/github/stars/iconify/iconify-react.svg?style=social&label=Star)
 - [react-open-doodles](https://github.com/lunahq/react-open-doodles) - 由`opendoodles`提供的一组免费粗略插图。 ![](https://img.shields.io/github/stars/lunahq/react-open-doodles.svg?style=social&label=Star)
 
-#### 布局
+### 布局
 
 - [react-grid-layout](https://github.com/STRML/react-grid-layout) - 网格布局系统，可以实现响应式的网格布局，并且支持分割点（breakpoints）的设置，灵活运用可以方便的实现拖拽式组件。 ![](https://img.shields.io/github/stars/STRML/react-grid-layout.svg?style=social&label=Star)
 - [golden-layout](https://github.com/deepstreamIO/golden-layout) - 一款强大的响应式多窗口分割管理器。 ![](https://img.shields.io/github/stars/deepstreamIO/golden-layout.svg?style=social&label=Star)
@@ -82,36 +82,37 @@
 - [muuri-react](https://github.com/Paol-imi/muuri-react) - 响应式、可排序、可筛选和可拖动的网格布局。 ![](https://img.shields.io/github/stars/Paol-imi/muuri-react.svg?style=social&label=Star)
 - [m-react-splitters](https://github.com/martinnov92/React-Splitters) - 拆分器组件，用 TypeScript 编写。 ![](https://img.shields.io/github/stars/martinnov92/React-Splitters.svg?style=social&label=Star)
 
-- flexbox实现
-  - [hedron](https://github.com/JSBros/hedron) - 一个简洁的flexbox网格系统，由样式组件提供支持。 ![](https://img.shields.io/github/stars/JSBros/hedron.svg?style=social&label=Star)
-  - [react-reflex](https://github.com/leefsmp/Re-Flex) - 用于高级React Web应用程序的Flex布局容器组件。 ![](https://img.shields.io/github/stars/leefsmp/Re-Flex.svg?style=social&label=Star)
-  - [flexbox-react](https://github.com/nachoaIvarez/flexbox-react) - 无偏见、符合标准的 flexbox 组件. ![](https://img.shields.io/github/stars/nachoaIvarez/flexbox-react.svg?style=social&label=Star)
-  - [react-flexbox](https://github.com/tcoopman/react-flexbox) - React flexbox思想。 ![](https://img.shields.io/github/stars/tcoopman/react-flexbox.svg?style=social&label=Star)
+#### flexbox实现
 
-#### 提示工具
+- [hedron](https://github.com/JSBros/hedron) - 一个简洁的flexbox网格系统，由样式组件提供支持。 ![](https://img.shields.io/github/stars/JSBros/hedron.svg?style=social&label=Star)
+- [react-reflex](https://github.com/leefsmp/Re-Flex) - 用于高级React Web应用程序的Flex布局容器组件。 ![](https://img.shields.io/github/stars/leefsmp/Re-Flex.svg?style=social&label=Star)
+- [flexbox-react](https://github.com/nachoaIvarez/flexbox-react) - 无偏见、符合标准的 flexbox 组件. ![](https://img.shields.io/github/stars/nachoaIvarez/flexbox-react.svg?style=social&label=Star)
+- [react-flexbox](https://github.com/tcoopman/react-flexbox) - React flexbox思想。 ![](https://img.shields.io/github/stars/tcoopman/react-flexbox.svg?style=social&label=Star)
+
+### 提示工具
 
 - [react-tooltip](https://github.com/wwayne/react-tooltip) - React提示工具组件。 ![](https://img.shields.io/github/stars/wwayne/react-tooltip.svg?style=social&label=Star)
 - [react-popper](https://github.com/popperjs/react-popper) - 🍿⚛官方 React 库，使用定位库 Popper。 ![](https://img.shields.io/github/stars/popperjs/react-popper.svg?style=social&label=Star)
 
-#### 导航菜单
+### 导航菜单
 
 - [react-burger-menu](https://github.com/negomi/react-burger-menu) - 带有特效和样式的侧边栏菜单。 ![](https://img.shields.io/github/stars/negomi/react-burger-menu.svg?style=social&label=Star)
 - [hamburger-react](https://github.com/luukdv/hamburger-react) - React 的动画汉堡菜单图标。 ![](https://img.shields.io/github/stars/luukdv/hamburger-react.svg?style=social&label=Star)
 - [react-planet](https://github.com/innFactory/react-planet) - 创建看起来像行星的圆形菜单。 ![](https://img.shields.io/github/stars/innFactory/react-planet.svg?style=social&label=Star)
 - [react-offcanvas](https://github.com/vutran/react-offcanvas) - 侧边栏菜单。 ![](https://img.shields.io/github/stars/vutran/react-offcanvas.svg?style=social&label=Star)
 
-#### 粘性吸顶
+### 粘性吸顶
 
 - [react-sticky](https://github.com/captivationsoftware/react-sticky) - &lt;Sticky /&gt;组件。 ![](https://img.shields.io/github/stars/captivationsoftware/react-sticky.svg?style=social&label=Star)
 - [react-headroom](https://github.com/KyleAMathews/react-headroom) - 隐藏头部，直到你需要它。 ![](https://img.shields.io/github/stars/KyleAMathews/react-headroom.svg?style=social&label=Star)
 - [react-stickynode](https://github.com/yahoo/react-stickynode) - 一个高性能和全面的React吸顶。 ![](https://img.shields.io/github/stars/yahoo/react-stickynode.svg?style=social&label=Star)
 
-#### 标签页
+### 标签页
 
 - [react-tabs](https://github.com/reactjs/react-tabs) - 选项卡切换组件。 ![](https://img.shields.io/github/stars/reactjs/react-tabs.svg?style=social&label=Star)
 - [react-tabtab](https://github.com/ctxhou/react-tabtab) - 选项卡切换组件。 ![](https://img.shields.io/github/stars/ctxhou/react-tabtab.svg?style=social&label=Star)
 
-#### 拖放
+### 拖放
 
 - [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) - 漂亮且易于使用的 React 列表拖拽。 ![](https://img.shields.io/github/stars/atlassian/react-beautiful-dnd.svg?style=social&label=Star)
 - [react-dnd](https://github.com/gaearon/react-dnd) - 拖拽库 ![](https://img.shields.io/github/stars/gaearon/react-dnd.svg?style=social&label=Star)
@@ -121,9 +122,30 @@
 - [react-dragula](https://github.com/bevacqua/react-dragula) - 拖放如此简单，让人心痛。 ![](https://img.shields.io/github/stars/bevacqua/react-dragula.svg?style=social&label=Star)
 - [react-sortable-pane](https://github.com/bokuweb/react-sortable-pane) - 可排序和可调整大小的窗格组件。 ![](https://img.shields.io/github/stars/bokuweb/react-sortable-pane.svg?style=social&label=Star)
 
-### 开发工具
+### 表单组件
 
-#### 测试相关
+#### 日期和时间选择器
+
+- [react-datepicker](https://github.com/Hacker0x01/react-datepicker) - 一个简单且可重用的 React 日期选择器组件。 ![](https://img.shields.io/github/stars/Hacker0x01/react-datepicker.svg?style=social&label=Star)
+- [react-big-calendar](https://github.com/intljusticemission/react-big-calendar) - Gcal/outlook类似的日历组件。 ![](https://img.shields.io/github/stars/intljusticemission/react-big-calendar.svg?style=social&label=Star)
+- [react-day-picker](https://github.com/gpbl/react-day-picker) - React 的灵活日期选择器。![](https://img.shields.io/github/stars/gpbl/react-day-picker.svg?style=social&label=Star)
+- [react-calendar](https://github.com/wojtekmaj/react-calendar) - React 应用程序的终极日历。 ![](https://img.shields.io/github/stars/wojtekmaj/react-calendar.svg?style=social&label=Star)
+- [react-date-range](https://github.com/Adphorus/react-date-range) - 用于选择日期和日期范围的React组件。 ![](https://img.shields.io/github/stars/Adphorus/react-date-range.svg?style=social&label=Star)
+- [react-datetime](https://github.com/YouCanBookMe/react-datetime) - 轻量级但完整的日期时间选择器React组件。 ![](https://img.shields.io/github/stars/YouCanBookMe/react-datetime.svg?style=social&label=Star)
+- [devextreme-reactive](https://github.com/DevExpress/devextreme-reactive) - 基于插件，用于Material Design的高性能调度程序/日历。 ![](https://img.shields.io/github/stars/DevExpress/devextreme-reactive.svg?style=social&label=Star)
+- [react-nice-dates](https://github.com/hernansartorio/react-nice-dates) - 响应式、对移动端Touch友好和模块化的日期选择器库。 ![](https://img.shields.io/github/stars/hernansartorio/react-nice-dates.svg?style=social&label=Star)
+- [react-flatpickr](https://github.com/coderhaoxin/react-flatpickr) - React 的 Flatpickr。 ![](https://img.shields.io/github/stars/coderhaoxin/react-flatpickr.svg?style=social&label=Star)
+- [react-date-picker](https://github.com/wojtekmaj/react-date-picker) - 日期选择器。 ![](https://img.shields.io/github/stars/wojtekmaj/react-date-picker.svg?style=social&label=Star)
+- [react-yearly-calendar](https://github.com/BelkaLab/react-yearly-calendar) - 年历组件。 ![](https://img.shields.io/github/stars/BelkaLab/react-yearly-calendar.svg?style=social&label=Star)
+- [react-datepicker2](https://github.com/mberneti/react-datepicker2) - 一个简单且可重用的日期选择器组件（支持波斯 jalali 日历）。 ![](https://img.shields.io/github/stars/mberneti/react-datepicker2.svg?style=social&label=Star)
+- [date-range-picker](https://github.com/almogtavor/date-range-picker) - 支持日期、范围和范围选择的日历组件。 ![](https://img.shields.io/github/stars/almogtavor/date-range-picker.svg?style=social&label=Star)
+- [react-simple-timefield](https://github.com/antonfisher/react-simple-timefield) - 简单的时间输入。 ![](https://img.shields.io/github/stars/antonfisher/react-simple-timefield.svg?style=social&label=Star)
+- [react-timezone-select](https://github.com/ndom91/react-timezone-select) - D动态、简洁的时区选择，基于`react-select`。 ![](https://img.shields.io/github/stars/ndom91/react-timezone-select.svg?style=social&label=Star)
+
+#### 表情符号选择器
+
+- [interweave-emoji-picker](https://github.com/milesj/interweave/tree/master/packages/emoji-picker) - 由`Interweave`和`Emojibase`提供支持的基于 React的表情符号选择器。 ![](https://img.shields.io/github/stars/milesj/interweave.svg?style=social&label=Star)
+### 测试相关
 
 - [jest](https://github.com/facebook/jest) - 愉悦的JavaScript测试。 ![](https://img.shields.io/github/stars/facebook/jest.svg?style=social&label=Star)
 - [enzyme](https://github.com/airbnb/enzyme) - 用于React的测试工具。 ![](https://img.shields.io/github/stars/airbnb/enzyme.svg?style=social&label=Star)
