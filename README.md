@@ -11,6 +11,8 @@
     - [按钮](#按钮)
     - [图标](#图标)
     - [布局](#布局)
+  - [开发工具](#开发工具)
+    - [测试相关](#测试相关)
 
 ## GIT仓库
 
@@ -68,3 +70,17 @@
   - [react-reflex](https://github.com/leefsmp/Re-Flex) - 用于高级React Web应用程序的Flex布局容器组件。 ![](https://img.shields.io/github/stars/leefsmp/Re-Flex.svg?style=social&label=Star)
   - [flexbox-react](https://github.com/nachoaIvarez/flexbox-react) - 无偏见、符合标准的 flexbox 组件. ![](https://img.shields.io/github/stars/nachoaIvarez/flexbox-react.svg?style=social&label=Star)
   - [react-flexbox](https://github.com/tcoopman/react-flexbox) - React flexbox思想。 ![](https://img.shields.io/github/stars/tcoopman/react-flexbox.svg?style=social&label=Star)
+
+### 开发工具
+
+#### 测试相关
+
+- [jest](https://github.com/facebook/jest) - 愉悦的JavaScript测试。 ![](https://img.shields.io/github/stars/facebook/jest.svg?style=social&label=Star)
+- [enzyme](https://github.com/airbnb/enzyme) - 用于React的测试工具。 ![](https://img.shields.io/github/stars/airbnb/enzyme.svg?style=social&label=Star)
+- [react-testing-library](https://github.com/testing-library/react-testing-library) - 🐐 简单而完整的React DOM测试实用程序，鼓励良好的测试实践。 ![](https://img.shields.io/github/stars/testing-library/react-testing-library.svg?style=social&label=Star)
+- [chai-enzyme](https://github.com/producthunt/chai-enzyme) - 配合enzyme使用的Chai.js断言库和便利函数 ![](https://img.shields.io/github/stars/producthunt/chai-enzyme.svg?style=social&label=Star)
+- [ui-harness](https://github.com/philcockfield/ui-harness) - 在React中创建、隔离和测试模块化UI组件。 ![](https://img.shields.io/github/stars/philcockfield/ui-harness.svg?style=social&label=Star)
+- [react-unit](https://github.com/pzavolinsky/react-unit) - 轻量级单元测试库。 ![](https://img.shields.io/github/stars/pzavolinsky/react-unit.svg?style=social&label=Star)
+- [unexpected-react](https://github.com/bruderstein/unexpected-react) - unexpected插件，用于测试完整React虚拟DOM以及浅层渲染器。![](https://img.shields.io/github/stars/bruderstein/unexpected-react.svg?style=social&label=Star)
+- [redux-test-recorder](https://github.com/conorhastings/redux-test-recorder) - 一个redux中间件，通过ui交互自动生成reducers的测试。 ![](https://img.shields.io/github/stars/tcoopman/react-flexbox.svg?style=social&label=Star)
+- [rut](https://github.com/milesj/rut) - 使用`react-test-renderer`使React测试变得容易。支持DOM和自定义渲染器。![](https://img.shields.io/github/stars/milesj/rut.svg?style=social&label=Star)
