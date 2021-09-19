@@ -19,6 +19,11 @@
   - [表单组件](#表单组件)
     - [日期和时间选择器](#日期和时间选择器)
     - [表情符号选择器](#表情符号选择器)
+    - [富文本编辑器](#富文本编辑器)
+    - [代码编辑器](#代码编辑器)
+    - [Markdown编辑器](#markdown编辑器)
+    - [图片编辑](#图片编辑)
+- [开发工具](#开发工具)
   - [测试相关](#测试相关)
 
 ## UI框架
@@ -145,6 +150,48 @@
 #### 表情符号选择器
 
 - [interweave-emoji-picker](https://github.com/milesj/interweave/tree/master/packages/emoji-picker) - 由`Interweave`和`Emojibase`提供支持的基于 React的表情符号选择器。 ![](https://img.shields.io/github/stars/milesj/interweave.svg?style=social&label=Star)
+
+#### 富文本编辑器
+
+- [slate](https://github.com/ianstormtaylor/slate) - 一个完全可定制的框架，用于在浏览器中构建富文本编辑器。 ![](https://img.shields.io/github/stars/ianstormtaylor/slate.svg?style=social&label=Star)
+- [draft-js](https://github.com/facebook/draft-js) - Draft.js是一个 JavaScript富文本编辑器框架，为React构建并由不可变模型支持。 ![](https://img.shields.io/github/stars/facebook/draft-js.svg?style=social&label=Star)
+- [react-draft-wysiwyg](https://github.com/jpuri/react-draft-wysiwyg) - 基于[DraftJS](https://draftjs.org/)封装的可见即可得的编辑器。 ![](https://img.shields.io/github/stars/jpuri/react-draft-wysiwyg.svg?style=social&label=Star)
+- [react-quill](https://github.com/zenoamaro/react-quill) - 基于Quill封装。 ![](https://img.shields.io/github/stars/zenoamaro/react-quill.svg?style=social&label=Star)
+- [alloyeditor](https://github.com/liferay/alloy-editor) - 基于CKEditor完全重写的UI可见即可得的编辑器 ![](https://img.shields.io/github/stars/liferay/alloy-editor.svg?style=social&label=Star)
+- [remirror](https://github.com/remirror/remirror) - 用于React的`ProseMirror` 工具包。 ![](https://img.shields.io/github/stars/remirror/remirror.svg?style=social&label=Star)
+- [react-contenteditable](https://github.com/lovasoa/react-contenteditable) - 基于div可编辑内容的React组件。 ![](https://img.shields.io/github/stars/lovasoa/react-contenteditable.svg?style=social&label=Star)
+- [megadraft](https://github.com/globocom/megadraft) - 建立在Draft.js之上的富文本编辑器。 ![](https://img.shields.io/github/stars/globocom/megadraft.svg?style=social&label=Star)
+- [edtr-io](https://github.com/edtr-io/edtr-io) - 带有插件的可见即可得内嵌 Web 编辑器。 ![](https://img.shields.io/github/stars/edtr-io/edtr-io.svg?style=social&label=Star)
+- [react-medium-editor](https://github.com/wangzuo/react-medium-editor) - medium编辑器封装。 ![](https://img.shields.io/github/stars/wangzuo/react-medium-editor.svg?style=social&label=Star)
+- [ckeditor5-react](https://github.com/ckeditor/ckeditor5-react) - 基于CKEditor 5官方富文本编辑器封装。 ![](https://img.shields.io/github/stars/ckeditor/ckeditor5-react.svg?style=social&label=Star)
+- [smartblock](https://github.com/appleple/smartblock) - 基于ProseMirror的可见即可得的编辑器。 ![](https://img.shields.io/github/stars/appleple/smartblock.svg?style=social&label=Star)
+- [react-trumbowyg](https://github.com/RD17/react-trumbowyg) - 基于[Trumbowyg](https://alex-d.github.io/Trumbowyg/)的封装。 ![](https://img.shields.io/github/stars/RD17/react-trumbowyg.svg?style=social&label=Star)
+- [ckeditor4-react](https://github.com/ckeditor/ckeditor4-react) - 基于CKEditor 4 rich文本编辑器封装。 ![](https://img.shields.io/github/stars/ckeditor/ckeditor4-react.svg?style=social&label=Star)
+- [react-editor](https://github.com/fritx/react-editor) - 可以插入图片和HTML的简单富文本编辑器。 ![](https://img.shields.io/github/stars/fritx/react-editor.svg?style=social&label=Star)
+
+#### 代码编辑器
+
+- [react-ace](https://github.com/securingsincity/react-ace) - 基于Ace (Advanced Code Editor)封装。 ![](https://img.shields.io/github/stars/securingsincity/react-ace.svg?style=social&label=Star)
+- [react-codemirror](https://github.com/uiwjs/react-codemirror) - 基于CodeMirror封装的React组件。 ![](https://img.shields.io/github/stars/uiwjs/react-codemirror.svg?style=social&label=Star)
+- [react-monacoeditor](https://github.com/jaywcjlove/react-monacoeditor) - 基于Monaco Editor封装的React组件。 ![](https://img.shields.io/github/stars/jaywcjlove/react-monacoeditor.svg?style=social&label=Star)
+
+#### Markdown编辑器
+
+- [react-md-editor](https://github.com/uiwjs/react-md-editor) - 可预览的简单Markdown编辑器，使用React.js和TypeScript实现。 ![](https://img.shields.io/github/stars/uiwjs/react-md-editor.svg?style=social&label=Star)
+- [react-simplemde-editor](https://github.com/RIP21/react-simplemde-editor) - 基于[EasyMDE (the most fresh SimpleMDE fork)](https://github.com/Ionaru/easy-markdown-editor)封装的React组件. ![](https://img.shields.io/github/stars/RIP21/react-simplemde-editor.svg?style=social&label=Star)
+- [react-md-editor](https://github.com/JedWatson/react-md-editor) - Markdown编辑器。 ![](https://img.shields.io/github/stars/JedWatson/react-md-editor.svg?style=social&label=Star)
+- [react-markdown-editor](https://github.com/jrm2k6/react-markdown-editor) - 使用React/Reflux简单markdown编辑器。 ![](https://img.shields.io/github/stars/jrm2k6/react-markdown-editor.svg?style=social&label=Star)
+
+#### 图片编辑
+
+- [react-image-crop](https://github.com/DominicTobias/react-image-crop) - 响应式图像裁剪工具。 ![](https://img.shields.io/github/stars/DominicTobias/react-image-crop.svg?style=social&label=Star)
+- [react-avatar-editor](https://github.com/mosch/react-avatar-editor) - 类似Facebook的头像/个人资料图片组件。 ![](https://img.shields.io/github/stars/mosch/react-avatar-editor.svg?style=social&label=Star)
+- [react-easy-crop](https://github.com/ricardo-ch/react-easy-crop) - 通过简单的交互来裁剪/旋转图像/视频的组件。移动端触摸友好。 ![](https://img.shields.io/github/stars/ricardo-ch/react-easy-crop.svg?style=social&label=Star)
+- [react-image-cropper](https://github.com/jerryshew/react-image-cropper) - 图像裁剪。 ![](https://img.shields.io/github/stars/jerryshew/react-image-cropper.svg?style=social&label=Star)
+- [react-avatar-generator](https://github.com/JosephSmith127/react-avatar-generator) - 为用户头像生成有趣的万花筒。 ![](https://img.shields.io/github/stars/JosephSmith127/react-avatar-generator.svg?style=social&label=Star)
+
+## 开发工具
+
 ### 测试相关
 
 - [jest](https://github.com/facebook/jest) - 愉悦的JavaScript测试。 ![](https://img.shields.io/github/stars/facebook/jest.svg?style=social&label=Star)
