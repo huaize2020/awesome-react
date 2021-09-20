@@ -18,6 +18,7 @@ English | [简体中文](./README.md)
   - [Drag and Drop](#drag-and-drop)
   - [Form Components](#form-components)
     - [Date / Time picker](#date--time-picker)
+    - [Toggle](#toggle)
     - [Emoji picker](#emoji-picker)
     - [Rich Text Editor](#rich-text-editor)
     - [Code Editor](#code-editor)
@@ -146,6 +147,12 @@ English | [简体中文](./README.md)
 - [date-range-picker](https://github.com/almogtavor/date-range-picker) - A calendar component that supports date, range & ranges picks. ![](https://img.shields.io/github/stars/almogtavor/date-range-picker.svg?style=social&label=Star)
 - [react-simple-timefield](https://github.com/antonfisher/react-simple-timefield) - Simple time input field. ![](https://img.shields.io/github/stars/antonfisher/react-simple-timefield.svg?style=social&label=Star)
 - [react-timezone-select](https://github.com/ndom91/react-timezone-select) - Dynamic, succinct timezone select. Based on `react-select`. ![](https://img.shields.io/github/stars/ndom91/react-timezone-select.svg?style=social&label=Star)
+
+#### Toggle
+
+- [react-toggle](https://github.com/instructure-react/react-toggle) - An elegant, accessible toggle component for React. Also a glorified checkbox. ![](https://img.shields.io/github/stars/instructure-react/react-toggle.svg?style=social&label=Star)
+- [react-ios-switch](https://github.com/clari/react-ios-switch) - React switch component. ![](https://img.shields.io/github/stars/clari/react-ios-switch.svg?style=social&label=Star)
+- [react-triple-toggle](https://github.com/geobde/react-triple-toggle) - ⚛️ React multi toggle component. ![](https://img.shields.io/github/stars/geobde/react-triple-toggle.svg?style=social&label=Star)
 
 #### Emoji picker
 
