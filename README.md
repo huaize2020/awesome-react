@@ -18,6 +18,7 @@
   - [拖放](#拖放)
   - [表单组件](#表单组件)
     - [日期和时间选择器](#日期和时间选择器)
+    - [状态切换按钮](#状态切换按钮)
     - [表情符号选择器](#表情符号选择器)
     - [富文本编辑器](#富文本编辑器)
     - [代码编辑器](#代码编辑器)
@@ -146,6 +147,11 @@
 - [date-range-picker](https://github.com/almogtavor/date-range-picker) - 支持日期、范围和范围选择的日历组件。 ![](https://img.shields.io/github/stars/almogtavor/date-range-picker.svg?style=social&label=Star)
 - [react-simple-timefield](https://github.com/antonfisher/react-simple-timefield) - 简单的时间输入。 ![](https://img.shields.io/github/stars/antonfisher/react-simple-timefield.svg?style=social&label=Star)
 - [react-timezone-select](https://github.com/ndom91/react-timezone-select) - D动态、简洁的时区选择，基于`react-select`。 ![](https://img.shields.io/github/stars/ndom91/react-timezone-select.svg?style=social&label=Star)
+
+#### 状态切换按钮
+
+- [react-toggle](https://github.com/instructure-react/react-toggle) - 一个优雅的、可访问的 React切换组件。 还有一个美化的复选框。 ![](https://img.shields.io/github/stars/instructure-react/react-toggle.svg?style=social&label=Star)
+- [react-ios-switch](https://github.com/clari/react-ios-switch) - React切换组件。 ![](https://img.shields.io/github/stars/clari/react-ios-switch.svg?style=social&label=Star)
 
 #### 表情符号选择器
 
