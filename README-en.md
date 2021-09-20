@@ -152,7 +152,6 @@ English | [简体中文](./README.md)
 
 - [react-toggle](https://github.com/instructure-react/react-toggle) - An elegant, accessible toggle component for React. Also a glorified checkbox. ![](https://img.shields.io/github/stars/instructure-react/react-toggle.svg?style=social&label=Star)
 - [react-ios-switch](https://github.com/clari/react-ios-switch) - React switch component. ![](https://img.shields.io/github/stars/clari/react-ios-switch.svg?style=social&label=Star)
-- [react-triple-toggle](https://github.com/geobde/react-triple-toggle) - ⚛️ React multi toggle component. ![](https://img.shields.io/github/stars/geobde/react-triple-toggle.svg?style=social&label=Star)
 
 #### Emoji picker
 
