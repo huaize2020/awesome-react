@@ -18,6 +18,7 @@
   - [拖放](#拖放)
   - [可编辑数据网格/电子表格](#可编辑数据网格电子表格)
   - [表格](#表格)
+  - [查看/预览器](#查看预览器)
   - [表单组件](#表单组件)
     - [日期和时间选择器](#日期和时间选择器)
     - [状态切换按钮](#状态切换按钮)
@@ -149,6 +150,12 @@
 - [ka-table](https://github.com/komarovalexander/ka-table) - 可定制的表格组件，具有排序、过滤、分组、虚拟化、编辑等功能。 ![](https://img.shields.io/github/stars/komarovalexander/ka-table.svg?style=social&label=Star)
 - [sematable](https://github.com/sematext/sematable) - 基于redux/react的客户端排序、分页和文本过滤器。 ![](https://img.shields.io/github/stars/sematext/sematable.svg?style=social&label=Star)
 - [@progress/kendo-react-grid](https://github.com/telerik/kendo-react) - 强大的数据网格组件，具有 100 多种即用型功能，如分页、排序、导出到Excel等。 ![](https://img.shields.io/github/stars/telerik/kendo-react.svg?style=social&label=Star)
+
+### 查看/预览器
+
+- [react-markdown](https://github.com/rexxars/react-markdown) - 一个渲染Markdown的React组件。 ![](https://img.shields.io/github/stars/rexxars/react-markdown.svg?style=social&label=Star)
+- [react-pdf](https://github.com/wojtekmaj/react-pdf) - 实现在React应用中PDF在线预览。 ![](https://img.shields.io/github/stars/wojtekmaj/react-pdf.svg?style=social&label=Star)
+- [react-pdf-viewer](https://github.com/phuoc-ng/react-pdf-viewer) - 一个预览PDF文档的React组件。 ![](https://img.shields.io/github/stars/phuoc-ng/react-pdf-viewer.svg?style=social&label=Star)
 
 ### 表单组件
 
