@@ -18,6 +18,7 @@ English | [简体中文](./README.md)
   - [Drag and Drop](#drag-and-drop)
   - [Editable data grid / spreadsheet](#editable-data-grid--spreadsheet)
   - [Table](#table)
+  - [Viewer](#viewer)
   - [Form Components](#form-components)
     - [Date / Time picker](#date--time-picker)
     - [Toggle](#toggle)
@@ -149,6 +150,12 @@ English | [简体中文](./README.md)
 - [ka-table](https://github.com/komarovalexander/ka-table) - Customizable table component with sorting, filtering, grouping, virtualization, editing etc. ![](https://img.shields.io/github/stars/komarovalexander/ka-table.svg?style=social&label=Star)
 - [sematable](https://github.com/sematext/sematable) - Client side sorting, pagination, and text filter for redux/react based apps. ![](https://img.shields.io/github/stars/sematext/sematable.svg?style=social&label=Star)
 - [@progress/kendo-react-grid](https://github.com/telerik/kendo-react) - Powerful data grid component with 100+ ready-to-use features like paging, sorting, export to Excel, and more. ![](https://img.shields.io/github/stars/telerik/kendo-react.svg?style=social&label=Star)
+
+### Viewer
+
+- [react-markdown](https://github.com/rexxars/react-markdown) - Render Markdown as React components. ![](https://img.shields.io/github/stars/rexxars/react-markdown.svg?style=social&label=Star)
+- [react-pdf](https://github.com/wojtekmaj/react-pdf) - Display PDFs in your React app as easily as if they were images. ![](https://img.shields.io/github/stars/wojtekmaj/react-pdf.svg?style=social&label=Star)
+- [react-pdf-viewer](https://github.com/phuoc-ng/react-pdf-viewer) - A React component to view a PDF document. ![](https://img.shields.io/github/stars/phuoc-ng/react-pdf-viewer.svg?style=social&label=Star)
 
 ### Form Components
 
