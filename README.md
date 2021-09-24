@@ -155,7 +155,8 @@
 
 - [react-markdown](https://github.com/rexxars/react-markdown) - 一个渲染Markdown的React组件。 ![](https://img.shields.io/github/stars/rexxars/react-markdown.svg?style=social&label=Star)
 - [react-pdf](https://github.com/wojtekmaj/react-pdf) - 实现在React应用中PDF在线预览。 ![](https://img.shields.io/github/stars/wojtekmaj/react-pdf.svg?style=social&label=Star)
-- [react-pdf-viewer](https://github.com/phuoc-ng/react-pdf-viewer) - 一个预览PDF文档的React组件。 ![](https://img.shields.io/github/stars/phuoc-ng/react-pdf-viewer.svg?style=social&label=Star)
+- [react-json-tree](https://github.com/alexkuz/react-json-tree) - JSON预览组件，从redux-devtools提取出。![](https://img.shields.io/github/stars/alexkuz/react-json-tree.svg?style=social&label=Star)
+- [react-pdf-viewer](https://github.com/phuoc-ng/react-pdf-viewer) - 一个预览PDF文档的React组件。![](https://img.shields.io/github/stars/phuoc-ng/react-pdf-viewer.svg?style=social&label=Star)
 
 ### 表单组件
 
