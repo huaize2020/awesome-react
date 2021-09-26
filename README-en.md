@@ -27,6 +27,8 @@ English | [简体中文](./README.md)
     - [Code Editor](#code-editor)
     - [Markdown Editor](#markdown-editor)
     - [Image Editing](#image-editing)
+- [UI Animation](#ui-animation)
+  - [Parallax](#parallax)
 - [Dev Tools](#dev-tools)
   - [Test](#test)
 
@@ -225,6 +227,37 @@ English | [简体中文](./README.md)
 - [react-easy-crop](https://github.com/ricardo-ch/react-easy-crop) - Component to crop/rotate images/videos with easy interactions. Touch friendly. ![](https://img.shields.io/github/stars/ricardo-ch/react-easy-crop.svg?style=social&label=Star)
 - [react-image-cropper](https://github.com/jerryshew/react-image-cropper) - Image cropper. ![](https://img.shields.io/github/stars/jerryshew/react-image-cropper.svg?style=social&label=Star)
 - [react-avatar-generator](https://github.com/JosephSmith127/react-avatar-generator) - Generate fun kaleidoscope for user avatars. ![](https://img.shields.io/github/stars/JosephSmith127/react-avatar-generator.svg?style=social&label=Star)
+
+## UI Animation
+
+- [react-spring](https://github.com/react-spring/react-spring) - A spring physics based animation library. ![](https://img.shields.io/github/stars/react-spring/react-spring.svg?style=social&label=Star)
+- [react-motion](https://github.com/chenglou/react-motion) - A spring that solves your animation problems. ![](https://img.shields.io/github/stars/chenglou/react-motion.svg?style=social&label=Star)
+- [framer-motion](https://github.com/framer/motion) - An animation and gesture library. ![](https://img.shields.io/github/stars/framer/motion.svg?style=social&label=Star)
+- [react-flip-move](https://github.com/joshwcomeau/react-flip-move) - Effortless animation between DOM changes (eg. list reordering) using the FLIP technique. ![](https://img.shields.io/github/stars/joshwcomeau/react-flip-move.svg?style=social&label=Star)
+- [velocity-react](https://github.com/twitter-fabric/velocity-react) - Velocity.js wrapper. ![](https://img.shields.io/github/stars/twitter-fabric/velocity-react.svg?style=social&label=Star)
+- [react-animations](https://github.com/FormidableLabs/react-animations) - A collection of animations for inline style libraries, React-animations implements all animations from animate.css. ![](https://img.shields.io/github/stars/FormidableLabs/react-animations.svg?style=social&label=Star)
+- [react-router-transition](https://github.com/maisano/react-router-transition) - Transitions built for react-router, powered by react-motion. ![](https://img.shields.io/github/stars/maisano/react-router-transition.svg?style=social&label=Star)
+- [react-tsparticles](https://github.com/matteobruni/tsparticles/blob/master/components/react/README.md) - A lightweight component to easily create interactive particles animations. ![](https://img.shields.io/github/stars/matteobruni/tsparticles.svg?style=social&label=Star)
+- [react-reveal](https://github.com/rnosov/react-reveal) - Easily add reveal on scroll animations to your React app. ![](https://img.shields.io/github/stars/rnosov/react-reveal.svg?style=social&label=Star)
+- [react-anime](https://github.com/stelatech/react-anime) - A super easy animation library. ![](https://img.shields.io/github/stars/stelatech/react-anime.svg?style=social&label=Star)
+- [react-gsap-enhancer](https://github.com/azazdeaz/react-gsap-enhancer) - Use the full power of React and GSAP together. ![](https://img.shields.io/github/stars/azazdeaz/react-gsap-enhancer.svg?style=social&label=Star)
+- [data-driven-motion](https://github.com/tkh44/data-driven-motion) - Easily animate your data. ![](https://img.shields.io/github/stars/tkh44/data-driven-motion.svg?style=social&label=Star)
+- [gooey-react](https://github.com/luukdv/gooey-react) - The gooey effect for React, used for shape blobbing / metaballs. ![](https://img.shields.io/github/stars/luukdv/gooey-react.svg?style=social&label=Star)
+- [react-particles-bg](https://github.com/lindelof/particles-bg) - Particles backgrounds. ![](https://img.shields.io/github/stars/lindelof/particles-bg.svg?style=social&label=Star)
+- [react-mt-svg-lines](https://github.com/moarwick/react-mt-svg-lines) - Wrapper to animate the line stroke in SVGs. ![](https://img.shields.io/github/stars/moarwick/react-mt-svg-lines.svg?style=social&label=Star)
+- [react-spark-scroll](https://github.com/gilbox/react-spark-scroll) - Scroll-based actions and animations for react. ![](https://img.shields.io/github/stars/gilbox/react-spark-scroll.svg?style=social&label=Star)
+- [react-track](https://github.com/gilbox/react-track) - Track the position of DOM elements. Create cool animations. ![](https://img.shields.io/github/stars/gilbox/react-track.svg?style=social&label=Star)
+- [tween-one](https://github.com/react-component/tween-one) - Animate One React Element.  ![](https://img.shields.io/github/stars/react-component/tween-one.svg?style=social&label=Star)
+- [react-web-animation](https://github.com/bringking/react-web-animation) - React components for the Web Animations API -. ![](https://img.shields.io/github/stars/bringking/react-web-animation.svg?style=social&label=Star)
+- [react-transitive-number](https://github.com/Lapple/react-transitive-number) - Apply transition effect to numeric strings, a la old Groupon timers. ![](https://img.shields.io/github/stars/Lapple/react-transitive-number.svg?style=social&label=Star)
+- [react-tweenful](https://github.com/teodosii/react-tweenful) -  Animation engine that lets you animate DOM nodes, mounting, unmounting, child changes/transitions. ![](https://img.shields.io/github/stars/teodosii/react-tweenful.svg?style=social&label=Star)
+- [auto-size-transition](https://github.com/DualWield/auto-size-transition) - A component that scale dynamically according to the internal children size.  ![](https://img.shields.io/github/stars/DualWield/auto-size-transition.svg?style=social&label=Star)
+
+### Parallax
+
+- [react-parallax](https://github.com/rrutsche/react-parallax) - A React Component for parallax effect. ![](https://img.shields.io/github/stars/rrutsche/react-parallax.svg?style=social&label=Star)
+- [react-parallax-tilt](https://github.com/mkosir/react-parallax-tilt) - Easily apply parallax tilt hover effect on components. ![](https://img.shields.io/github/stars/mkosir/react-parallax-tilt.svg?style=social&label=Star)
+- [react-parallax-component](https://github.com/keske/react-parallax-component) - Easiest way to add scroll parallax effect on the component. ![](https://img.shields.io/github/stars/keske/react-parallax-component.svg?style=social&label=Star)
 
 ## Dev Tools
 
