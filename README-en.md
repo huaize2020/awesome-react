@@ -19,6 +19,7 @@ English | [简体中文](./README.md)
   - [Editable data grid / spreadsheet](#editable-data-grid--spreadsheet)
   - [Table](#table)
   - [Viewer](#viewer)
+  - [Carousel](#carousel)
   - [Form Components](#form-components)
     - [Date / Time picker](#date--time-picker)
     - [Toggle](#toggle)
@@ -159,6 +160,17 @@ English | [简体中文](./README.md)
 - [react-pdf](https://github.com/wojtekmaj/react-pdf) - Display PDFs in your React app as easily as if they were images. ![](https://img.shields.io/github/stars/wojtekmaj/react-pdf.svg?style=social&label=Star)
 - [react-json-tree](https://github.com/alexkuz/react-json-tree) - React JSON Viewer Component, Extracted from redux-devtools.![](https://img.shields.io/github/stars/alexkuz/react-json-tree.svg?style=social&label=Star)
 - [react-pdf-viewer](https://github.com/phuoc-ng/react-pdf-viewer) - A React component to view a PDF document. ![](https://img.shields.io/github/stars/phuoc-ng/react-pdf-viewer.svg?style=social&label=Star)
+
+### Carousel
+
+- [react-slick](https://github.com/akiran/react-slick) - React carousel component. ![](https://img.shields.io/github/stars/akiran/react-slick.svg?style=social&label=Star)
+- [keen-slider](https://github.com/rcbyr/keen-slider) - Performant carousel/slider with native touch/swipe behavior. ![](https://img.shields.io/github/stars/rcbyr/keen-slider.svg?style=social&label=Star)
+- [react-awesome-slider](https://github.com/rcaferati/react-awesome-slider) - 3D animated 60fps media and content slider/carousel. ![](https://img.shields.io/github/stars/rcaferati/react-awesome-slider.svg?style=social&label=Star)
+- [react-responsive-carousel](https://github.com/leandrowd/react-responsive-carousel) - React.js Responsive Carousel (with Swipe). ![](https://img.shields.io/github/stars/leandrowd/react-responsive-carousel.svg?style=social&label=Star)
+- [@egjs/react-flicking](https://github.com/naver/egjs-flicking/blob/master/packages/react-flicking/) - It's reliable, flexible and extendable carousel. ![](https://img.shields.io/github/stars/naver/egjs-flicking.svg?style=social&label=Star)
+- [pure-react-carousel](https://github.com/express-labs/pure-react-carousel) - Built from scratch and not highly opinionated. ![](https://img.shields.io/github/stars/express-labs/pure-react-carousel.svg?style=social&label=Star)
+- [react-id-swiper](https://github.com/kidjp85/react-id-swiper) - A library to use idangerous Swiper as a ReactJs component. ![](https://img.shields.io/github/stars/phuoc-ng/react-pdf-viewer.svg?style=social&label=Star)
+- [react-instagram-zoom-slider](https://github.com/skozer/react-instagram-zoom-slider) - A slider component with pinch to zoom capabilities inspired by Instagram. ![](https://img.shields.io/github/stars/skozer/react-instagram-zoom-slider.svg?style=social&label=Star)
 
 ### Form Components
 
