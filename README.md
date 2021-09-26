@@ -27,6 +27,8 @@
     - [代码编辑器](#代码编辑器)
     - [Markdown编辑器](#markdown编辑器)
     - [图片编辑](#图片编辑)
+- [UI动画](#ui动画)
+  - [视觉差](#视觉差)
 - [开发工具](#开发工具)
   - [测试相关](#测试相关)
 
@@ -225,6 +227,37 @@
 - [react-easy-crop](https://github.com/ricardo-ch/react-easy-crop) - 通过简单的交互来裁剪/旋转图像/视频的组件。移动端触摸友好。 ![](https://img.shields.io/github/stars/ricardo-ch/react-easy-crop.svg?style=social&label=Star)
 - [react-image-cropper](https://github.com/jerryshew/react-image-cropper) - 图像裁剪。 ![](https://img.shields.io/github/stars/jerryshew/react-image-cropper.svg?style=social&label=Star)
 - [react-avatar-generator](https://github.com/JosephSmith127/react-avatar-generator) - 为用户头像生成有趣的万花筒。 ![](https://img.shields.io/github/stars/JosephSmith127/react-avatar-generator.svg?style=social&label=Star)
+
+## UI动画
+
+- [react-spring](https://github.com/react-spring/react-spring) - 基于弹簧物理的动画库。 ![](https://img.shields.io/github/stars/react-spring/react-spring.svg?style=social&label=Star)
+- [react-motion](https://github.com/chenglou/react-motion) - 一个解决您的动画问题的弹簧。 ![](https://img.shields.io/github/stars/chenglou/react-motion.svg?style=social&label=Star)
+- [framer-motion](https://github.com/framer/motion) - 动画和手势库。 ![](https://img.shields.io/github/stars/framer/motion.svg?style=social&label=Star)
+- [react-flip-move](https://github.com/joshwcomeau/react-flip-move) - 使用FLIP技术在DOM更改的时候（例如列表重新排序）轻松实现动画。Effortless animation between DOM changes (eg. list reordering) using the FLIP technique. ![](https://img.shields.io/github/stars/joshwcomeau/react-flip-move.svg?style=social&label=Star)
+- [velocity-react](https://github.com/twitter-fabric/velocity-react) - 基于Velocity.js的封装。 ![](https://img.shields.io/github/stars/twitter-fabric/velocity-react.svg?style=social&label=Star)
+- [react-animations](https://github.com/FormidableLabs/react-animations) - 内联样式库的动画集合，React-animations实现了animate.css中的所有动画。 ![](https://img.shields.io/github/stars/FormidableLabs/react-animations.svg?style=social&label=Star)
+- [react-router-transition](https://github.com/maisano/react-router-transition) - 为react-router构建的变换库，基于react-motion。 ![](https://img.shields.io/github/stars/maisano/react-router-transition.svg?style=social&label=Star)
+- [react-tsparticles](https://github.com/matteobruni/tsparticles/blob/master/components/react/README.md) - 轻量级组件，可轻松创建交互式粒子动画。 ![](https://img.shields.io/github/stars/matteobruni/tsparticles.svg?style=social&label=Star)
+- [react-reveal](https://github.com/rnosov/react-reveal) - 轻松地添加滚动动画到您的React应用程序 ![](https://img.shields.io/github/stars/rnosov/react-reveal.svg?style=social&label=Star)
+- [react-anime](https://github.com/stelatech/react-anime) - 一个超级简单的动画库。 ![](https://img.shields.io/github/stars/stelatech/react-anime.svg?style=social&label=Star)
+- [react-gsap-enhancer](https://github.com/azazdeaz/react-gsap-enhancer) - 使用React和GSAP的全部功能。 ![](https://img.shields.io/github/stars/azazdeaz/react-gsap-enhancer.svg?style=social&label=Star)
+- [data-driven-motion](https://github.com/tkh44/data-driven-motion) - 轻松为您的数据制作动画。 ![](https://img.shields.io/github/stars/tkh44/data-driven-motion.svg?style=social&label=Star)
+- [gooey-react](https://github.com/luukdv/gooey-react) - React的粘性效果，用于形状斑点/元球。 ![](https://img.shields.io/github/stars/luukdv/gooey-react.svg?style=social&label=Star)
+- [react-particles-bg](https://github.com/lindelof/particles-bg) - 粒子背景。 ![](https://img.shields.io/github/stars/lindelof/particles-bg.svg?style=social&label=Star)
+- [react-mt-svg-lines](https://github.com/moarwick/react-mt-svg-lines) - SVG线条描边动画封装。 ![](https://img.shields.io/github/stars/moarwick/react-mt-svg-lines.svg?style=social&label=Star)
+- [react-spark-scroll](https://github.com/gilbox/react-spark-scroll) - 用于React的基于滚动的动作和动画。 ![](https://img.shields.io/github/stars/gilbox/react-spark-scroll.svg?style=social&label=Star)
+- [react-track](https://github.com/gilbox/react-track) - 跟踪DOM元素的位置，创建很酷的动画。 ![](https://img.shields.io/github/stars/gilbox/react-track.svg?style=social&label=Star)
+- [tween-one](https://github.com/react-component/tween-one) - 让一个React元素动画。 ![](https://img.shields.io/github/stars/react-component/tween-one.svg?style=social&label=Star)
+- [react-web-animation](https://github.com/bringking/react-web-animation) - 用于Web动画API的React组件. ![](https://img.shields.io/github/stars/bringking/react-web-animation.svg?style=social&label=Star)
+- [react-transitive-number](https://github.com/Lapple/react-transitive-number) - 将过渡效果应用于数字字符串，就像旧的 Groupon 计时器。 ![](https://img.shields.io/github/stars/Lapple/react-transitive-number.svg?style=social&label=Star)
+- [react-tweenful](https://github.com/teodosii/react-tweenful) - 动画引擎，可让您对DOM节点、挂载、卸载、子元素更改/转换进行动画处理。 ![](https://img.shields.io/github/stars/teodosii/react-tweenful.svg?style=social&label=Star)
+- [auto-size-transition](https://github.com/DualWield/auto-size-transition) - 尺寸大小可以随着内容变化而动态变化。 ![](https://img.shields.io/github/stars/DualWield/auto-size-transition.svg?style=social&label=Star)
+
+### 视觉差
+
+- [react-parallax](https://github.com/rrutsche/react-parallax) - 视觉差效果。 ![](https://img.shields.io/github/stars/rrutsche/react-parallax.svg?style=social&label=Star)
+- [react-parallax-tilt](https://github.com/mkosir/react-parallax-tilt) - 轻松在组件上应用视差倾斜悬停效果。Easily apply parallax tilt hover effect on components. ![](https://img.shields.io/github/stars/mkosir/react-parallax-tilt.svg?style=social&label=Star)
+- [react-parallax-component](https://github.com/keske/react-parallax-component) - 在组件上添加滚动视差效果的最简单方法。 ![](https://img.shields.io/github/stars/keske/react-parallax-component.svg?style=social&label=Star)
 
 ## 开发工具
 
