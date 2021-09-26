@@ -19,6 +19,7 @@
   - [可编辑数据网格/电子表格](#可编辑数据网格电子表格)
   - [表格](#表格)
   - [查看/预览器](#查看预览器)
+  - [轮播组件](#轮播组件)
   - [表单组件](#表单组件)
     - [日期和时间选择器](#日期和时间选择器)
     - [状态切换按钮](#状态切换按钮)
@@ -160,6 +161,17 @@
 - [react-json-tree](https://github.com/alexkuz/react-json-tree) - JSON预览组件，从redux-devtools提取出。![](https://img.shields.io/github/stars/alexkuz/react-json-tree.svg?style=social&label=Star)
 - [react-pdf-viewer](https://github.com/phuoc-ng/react-pdf-viewer) - 一个预览PDF文档的React组件。![](https://img.shields.io/github/stars/phuoc-ng/react-pdf-viewer.svg?style=social&label=Star)
 
+### 轮播组件
+
+- [react-slick](https://github.com/akiran/react-slick) - React轮播组件。 ![](https://img.shields.io/github/stars/akiran/react-slick.svg?style=social&label=Star)
+- [keen-slider](https://github.com/rcbyr/keen-slider) - 具有原生触摸/滑动行为的高性能轮播/滑块。 ![](https://img.shields.io/github/stars/rcbyr/keen-slider.svg?style=social&label=Star)
+- [react-awesome-slider](https://github.com/rcaferati/react-awesome-slider) - 3D animated 60fps media and content slider/carousel. ![](https://img.shields.io/github/stars/rcaferati/react-awesome-slider.svg?style=social&label=Star)
+- [react-responsive-carousel](https://github.com/leandrowd/react-responsive-carousel) - 响应式的可滑动轮播组件。 ![](https://img.shields.io/github/stars/leandrowd/react-responsive-carousel.svg?style=social&label=Star)
+- [@egjs/react-flicking](https://github.com/naver/egjs-flicking/blob/master/packages/react-flicking/) - 它可靠、灵活且可扩展的轮播组件。 ![](https://img.shields.io/github/stars/naver/egjs-flicking.svg?style=social&label=Star)
+- [pure-react-carousel](https://github.com/express-labs/pure-react-carousel) - 从头开始构建，并不固执己见。 ![](https://img.shields.io/github/stars/express-labs/pure-react-carousel.svg?style=social&label=Star)
+- [react-id-swiper](https://github.com/kidjp85/react-id-swiper) - 使用危险的 Swiper 作为 ReactJs 组件的库。 ![](https://img.shields.io/github/stars/phuoc-ng/react-pdf-viewer.svg?style=social&label=Star)
+- [react-instagram-zoom-slider](https://github.com/skozer/react-instagram-zoom-slider) - 受 Instagram启发的具有捏合缩放功能的滑块组件。 ![](https://img.shields.io/github/stars/skozer/react-instagram-zoom-slider.svg?style=social&label=Star)
+
 ### 表单组件
 
 #### 日期和时间选择器
@@ -233,7 +245,7 @@
 - [react-spring](https://github.com/react-spring/react-spring) - 基于弹簧物理的动画库。 ![](https://img.shields.io/github/stars/react-spring/react-spring.svg?style=social&label=Star)
 - [react-motion](https://github.com/chenglou/react-motion) - 一个解决您的动画问题的弹簧。 ![](https://img.shields.io/github/stars/chenglou/react-motion.svg?style=social&label=Star)
 - [framer-motion](https://github.com/framer/motion) - 动画和手势库。 ![](https://img.shields.io/github/stars/framer/motion.svg?style=social&label=Star)
-- [react-flip-move](https://github.com/joshwcomeau/react-flip-move) - 使用FLIP技术在DOM更改的时候（例如列表重新排序）轻松实现动画。Effortless animation between DOM changes (eg. list reordering) using the FLIP technique. ![](https://img.shields.io/github/stars/joshwcomeau/react-flip-move.svg?style=social&label=Star)
+- [react-flip-move](https://github.com/joshwcomeau/react-flip-move) - 使用FLIP技术在DOM更改的时候（例如列表重新排序）轻松实现动画。 ![](https://img.shields.io/github/stars/joshwcomeau/react-flip-move.svg?style=social&label=Star)
 - [velocity-react](https://github.com/twitter-fabric/velocity-react) - 基于Velocity.js的封装。 ![](https://img.shields.io/github/stars/twitter-fabric/velocity-react.svg?style=social&label=Star)
 - [react-animations](https://github.com/FormidableLabs/react-animations) - 内联样式库的动画集合，React-animations实现了animate.css中的所有动画。 ![](https://img.shields.io/github/stars/FormidableLabs/react-animations.svg?style=social&label=Star)
 - [react-router-transition](https://github.com/maisano/react-router-transition) - 为react-router构建的变换库，基于react-motion。 ![](https://img.shields.io/github/stars/maisano/react-router-transition.svg?style=social&label=Star)
