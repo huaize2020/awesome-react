@@ -20,6 +20,9 @@ English | [简体中文](./README.md)
   - [Table](#table)
   - [Viewer](#viewer)
   - [Carousel](#carousel)
+  - [Data Visualization](#data-visualization)
+    - [Charts](#charts)
+    - [Graphs](#graphs)
   - [Form Components](#form-components)
     - [Date / Time picker](#date--time-picker)
     - [Toggle](#toggle)
@@ -171,6 +174,35 @@ English | [简体中文](./README.md)
 - [pure-react-carousel](https://github.com/express-labs/pure-react-carousel) - Built from scratch and not highly opinionated. ![](https://img.shields.io/github/stars/express-labs/pure-react-carousel.svg?style=social&label=Star)
 - [react-id-swiper](https://github.com/kidjp85/react-id-swiper) - A library to use idangerous Swiper as a ReactJs component. ![](https://img.shields.io/github/stars/phuoc-ng/react-pdf-viewer.svg?style=social&label=Star)
 - [react-instagram-zoom-slider](https://github.com/skozer/react-instagram-zoom-slider) - A slider component with pinch to zoom capabilities inspired by Instagram. ![](https://img.shields.io/github/stars/skozer/react-instagram-zoom-slider.svg?style=social&label=Star)
+
+### Data Visualization
+
+#### Charts
+
+- [recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3. ![](https://img.shields.io/github/stars/recharts/recharts.svg?style=social&label=Star)
+- [visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components.  ![](https://img.shields.io/github/stars/airbnb/visx.svg?style=social&label=Star)
+- [victory](https://github.com/FormidableLabs/victory) - Data viz for React. ![](https://img.shields.io/github/stars/FormidableLabs/victory.svg?style=social&label=Star)
+- [react-vis](https://github.com/uber/react-vis) - Data visualization library based on React and d3. ![](https://img.shields.io/github/stars/uber/react-vis.svg?style=social&label=Star)
+- [BizCharts](https://github.com/alibaba/BizCharts) - Powerful data visualization library based on G2 and React. ![](https://img.shields.io/github/stars/alibaba/BizCharts.svg?style=social&label=Star)
+- [react-chartjs-2](https://github.com/jerairrest/react-chartjs-2) - Common react charting components using Chart.js 2.0. ![](https://img.shields.io/github/stars/jerairrest/react-chartjs-2.svg?style=social&label=Star)
+- [react-sparklines](https://github.com/borisyankov/react-sparklines) - Beautiful and expressive Sparklines React component. ![](https://img.shields.io/github/stars/borisyankov/react-sparklines.svg?style=social&label=Star)
+- [semiotic](https://github.com/nteract/semiotic) - Semiotic is a data visualization framework for React. ![](https://img.shields.io/github/stars/nteract/semiotic.svg?style=social&label=Star)
+- [react-d3-components](https://github.com/codesuki/react-d3-components) - D3 Components for React. ![](https://img.shields.io/github/stars/codesuki/react-d3-components.svg?style=social&label=Star)
+- [react-dazzle](https://github.com/Raathigesh/Dazzle) - Dashboards made easy in React JS. ![](https://img.shields.io/github/stars/Raathigesh/Dazzle.svg?style=social&label=Star)
+- [react-highcharts](https://github.com/kirjs/react-highcharts) - React-highcharts. ![](https://img.shields.io/github/stars/kirjs/react-highcharts.svg?style=social&label=Star)
+- [react-google-charts](https://github.com/RakanNimer/react-google-charts) - React-google-charts React component. ![](https://img.shields.io/github/stars/RakanNimer/react-google-charts.svg?style=social&label=Star)
+- [react-timeseries-charts](https://github.com/esnet/react-timeseries-charts) - Declarative timeseries charts. ![](https://img.shields.io/github/stars/esnet/react-timeseries-charts.svg?style=social&label=Star)
+- [chartify](https://github.com/kirillstepkin/chartify) - React.js plugin for building animated draggable and customizable charts. ![](https://img.shields.io/github/stars/kirillstepkin/chartify.svg?style=social&label=Star)
+- [react-chartist](https://github.com/fraserxu/react-chartist) - React component for Chartist.js. ![](https://img.shields.io/github/stars/fraserxu/react-chartist.svg?style=social&label=Star)
+- [rumble-charts](https://github.com/rumble-charts/rumble-charts) - React components for building composable and flexible charts. ![](https://img.shields.io/github/stars/rumble-charts/rumble-charts.svg?style=social&label=Star)
+- [ej2-react-charts](https://github.com/syncfusion/ej2-react-ui-components/tree/master/components/charts) - Beautiful and interactive charts & graphs for react. ![](https://img.shields.io/github/stars/syncfusion/ej2-react-ui-components.svg?style=social&label=Star)
+- [react-charty](https://github.com/99ff00/react-charty) - Small but powerful interactive data viz with multiple chart types, animations, zooming, theming. ![](https://img.shields.io/github/stars/99ff00/react-charty.svg?style=social&label=Star)
+- [react-muze](https://github.com/chartshq/react-muze) - React wrapper for [muze](https://muzejs.org/)(free data visualization library for creating exploratory data visualizations in browser, using WebAssembly) ![](https://img.shields.io/github/stars/chartshq/react-muze.svg?style=social&label=Star)
+
+#### Graphs
+
+- [graphin](https://github.com/antvis/graphin) - A React toolkit for graph visualization based on G6. ![](https://img.shields.io/github/stars/antvis/graphin.svg?style=social&label=Star)
+- [react-sigmajs](https://github.com/dunnock/react-sigma) - Lightweight but powerful library for drawing network graphs built on top of SigmaJS. ![](https://img.shields.io/github/stars/dunnock/react-sigma.svg?style=social&label=Star)
 
 ### Form Components
 
