@@ -20,6 +20,9 @@
   - [表格](#表格)
   - [查看/预览器](#查看预览器)
   - [轮播组件](#轮播组件)
+  - [数据可视化](#数据可视化)
+    - [图表](#图表)
+    - [关系图](#关系图)
   - [表单组件](#表单组件)
     - [日期和时间选择器](#日期和时间选择器)
     - [状态切换按钮](#状态切换按钮)
@@ -170,7 +173,36 @@
 - [@egjs/react-flicking](https://github.com/naver/egjs-flicking/blob/master/packages/react-flicking/) - 它可靠、灵活且可扩展的轮播组件。 ![](https://img.shields.io/github/stars/naver/egjs-flicking.svg?style=social&label=Star)
 - [pure-react-carousel](https://github.com/express-labs/pure-react-carousel) - 从头开始构建，并不固执己见。 ![](https://img.shields.io/github/stars/express-labs/pure-react-carousel.svg?style=social&label=Star)
 - [react-id-swiper](https://github.com/kidjp85/react-id-swiper) - 使用危险的 Swiper 作为 ReactJs 组件的库。 ![](https://img.shields.io/github/stars/phuoc-ng/react-pdf-viewer.svg?style=social&label=Star)
-- [react-instagram-zoom-slider](https://github.com/skozer/react-instagram-zoom-slider) - 受 Instagram启发的具有捏合缩放功能的滑块组件。 ![](https://img.shields.io/github/stars/skozer/react-instagram-zoom-slider.svg?style=social&label=Star)
+- [react-instagram-zoom-slider](https://github.com/skozer/react-instagram-zoom-slider) - 受Instagram启发的具有捏合缩放功能的滑块组件。 ![](https://img.shields.io/github/stars/skozer/react-instagram-zoom-slider.svg?style=social&label=Star)
+
+### 数据可视化
+
+#### 图表
+
+- [recharts](https://github.com/recharts/recharts) - 使用React和D3重新定义图表库。 ![](https://img.shields.io/github/stars/recharts/recharts.svg?style=social&label=Star)
+- [visx](https://github.com/airbnb/visx) - 🐯 visx | 可视化组件。 ![](https://img.shields.io/github/stars/airbnb/visx.svg?style=social&label=Star)
+- [victory](https://github.com/FormidableLabs/victory) - 数据可视化。 ![](https://img.shields.io/github/stars/FormidableLabs/victory.svg?style=social&label=Star)
+- [react-vis](https://github.com/uber/react-vis) - 基于D3和React的数据可视化。 ![](https://img.shields.io/github/stars/uber/react-vis.svg?style=social&label=Star)
+- [BizCharts](https://github.com/alibaba/BizCharts) - 使用G2和React强大的数据可视化库。 ![](https://img.shields.io/github/stars/alibaba/BizCharts.svg?style=social&label=Star)
+- [react-chartjs-2](https://github.com/jerairrest/react-chartjs-2) - 使用Chart.js 2.0的通用React图表组件。 ![](https://img.shields.io/github/stars/jerairrest/react-chartjs-2.svg?style=social&label=Star)
+- [react-sparklines](https://github.com/borisyankov/react-sparklines) - 美丽而富有表现力的React微线图组件。 ![](https://img.shields.io/github/stars/borisyankov/react-sparklines.svg?style=social&label=Star)
+- [semiotic](https://github.com/nteract/semiotic) - Semiotic是一个React数据可视化框架。 ![](https://img.shields.io/github/stars/nteract/semiotic.svg?style=social&label=Star)
+- [react-d3-components](https://github.com/codesuki/react-d3-components) - React D3组件。 ![](https://img.shields.io/github/stars/codesuki/react-d3-components.svg?style=social&label=Star)
+- [react-dazzle](https://github.com/Raathigesh/Dazzle) - 使用React轻松制作仪表盘。 ![](https://img.shields.io/github/stars/Raathigesh/Dazzle.svg?style=social&label=Star)
+- [react-highcharts](https://github.com/kirjs/react-highcharts) - React-highcharts. ![](https://img.shields.io/github/stars/kirjs/react-highcharts.svg?style=social&label=Star)
+- [react-google-charts](https://github.com/RakanNimer/react-google-charts) - React-google-charts React组件。 ![](https://img.shields.io/github/stars/RakanNimer/react-google-charts.svg?style=social&label=Star)
+- [react-timeseries-charts](https://github.com/esnet/react-timeseries-charts) - 时间序列图表。 ![](https://img.shields.io/github/stars/esnet/react-timeseries-charts.svg?style=social&label=Star)
+- [chartify](https://github.com/kirillstepkin/chartify) - React.js 插件，用于构建可拖动和可自定义的动画图表。 ![](https://img.shields.io/github/stars/kirillstepkin/chartify.svg?style=social&label=Star)
+- [react-chartist](https://github.com/fraserxu/react-chartist) - 使用Chartist.js的React组件。 ![](https://img.shields.io/github/stars/fraserxu/react-chartist.svg?style=social&label=Star)
+- [rumble-charts](https://github.com/rumble-charts/rumble-charts) - 用于构建可组合且灵活的图表的 React 组件。 ![](https://img.shields.io/github/stars/rumble-charts/rumble-charts.svg?style=social&label=Star)
+- [ej2-react-charts](https://github.com/syncfusion/ej2-react-ui-components/tree/master/components/charts) - 精美交互式图表和图。 ![](https://img.shields.io/github/stars/syncfusion/ej2-react-ui-components.svg?style=social&label=Star)
+- [react-charty](https://github.com/99ff00/react-charty) - 小巧但强大的交互式数据可视化，具有多种图表类型、动画、缩放、主题。 ![](https://img.shields.io/github/stars/99ff00/react-charty.svg?style=social&label=Star)
+- [react-muze](https://github.com/chartshq/react-muze) - 基于[muze](https://muzejs.org/)的封装。(muze是使用 WebAssembly 在浏览器中创建探索性数据可视化的免费数据可视化库) ![](https://img.shields.io/github/stars/chartshq/react-muze.svg?style=social&label=Star)
+
+#### 关系图
+
+- [graphin](https://github.com/antvis/graphin) - 基于G6的React图可视化工具集。 ![](https://img.shields.io/github/stars/antvis/graphin.svg?style=social&label=Star)
+- [react-sigmajs](https://github.com/dunnock/react-sigma) - 基于SigmaJS，轻量但强大的绘制网络关系图。 ![](https://img.shields.io/github/stars/dunnock/react-sigma.svg?style=social&label=Star)
 
 ### 表单组件
 
