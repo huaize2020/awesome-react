@@ -12,6 +12,8 @@
   - [布局](#布局)
     - [flexbox实现](#flexbox实现)
   - [提示工具](#提示工具)
+  - [通知提醒框组件](#通知提醒框组件)
+  - [对话框/模态弹窗/警告提示组件](#对话框模态弹窗警告提示组件)
   - [导航菜单](#导航菜单)
   - [粘性吸顶](#粘性吸顶)
   - [标签页](#标签页)
@@ -108,6 +110,26 @@
 
 - [react-tooltip](https://github.com/wwayne/react-tooltip) - React提示工具组件。 ![](https://img.shields.io/github/stars/wwayne/react-tooltip.svg?style=social&label=Star)
 - [react-popper](https://github.com/popperjs/react-popper) - 🍿⚛官方 React 库，使用定位库 Popper。 ![](https://img.shields.io/github/stars/popperjs/react-popper.svg?style=social&label=Star)
+
+### 通知提醒框组件
+
+- [react-toastify](https://github.com/fkhadra/react-toastify) - 🎉 React-Toastify允许你轻松的添加通知。![](https://img.shields.io/github/stars/fkhadra/react-toastify.svg?style=social&label=Star)
+- [react-hot-toast](https://github.com/timolins/react-hot-toast) - 好用的通知提示组件，默认情况下轻量，可定制和美观。 ![](https://img.shields.io/github/stars/timolins/react-hot-toast.svg?style=social&label=Star)
+- [notistack](https://github.com/iamhosseindhv/notistack) - 高度可定制的通知组件（toasts），可以堆叠在彼此的顶部。 ![](https://img.shields.io/github/stars/iamhosseindhv/notistack.svg?style=social&label=Star)
+- [react-toast-notifications](https://github.com/jossmac/react-toast-notifications) - 一个 React & Redux 的通知系统。 ![](https://img.shields.io/github/stars/jossmac/react-toast-notifications.svg?style=social&label=Star)
+- [react-notifications-component](https://github.com/teodosii/react-notifications-component) - 高度可定制和易用的通知提醒组件。 ![](https://img.shields.io/github/stars/teodosii/react-notifications-component.svg?style=social&label=Star)
+- [cogo-toast](https://github.com/Cogoport/cogo-toast) - 美观，零配置的Toast消息组件。~4kb gzip (包括样式和图标) ![](https://img.shields.io/github/stars/Cogoport/cogo-toast.svg?style=social&label=Star)
+- [simple-react-notifications](https://github.com/alexpermyakov/simple-react-notifications) - 极小的通知库(gzip后仅1kb). ![](https://img.shields.io/github/stars/alexpermyakov/simple-react-notifications.svg?style=social&label=Star)
+- [react-toast](https://github.com/moharnadreza/react-toast) - 小巧的toast通知组件。![](https://img.shields.io/github/stars/moharnadreza/react-toast.svg?style=social&label=Star)
+
+### 对话框/模态弹窗/警告提示组件
+
+- [react-modal](https://github.com/reactjs/react-modal) - 可访问的模态对话框组件。 ![](https://img.shields.io/github/stars/reactjs/react-modal.svg?style=social&label=Star)
+- [react-aria-modal](https://github.com/davidtheclark/react-aria-modal) - 一个完全可访问且灵活的 React 模态对话框，根据 WAI-ARIA 最佳实践构建的。 ![](https://img.shields.io/github/stars/davidtheclark/react-aria-modal.svg?style=social&label=Star)
+- [react-skylight](https://github.com/marcio/react-skylight) - 一个模态弹窗和对话框组件。 ![](https://img.shields.io/github/stars/marcio/react-skylight.svg?style=social&label=Star)
+- [sweetalert2-react-content](https://github.com/sweetalert2/sweetalert2-react-content) - 官方 SweetAlert2 的增强，添加了对 React 元素作为内容的支持。 ![](https://img.shields.io/github/stars/sweetalert2/sweetalert2-react-content.svg?style=social&label=Star)
+- [reoverlay](https://github.com/hiradary/reoverlay) - 一个管理模态对话框的方案。 ![](https://img.shields.io/github/stars/hiradary/reoverlay.svg?style=social&label=Star)
+- [reboron](https://github.com/bold-commerce/reboron) - 一组对话框动画。 ![](https://img.shields.io/github/stars/bold-commerce/reboron.svg?style=social&label=Star)
 
 ### 导航菜单
 
