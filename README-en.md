@@ -12,6 +12,8 @@ English | [简体中文](./README.md)
   - [Layout](#layout)
     - [flexbox implementation](#flexbox-implementation)
   - [Tooltip](#tooltip)
+  - [Notification](#notification)
+  - [Dialog/Modal/Alert](#dialogmodalalert)
   - [Menu](#menu)
   - [Sticky](#sticky)
   - [Tabs](#tabs)
@@ -108,6 +110,26 @@ English | [简体中文](./README.md)
 
 - [react-tooltip](https://github.com/wwayne/react-tooltip) - React tooltip component. ![](https://img.shields.io/github/stars/wwayne/react-tooltip.svg?style=social&label=Star)
 - [react-popper](https://github.com/popperjs/react-popper) - 🍿⚛Official React library to use Popper, the positioning library. ![](https://img.shields.io/github/stars/popperjs/react-popper.svg?style=social&label=Star)
+
+### Notification
+
+- [react-toastify](https://github.com/fkhadra/react-toastify) - 🎉 React-Toastify allows you to add notifications to your app with ease. No more nonsense. ![](https://img.shields.io/github/stars/fkhadra/react-toastify.svg?style=social&label=Star)
+- [react-hot-toast](https://github.com/timolins/react-hot-toast) - Smoking 🔥hot🔥 Notifications for React. Lightweight, customizable and beautiful by default. ![](https://img.shields.io/github/stars/timolins/react-hot-toast.svg?style=social&label=Star)
+- [notistack](https://github.com/iamhosseindhv/notistack) - Highly customizable notification snackbars (toasts) that can be stacked on top of each other. ![](https://img.shields.io/github/stars/iamhosseindhv/notistack.svg?style=social&label=Star)
+- [react-toast-notifications](https://github.com/jossmac/react-toast-notifications) - A React & Redux notifications system. ![](https://img.shields.io/github/stars/jossmac/react-toast-notifications.svg?style=social&label=Star)
+- [react-notifications-component](https://github.com/teodosii/react-notifications-component) - Highly customizable and easy-to-use component for notifications. ![](https://img.shields.io/github/stars/teodosii/react-notifications-component.svg?style=social&label=Star)
+- [cogo-toast](https://github.com/Cogoport/cogo-toast) - Beautiful, Zero Configuration, Toast Messages for React ~4kb gzip (with styles and icons) ![](https://img.shields.io/github/stars/Cogoport/cogo-toast.svg?style=social&label=Star)
+- [simple-react-notifications](https://github.com/alexpermyakov/simple-react-notifications) - Tiny notification library (1kb gzip). ![](https://img.shields.io/github/stars/alexpermyakov/simple-react-notifications.svg?style=social&label=Star)
+- [react-toast](https://github.com/moharnadreza/react-toast) - Minimal toast notifications. ![](https://img.shields.io/github/stars/moharnadreza/react-toast.svg?style=social&label=Star)
+
+### Dialog/Modal/Alert
+
+- [react-modal](https://github.com/reactjs/react-modal) - Accessible modal dialog component for React. ![](https://img.shields.io/github/stars/reactjs/react-modal.svg?style=social&label=Star)
+- [react-aria-modal](https://github.com/davidtheclark/react-aria-modal) - A fully accessible and flexible React modal built according WAI-ARIA Authoring Practices. ![](https://img.shields.io/github/stars/davidtheclark/react-aria-modal.svg?style=social&label=Star)
+- [react-skylight](https://github.com/marcio/react-skylight) - A react component for modals and dialogs. ![](https://img.shields.io/github/stars/marcio/react-skylight.svg?style=social&label=Star)
+- [reoverlay](https://github.com/hiradary/reoverlay) - The missing solution for managing modals. ![](https://img.shields.io/github/stars/hiradary/reoverlay.svg?style=social&label=Star)
+- [sweetalert2-react-content](https://github.com/sweetalert2/sweetalert2-react-content) - Official SweetAlert2 enhancer adding support for React elements as content.  ![](https://img.shields.io/github/stars/sweetalert2/sweetalert2-react-content.svg?style=social&label=Star)
+- [reboron](https://github.com/bold-commerce/reboron) - A collection of dialog animations with React.js. ![](https://img.shields.io/github/stars/bold-commerce/reboron.svg?style=social&label=Star)
 
 ### Menu
 
