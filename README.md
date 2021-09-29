@@ -6,6 +6,8 @@
 
 - [目录](#目录)
 - [UI框架](#ui框架)
+  - [移动端](#移动端)
+  - [解决方案](#解决方案)
 - [UI组件](#ui组件)
   - [按钮](#按钮)
   - [图标](#图标)
@@ -39,9 +41,19 @@
     - [关系图](#关系图)
     - [地图](#地图)
   - [表单组件](#表单组件)
-    - [日期和时间选择器](#日期和时间选择器)
+    - [各类输入框](#各类输入框)
+    - [自动完成](#自动完成)
+    - [自动缩放的输入框/文本输入框](#自动缩放的输入框文本输入框)
+    - [标签输入](#标签输入)
+    - [下拉选择框/下拉菜单](#下拉选择框下拉菜单)
+    - [单选框](#单选框)
+    - [评分组件](#评分组件)
     - [状态切换按钮](#状态切换按钮)
+    - [日期和时间选择器](#日期和时间选择器)
     - [表情符号选择器](#表情符号选择器)
+    - [颜色选择器](#颜色选择器)
+    - [滑动输入条](#滑动输入条)
+    - [可排序列表](#可排序列表)
     - [富文本编辑器](#富文本编辑器)
     - [代码编辑器](#代码编辑器)
     - [Markdown编辑器](#markdown编辑器)
@@ -87,6 +99,16 @@
 - [react-bulma](https://github.com/kulakowka/react-bulma) - 基于 Flexbox 的现代 CSS 框架的 React.js 组件。 ![](https://img.shields.io/github/stars/kulakowka/react-bulma.svg?style=social&label=Star)
 - [trunx](https://github.com/fibo/trunx) - 使用 TypeScript 实现，基于Bulma 的React 组件。 ![](https://img.shields.io/github/stars/fibo/trunx.svg?style=social&label=Star)
 - [cdbreact](https://github.com/Devwares-Team/cdbreact) - 优雅的UI Kit库和可重用组件，用于构建移动优先、响应式网站和Web应用程序。 ![](https://img.shields.io/github/stars/Devwares-Team/cdbreact.svg?style=social&label=Star)
+
+### 移动端
+
+- [antd-mobile](https://github.com/ant-design/ant-design-mobile) - 可配置的移动端UI（来自中国）。 ![](https://img.shields.io/github/stars/ant-design/ant-design-mobile.svg?style=social&label=Star)
+- [OnsenUI](https://github.com/OnsenUI/OnsenUI) - 具有Material和flat(iOS)设计的移动应用程序框架。 基于 Web Components。 ![](https://img.shields.io/github/stars/OnsenUI/OnsenUI.svg?style=social&label=Star)
+
+### 解决方案
+
+- [ant-design-pro](https://github.com/ant-design/ant-design-pro) - 一个开箱即用企业应用程序UI解决方案。An out-of-box UI solution for enterprise applications as a React boilerplate. ![](https://img.shields.io/github/stars/ant-design/ant-design-pro.svg?style=social&label=Star)
+- [react-admin](https://github.com/marmelab/react-admin) - 一个前端框架，用于在 REST/GraphQL API 之上构建在浏览器中运行的 B2B 应用程序，使用 ES6、React 和 Material Design。 ![](https://img.shields.io/github/stars/marmelab/react-admin.svg?style=social&label=Star)
 
 ## UI组件
 ### 按钮
@@ -333,6 +355,58 @@
 
 ### 表单组件
 
+#### 各类输入框
+
+- [react-text-mask](https://github.com/msafi/text-mask) - 灵活、健壮、微小的输入框屏蔽(遮罩)，可用于React、Angular 和 vanilla JavaScript。![](https://img.shields.io/github/stars/msafi/text-mask.svg?style=social&label=Star)
+- [react-credit-cards](https://github.com/amarofashion/react-credit-cards) - 美观的信用卡输入框，用于你的支付表单。 ![](https://img.shields.io/github/stars/amarofashion/react-credit-cards.svg?style=social&label=Star)
+- [react-input-mask](https://github.com/sanniassin/react-input-mask) - 另一个用于屏蔽输入的React组件。 ![](https://img.shields.io/github/stars/sanniassin/react-input-mask.svg?style=social&label=Star)
+- [react-maskedinput](https://github.com/insin/react-maskedinput) - 输入遮罩组件。 ![](https://img.shields.io/github/stars/insin/react-maskedinput.svg?style=social&label=Star)
+- [react-payment-inputs](https://github.com/medipass/react-payment-inputs) - 一个零依赖容器，用于帮助处理支付卡输入字段。 ![](https://img.shields.io/github/stars/medipass/react-payment-inputs.svg?style=social&label=Star)
+- [react-numpad](https://github.com/gpietro/react-numpad) - 可扩展数字键盘控件，支持数字、日期和时间。 ![](https://img.shields.io/github/stars/gpietro/react-numpad.svg?style=social&label=Star)
+
+#### 自动完成
+
+- [react-autosuggest](https://github.com/moroshko/react-autosuggest) - 符合 WAI-ARIA 的 React 自动建议组件。 ![](https://img.shields.io/github/stars/moroshko/react-autosuggest.svg?style=social&label=Star)
+- [react-mentions](https://github.com/effektif/react-mentions) - 在文本输入框中提及某人。 ![](https://img.shields.io/github/stars/effektif/react-mentions.svg?style=social&label=Star)
+- [react-typeahead](https://github.com/fmoo/react-typeahead) - 纯基于 React 的 typeahead 和 typeahead-tokenizer。 ![](https://img.shields.io/github/stars/fmoo/react-typeahead.svg?style=social&label=Star)
+- [react-autocomplete-input](https://github.com/yury-dymov/react-autocomplete-input) - React自动完成组件。 ![](https://img.shields.io/github/stars/yury-dymov/react-autocomplete-input.svg?style=social&label=Star)
+
+#### 自动缩放的输入框/文本输入框
+
+- [react-textarea-autosize](https://github.com/andreypopp/react-textarea-autosize) - &lt;textarea /&gt; component for React which grows with content. ![](https://img.shields.io/github/stars/andreypopp/react-textarea-autosize.svg?style=social&label=Star)
+- [react-input-autosize](https://github.com/JedWatson/react-input-autosize) - Auto-resizing input field for React. ![](https://img.shields.io/github/stars/JedWatson/react-input-autosize.svg?style=social&label=Star)
+- [react-autowidth-input](https://github.com/kierien/react-autowidth-input) - Highly configurable & extensible automatically sized input field built with hooks. ![](https://img.shields.io/github/stars/kierien/react-autowidth-input.svg?style=social&label=Star)
+
+#### 标签输入
+
+- [react-tagsinput](https://github.com/olahol/react-tagsinput) - 一个简单的React标签输入组件。 ![](https://img.shields.io/github/stars/olahol/react-tagsinput.svg?style=social&label=Star)
+- [react-tag-input](https://github.com/prakhar1989/react-tags) - 一个非常简单的React标签组件。 ![](https://img.shields.io/github/stars/prakhar1989/react-tags.svg?style=social&label=Star)
+- [react-tokeninput](https://github.com/instructure-react/react-tokeninput) - React标签组件。 ![](https://img.shields.io/github/stars/instructure-react/react-tokeninput.svg?style=social&label=Star)
+- [@pathofdev/react-tag-input](https://github.com/pathofdev/react-tag-input) - 小巧的可编辑标签组件。 ![](https://img.shields.io/github/stars/pathofdev/react-tag-input.svg?style=social&label=Star)
+
+#### 下拉选择框/下拉菜单
+
+- [react-select](https://github.com/JedWatson/react-select) - 下拉框组件。 ![](https://img.shields.io/github/stars/JedWatson/react-select.svg?style=social&label=Star)
+- [react-aria-menubutton](https://github.com/davidtheclark/react-aria-menubutton) - 一个完全可访问、易于主题化、由 React 驱动的下拉菜单按钮。 ![](https://img.shields.io/github/stars/davidtheclark/react-aria-menubutton.svg?style=social&label=Star)
+- [react-select-box](https://github.com/instructure-react/react-select-box) - 一个可访问的下拉组件。 ![](https://img.shields.io/github/stars/instructure-react/react-select-box.svg?style=social&label=Star)
+- [react-functional-select](https://github.com/based-ghost/react-functional-select) - 体积微小，性能好的下拉组件。 ![](https://img.shields.io/github/stars/based-ghost/react-functional-select.svg?style=social&label=Star)
+- [react-column-select](https://github.com/chr-ge/react-column-select) - 列选择组件. ![](https://img.shields.io/github/stars/chr-ge/react-column-select.svg?style=social&label=Star)
+
+#### 单选框
+
+- [react-radio-group](https://github.com/chenglou/react-radio-group) - 更好的单选输入框按钮。 ![](https://img.shields.io/github/stars/chenglou/react-radio-group.svg?style=social&label=Star)
+
+#### 评分组件
+
+- [react-star-rating](https://github.com/cameronroe/react-star-rating) - 一个简单的星星评分组件。 ![](https://img.shields.io/github/stars/cameronroe/react-star-rating.svg?style=social&label=Star)
+- [react-star-rating-input](https://github.com/ikr/react-star-rating-input) - 输入0-5 (获得更多) 星星的评分组件. ![](https://img.shields.io/github/stars/ikr/react-star-rating-input.svg?style=social&label=Star)
+- [react-awesome-stars-rating](https://github.com/fedoryakubovich/react-awesome-stars-rating) - 具备可访问性的星星评分组件。![](https://img.shields.io/github/stars/fedoryakubovich/react-awesome-stars-rating.svg?style=social&label=Star)
+
+#### 状态切换按钮
+
+- [react-toggle](https://github.com/instructure-react/react-toggle) - 一个优雅的、可访问的 React切换组件。 还有一个美化的复选框。 ![](https://img.shields.io/github/stars/instructure-react/react-toggle.svg?style=social&label=Star)
+- [react-ios-switch](https://github.com/clari/react-ios-switch) - React切换组件。 ![](https://img.shields.io/github/stars/clari/react-ios-switch.svg?style=social&label=Star)
+
 #### 日期和时间选择器
 
 - [react-datepicker](https://github.com/Hacker0x01/react-datepicker) - 一个简单且可重用的 React 日期选择器组件。 ![](https://img.shields.io/github/stars/Hacker0x01/react-datepicker.svg?style=social&label=Star)
@@ -352,14 +426,27 @@
 - [react-simple-timefield](https://github.com/antonfisher/react-simple-timefield) - 简单的时间输入。 ![](https://img.shields.io/github/stars/antonfisher/react-simple-timefield.svg?style=social&label=Star)
 - [react-timezone-select](https://github.com/ndom91/react-timezone-select) - 动态、简洁的时区选择，基于`react-select`。 ![](https://img.shields.io/github/stars/ndom91/react-timezone-select.svg?style=social&label=Star)
 
-#### 状态切换按钮
-
-- [react-toggle](https://github.com/instructure-react/react-toggle) - 一个优雅的、可访问的 React切换组件。 还有一个美化的复选框。 ![](https://img.shields.io/github/stars/instructure-react/react-toggle.svg?style=social&label=Star)
-- [react-ios-switch](https://github.com/clari/react-ios-switch) - React切换组件。 ![](https://img.shields.io/github/stars/clari/react-ios-switch.svg?style=social&label=Star)
-
 #### 表情符号选择器
 
 - [interweave-emoji-picker](https://github.com/milesj/interweave/tree/master/packages/emoji-picker) - 由`Interweave`和`Emojibase`提供支持的基于 React的表情符号选择器。 ![](https://img.shields.io/github/stars/milesj/interweave.svg?style=social&label=Star)
+
+
+#### 颜色选择器
+
+- [react-colorful](https://github.com/omgovich/react-colorful) - 极小的(2,5 KB)、零依赖、快速和可访问的颜色选择器组件。 ![](https://img.shields.io/github/stars/omgovich/react-colorful.svg?style=social&label=Star)
+- [react-input-color](https://github.com/wangzuo/react-input-color) - 带有HSV颜色选择器的颜色输入框组件。 ![](https://img.shields.io/github/stars/wangzuo/react-input-color.svg?style=social&label=Star)
+- [coloreact](https://github.com/elrumordelaluz/coloreact) - 极小的颜色选择器。 ![](https://img.shields.io/github/stars/elrumordelaluz/coloreact.svg?style=social&label=Star)
+- [react-color](https://github.com/uiwjs/react-color) - 极小的颜色选择器。 ![](https://img.shields.io/github/stars/uiwjs/react-color.svg?style=social&label=Star)
+
+#### 滑动输入条
+
+- [react-slider](https://github.com/mpowaga/react-slider) - 滑动输入条组件。 ![](https://img.shields.io/github/stars/mpowaga/react-slider.svg?style=social&label=Star)
+
+#### 可排序列表
+
+- [sortablejs](https://github.com/SortableJS/Sortable) - 可通过拖放排序的列表。. ![](https://img.shields.io/github/stars/SortableJS/Sortable.svg?style=social&label=Star)
+- [react-anything-sortable](https://github.com/jasonslyvia/react-anything-sortable) - 可排序子元素。支持touch并兼容IE8。 ![](https://img.shields.io/github/stars/jasonslyvia/react-anything-sortable.svg?style=social&label=Star)
+- [react-sortable](https://github.com/danielstocks/react-sortable) - 可排序列表组件。 ![](https://img.shields.io/github/stars/danielstocks/react-sortable.svg?style=social&label=Star)
 
 #### 富文本编辑器
 
