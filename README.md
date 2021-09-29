@@ -22,9 +22,22 @@
   - [表格](#表格)
   - [查看/预览器](#查看预览器)
   - [轮播组件](#轮播组件)
+  - [懒加载组件](#懒加载组件)
+  - [虚拟滚动列表/模块](#虚拟滚动列表模块)
+  - [加载组件](#加载组件)
+  - [折叠组件](#折叠组件)
+  - [树](#树)
+  - [导航组件](#导航组件)
+  - [自定义滚动条](#自定义滚动条)
+  - [音视频](#音视频)
+  - [日期/时间](#日期时间)
+  - [照片/图像](#照片图像)
+  - [分页](#分页)
+  - [画布](#画布)
   - [数据可视化](#数据可视化)
     - [图表](#图表)
     - [关系图](#关系图)
+    - [地图](#地图)
   - [表单组件](#表单组件)
     - [日期和时间选择器](#日期和时间选择器)
     - [状态切换按钮](#状态切换按钮)
@@ -197,6 +210,87 @@
 - [react-id-swiper](https://github.com/kidjp85/react-id-swiper) - 使用危险的 Swiper 作为 ReactJs 组件的库。 ![](https://img.shields.io/github/stars/phuoc-ng/react-pdf-viewer.svg?style=social&label=Star)
 - [react-instagram-zoom-slider](https://github.com/skozer/react-instagram-zoom-slider) - 受Instagram启发的具有捏合缩放功能的滑块组件。 ![](https://img.shields.io/github/stars/skozer/react-instagram-zoom-slider.svg?style=social&label=Star)
 
+### 懒加载组件
+
+- [react-lazyload](https://github.com/jasonslyvia/react-lazyload) - 延迟加载组件、图像或任何对性能影响的东西。 ![](https://img.shields.io/github/stars/jasonslyvia/react-lazyload.svg?style=social&label=Star)
+
+### 虚拟滚动列表/模块
+
+- [react-window](https://github.com/bvaughn/react-window) -可有效渲染大型列表和表格数据的React组件。 ![](https://img.shields.io/github/stars/bvaughn/react-window.svg?style=social&label=Star)
+- [react-list](https://github.com/orgsync/react-list) - 多功能的虚拟滚动组件。 ![](https://img.shields.io/github/stars/orgsync/react-list.svg?style=social&label=Star)
+- [@egjs/react-infinitegrid](https://github.com/naver/egjs-infinitegrid/blob/master/packages/react-infinitegrid) - 根据各种布局类型排列包含内容的卡片元素。 ![](https://img.shields.io/github/stars/mkosir/react-parallax-tilt.svg?style=social&label=Star)
+- [af-virtual-scroll](https://github.com/nowaalex/af-virtual-scroll) - 渲染大型可滚动列表和表格。 ![](https://img.shields.io/github/stars/nowaalex/af-virtual-scroll.svg?style=social&label=Star)
+
+### 加载组件
+
+- [react-content-loader](https://github.com/danilowoz/react-content-loader) - 基于SVG的组件，可轻松创建内容占位加载效果（如 Facebook 的卡片加载效果）。 ![](https://img.shields.io/github/stars/danilowoz/react-content-loader.svg?style=social&label=Star)
+- [react-spinners](https://github.com/davidhu2000/react-spinners) - 一个加载组件集合。 ![](https://img.shields.io/github/stars/davidhu2000/react-spinners.svg?style=social&label=Star)
+- [react-redux-loading-bar](https://github.com/mironov/react-redux-loading-bar) - 使用React和Redux的简单加载工具条。 ![](https://img.shields.io/github/stars/mironov/react-redux-loading-bar.svg?style=social&label=Star)
+- [react-loader](https://github.com/TheCognizantFoundry/react-loader) - 使用spin.js显示加载效果的React组件，直到您的组件被加载。 ![](https://img.shields.io/github/stars/TheCognizantFoundry/react-loader.svg?style=social&label=Star)
+- [react-spinners-css](https://github.com/JoshK2/react-spinners-css) - 让人惊讶的React加载组件集合。 ![](https://img.shields.io/github/stars/JoshK2/react-spinners-css.svg?style=social&label=Star)
+- [react-block-ui](https://github.com/availity/react-block-ui) - 阻止用户与UI 交互的简单方法。 ![](https://img.shields.io/github/stars/availity/react-block-ui.svg?style=social&label=Star)
+
+### 折叠组件
+
+- [react-collapse](https://github.com/nkbt/react-collapse) - 使用react-motion实现的带动画的折叠组件。 ![](https://img.shields.io/github/stars/nkbt/react-collapse.svg?style=social&label=Star)
+- [react-accessible-accordion](https://github.com/springload/react-accessible-accordion) - 可访问的手风琴组件。 ![](https://img.shields.io/github/stars/springload/react-accessible-accordion.svg?style=social&label=Star)
+- [react-tabbordion](https://github.com/Merri/react-tabbordion) - [demo](https://merri.github.io/react-tabbordion) - Tabbordion是用于管理多个内容之间的活动状态的组件。你可以用它做任何事情：选项卡组件、手风琴组件、多选列表组件、选项组件、选项列表、复选框列表。 ![](https://img.shields.io/github/stars/Merri/react-tabbordion.svg?style=social&label=Star)
+
+### 树
+
+- [react-treebeard](https://github.com/alexcurtis/react-treebeard) - React树视图组件。数据驱动、快速、高效且可定制。 ![](https://img.shields.io/github/stars/alexcurtis/react-treebeard.svg?style=social&label=Star)
+- [react-treeview](https://github.com/chenglou/react-treeview) - 使用 简单、轻便、灵活的树视图。 ![](https://img.shields.io/github/stars/chenglou/react-treeview.svg?style=social&label=Star)
+- [react-complex-tree](https://github.com/lukasbach/react-complex-tree) - 具有多选、拖放和搜索功能的不受限制的可访问树组件。 ![](https://img.shields.io/github/stars/lukasbach/react-complex-tree.svg?style=social&label=Star)
+
+### 导航组件
+
+- [react-swipeable-views](https://github.com/oliviertassinari/react-swipeable-views) - 用于绑定选项卡和可滑动视图的React组件。 ![](https://img.shields.io/github/stars/oliviertassinari/react-swipeable-views.svg?style=social&label=Star)
+- [react-scroll](https://github.com/fisshy/react-scroll) - React滚动组件。 ![](https://img.shields.io/github/stars/fisshy/react-scroll.svg?style=social&label=Star)
+
+### 自定义滚动条
+
+- [react-custom-scroll](https://github.com/rommguy/react-custom-scroll) - 轻松自定义带有原生操作系统滚动行为的浏览器滚动条。 ![](https://img.shields.io/github/stars/rommguy/react-custom-scroll.svg?style=social&label=Star)
+- [rc-scrollbars](https://github.com/sakhnyuk/rc-scrollbars) - React 滚动条组件。 ![](https://img.shields.io/github/stars/sakhnyuk/rc-scrollbars.svg?style=social&label=Star)
+- [react-shadow-scroll](https://github.com/andrelmlins/react-shadow-scroll) - 可自定义列表并在滚动时插入阴影的组件。 ![](https://img.shields.io/github/stars/andrelmlins/react-shadow-scroll.svg?style=social&label=Star)
+
+### 音视频
+
+- [react-player](https://github.com/CookPete/react-player) - 用于播放各种URL的React组件，包括YouTube。 ![](https://img.shields.io/github/stars/CookPete/react-player.svg?style=social&label=Star)
+- [video-react](https://github.com/video-react/video-react) - 为HTML5世界构建的网络视频播放器。 ![](https://img.shields.io/github/stars/video-react/video-react.svg?style=social&label=Star)
+- [react-soundplayer](https://github.com/soundblogs/react-soundplayer) - 使用React创建自定义SoundCloud播放器。 ![](https://img.shields.io/github/stars/soundblogs/react-soundplayer.svg?style=social&label=Star)
+- [react-youtube](https://github.com/troybetz/react-youtube) - React.js 版 YouTube 播放器组件。 ![](https://img.shields.io/github/stars/troybetz/react-youtube.svg?style=social&label=Star)
+- [material-ui-audio-player](https://github.com/Werter12/material-ui-audio-player) - 用于Material UI Design的音频播放器. ![](https://img.shields.io/github/stars/Werter12/material-ui-audio-player.svg?style=social&label=Star)
+- [react-dailymotion](https://github.com/u-wave/react-dailymotion) - Dailymotion播放器组件。 ![](https://img.shields.io/github/stars/u-wave/react-dailymotion.svg?style=social&label=Star)
+
+### 日期/时间
+
+- [react-timeago](https://github.com/nmn/react-timeago) - 一个简单的 time-ago组件. ![](https://img.shields.io/github/stars/nmn/react-timeago.svg?style=social&label=Star)
+- [timeago-react](https://github.com/hustcc/timeago-react) - 将Date格式化为 `*** time ago` 的状态. 例如: '3 hours ago'. ![](https://img.shields.io/github/stars/hustcc/timeago-react.svg?style=social&label=Star)
+
+### 照片/图像
+
+- [lightGallery](https://github.com/sachinchoolur/lightGallery) - 功能齐全的灯箱画廊组件。 ![](https://img.shields.io/github/stars/sachinchoolur/lightGallery.svg?style=social&label=Star)
+- [react-image-gallery](https://github.com/xiaolin/react-image-gallery) - 响应式图片库、轮播、图片滑块React组件。 ![](https://img.shields.io/github/stars/xiaolin/react-image-gallery.svg?style=social&label=Star)
+- [react-photo-gallery](https://github.com/neptunian/react-photo-gallery) - 响应式的照片画廊组件 ![](https://img.shields.io/github/stars/neptunian/react-photo-gallery.svg?style=social&label=Star)
+- [react-image-lightbox](https://github.com/fritz-c/react-image-lightbox) - React灯箱组件。 ![](https://img.shields.io/github/stars/fritz-c/react-image-lightbox.svg?style=social&label=Star)
+- [react-svg-pan-zoom](https://github.com/chrvadala/react-svg-pan-zoom) - 为SVG添加平移和缩放功能的React组件。 ![](https://img.shields.io/github/stars/chrvadala/react-svg-pan-zoom.svg?style=social&label=Star)
+- [react-particle-image](https://github.com/malerba118/react-particle-image) - 将图像渲染为交互式粒子。 ![](https://img.shields.io/github/stars/malerba118/react-particle-image.svg?style=social&label=Star)
+- [react-imgix](https://github.com/imgix/react-imgix) - 添加快速响应式的图像作为图像、图片或背景！ ![](https://img.shields.io/github/stars/imgix/react-imgix.svg?style=social&label=Star)
+- [react-compare-image](https://github.com/junkboy0315/react-compare-image) - 使用滑块对比两张图片。 ![](https://img.shields.io/github/stars/junkboy0315/react-compare-image.svg?style=social&label=Star)
+- [react-intense](https://github.com/brycedorn/react-intense) - 用于查看大图像。 ![](https://img.shields.io/github/stars/brycedorn/react-intense.svg?style=social&label=Star)
+
+### 分页
+
+- [react-paginate](https://github.com/AdeleD/react-paginate) - 用于创建分页的React组件。 ![](https://img.shields.io/github/stars/AdeleD/react-paginate.svg?style=social&label=Star)
+- [react-laravel-paginex](https://github.com/lionix-team/react-laravel-paginex) - Laravel分页(可定制的)。 ![](https://img.shields.io/github/stars/lionix-team/react-laravel-paginex.svg?style=social&label=Star)
+- [paginated](https://github.com/makotot/paginated) - 使用props和自定义hook来构建分页。 ![](https://img.shields.io/github/stars/makotot/paginated.svg?style=social&label=Star)
+
+### 画布
+
+- [react-konva](https://github.com/konvajs/react-konva) - React Konva 是一个 JavaScript 库，用于绘制复杂的画布图形。 ![](https://img.shields.io/github/stars/konvajs/react-konva.svg?style=social&label=Star)
+- [react-sketch](https://github.com/tbolis/react-sketch) - 基于FabricJS， 用于React应用程序的 Sketch 工具。 ![](https://img.shields.io/github/stars/tbolis/react-sketch.svg?style=social&label=Star)
+- [react-sketch-canvas](https://github.com/vinothpandian/react-sketch-canvas) - 使用 SVG 作为画布的 React 手绘矢量绘图工具。接受来自鼠标、触摸板和图形输入板的输入。 ![](https://img.shields.io/github/stars/vinothpandian/react-sketch-canvas.svg?style=social&label=Star)
+
 ### 数据可视化
 
 #### 图表
@@ -219,12 +313,23 @@
 - [rumble-charts](https://github.com/rumble-charts/rumble-charts) - 用于构建可组合且灵活的图表的 React 组件。 ![](https://img.shields.io/github/stars/rumble-charts/rumble-charts.svg?style=social&label=Star)
 - [ej2-react-charts](https://github.com/syncfusion/ej2-react-ui-components/tree/master/components/charts) - 精美交互式图表和图。 ![](https://img.shields.io/github/stars/syncfusion/ej2-react-ui-components.svg?style=social&label=Star)
 - [react-charty](https://github.com/99ff00/react-charty) - 小巧但强大的交互式数据可视化，具有多种图表类型、动画、缩放、主题。 ![](https://img.shields.io/github/stars/99ff00/react-charty.svg?style=social&label=Star)
+- [react-heat-map](https://github.com/uiwjs/react-heat-map) - 一个基于 SVG 的轻量级日历热图反应组件。 ![](https://img.shields.io/github/stars/uiwjs/react-heat-map.svg?style=social&label=Star)
 - [react-muze](https://github.com/chartshq/react-muze) - 基于[muze](https://muzejs.org/)的封装。(muze是使用 WebAssembly 在浏览器中创建探索性数据可视化的免费数据可视化库) ![](https://img.shields.io/github/stars/chartshq/react-muze.svg?style=social&label=Star)
 
 #### 关系图
 
 - [graphin](https://github.com/antvis/graphin) - 基于G6的React图可视化工具集。 ![](https://img.shields.io/github/stars/antvis/graphin.svg?style=social&label=Star)
 - [react-sigmajs](https://github.com/dunnock/react-sigma) - 基于SigmaJS，轻量但强大的绘制网络关系图。 ![](https://img.shields.io/github/stars/dunnock/react-sigma.svg?style=social&label=Star)
+
+#### 地图
+
+- [react-map-gl](https://github.com/uber/react-map-gl) - 基于MapboxGL-js封装覆盖的API。 ![](https://img.shields.io/github/stars/uber/react-map-gl.svg?style=social&label=Star)
+- [google-map-react](https://github.com/istarkov/google-map-react) - 通用谷歌地图React组件，允许在谷歌地图上渲染React组件。 ![](https://img.shields.io/github/stars/istarkov/google-map-react.svg?style=social&label=Star)
+- [react-leaflet](https://github.com/PaulLeCam/react-leaflet) - 基于Leaflet maps的React组件。 ![](https://img.shields.io/github/stars/PaulLeCam/react-leaflet.svg?style=social&label=Star)
+- [pigeon-maps](https://github.com/mariusandra/pigeon-maps) - 没有外部依赖的ReactJS地图。 ![](https://img.shields.io/github/stars/mariusandra/pigeon-maps.svg?style=social&label=Star)
+- [react-mapbox-gl](https://github.com/alex3165/react-mapbox-gl) - 基于mapbox-gl-js React封装。 ![](https://img.shields.io/github/stars/alex3165/react-mapbox-gl.svg?style=social&label=Star)
+- [react-geosuggest](https://github.com/ubilabs/react-geosuggest) - 为 Google Maps Places API做出自动建议的React组件。 ![](https://img.shields.io/github/stars/ubilabs/react-geosuggest.svg?style=social&label=Star)
+- [react-svg-map](https://github.com/VictorCazanave/react-svg-map) - 一组用于显示交互式 SVG 地图的组件。 ![](https://img.shields.io/github/stars/VictorCazanave/react-svg-map.svg?style=social&label=Star)
 
 ### 表单组件
 
@@ -238,13 +343,14 @@
 - [react-datetime](https://github.com/YouCanBookMe/react-datetime) - 轻量级但完整的日期时间选择器React组件。 ![](https://img.shields.io/github/stars/YouCanBookMe/react-datetime.svg?style=social&label=Star)
 - [devextreme-reactive](https://github.com/DevExpress/devextreme-reactive) - 基于插件，用于Material Design的高性能调度程序/日历。 ![](https://img.shields.io/github/stars/DevExpress/devextreme-reactive.svg?style=social&label=Star)
 - [react-nice-dates](https://github.com/hernansartorio/react-nice-dates) - 响应式、对移动端Touch友好和模块化的日期选择器库。 ![](https://img.shields.io/github/stars/hernansartorio/react-nice-dates.svg?style=social&label=Star)
-- [react-flatpickr](https://github.com/coderhaoxin/react-flatpickr) - React 的 Flatpickr。 ![](https://img.shields.io/github/stars/coderhaoxin/react-flatpickr.svg?style=social&label=Star)
 - [react-date-picker](https://github.com/wojtekmaj/react-date-picker) - 日期选择器。 ![](https://img.shields.io/github/stars/wojtekmaj/react-date-picker.svg?style=social&label=Star)
 - [react-yearly-calendar](https://github.com/BelkaLab/react-yearly-calendar) - 年历组件。 ![](https://img.shields.io/github/stars/BelkaLab/react-yearly-calendar.svg?style=social&label=Star)
+- [react-flatpickr](https://github.com/coderhaoxin/react-flatpickr) - React 的 Flatpickr。 ![](https://img.shields.io/github/stars/coderhaoxin/react-flatpickr.svg?style=social&label=Star)
+- [react-google-flight-datepicker](https://github.com/JSLancerTeam/react-google-flight-datepicker) - 受 Google Flight 启发的 React 日期选择器。 ![](https://img.shields.io/github/stars/JSLancerTeam/react-google-flight-datepicker.svg?style=social&label=Star)
 - [react-datepicker2](https://github.com/mberneti/react-datepicker2) - 一个简单且可重用的日期选择器组件（支持波斯 jalali 日历）。 ![](https://img.shields.io/github/stars/mberneti/react-datepicker2.svg?style=social&label=Star)
 - [date-range-picker](https://github.com/almogtavor/date-range-picker) - 支持日期、范围和范围选择的日历组件。 ![](https://img.shields.io/github/stars/almogtavor/date-range-picker.svg?style=social&label=Star)
 - [react-simple-timefield](https://github.com/antonfisher/react-simple-timefield) - 简单的时间输入。 ![](https://img.shields.io/github/stars/antonfisher/react-simple-timefield.svg?style=social&label=Star)
-- [react-timezone-select](https://github.com/ndom91/react-timezone-select) - D动态、简洁的时区选择，基于`react-select`。 ![](https://img.shields.io/github/stars/ndom91/react-timezone-select.svg?style=social&label=Star)
+- [react-timezone-select](https://github.com/ndom91/react-timezone-select) - 动态、简洁的时区选择，基于`react-select`。 ![](https://img.shields.io/github/stars/ndom91/react-timezone-select.svg?style=social&label=Star)
 
 #### 状态切换按钮
 
