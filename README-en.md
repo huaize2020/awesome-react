@@ -22,9 +22,22 @@ English | [简体中文](./README.md)
   - [Table](#table)
   - [Viewer](#viewer)
   - [Carousel](#carousel)
+  - [Lazy Load](#lazy-load)
+  - [Infinite Scroll](#infinite-scroll)
+  - [Loader](#loader)
+  - [Collapse](#collapse)
+  - [Tree](#tree)
+  - [Navigation](#navigation)
+  - [Custom Scrollbar](#custom-scrollbar)
+  - [Audio / Video](#audio--video)
+  - [Time / Date / Age](#time--date--age)
+  - [Photo / Image](#photo--image)
+  - [Paginator](#paginator)
+  - [Canvas](#canvas)
   - [Data Visualization](#data-visualization)
     - [Charts](#charts)
     - [Graphs](#graphs)
+    - [Map](#map)
   - [Form Components](#form-components)
     - [Date / Time picker](#date--time-picker)
     - [Toggle](#toggle)
@@ -197,6 +210,87 @@ English | [简体中文](./README.md)
 - [react-id-swiper](https://github.com/kidjp85/react-id-swiper) - A library to use idangerous Swiper as a ReactJs component. ![](https://img.shields.io/github/stars/phuoc-ng/react-pdf-viewer.svg?style=social&label=Star)
 - [react-instagram-zoom-slider](https://github.com/skozer/react-instagram-zoom-slider) - A slider component with pinch to zoom capabilities inspired by Instagram. ![](https://img.shields.io/github/stars/skozer/react-instagram-zoom-slider.svg?style=social&label=Star)
 
+### Lazy Load
+
+- [react-lazyload](https://github.com/jasonslyvia/react-lazyload) - Lazyload your Component, Image or anything matters the performance. ![](https://img.shields.io/github/stars/jasonslyvia/react-lazyload.svg?style=social&label=Star)
+
+### Infinite Scroll
+
+- [react-window](https://github.com/bvaughn/react-window) - React components for efficiently rendering large lists and tabular data. ![](https://img.shields.io/github/stars/bvaughn/react-window.svg?style=social&label=Star)
+- [react-list](https://github.com/orgsync/react-list) - A versatile infinite scroll React component. ![](https://img.shields.io/github/stars/orgsync/react-list.svg?style=social&label=Star)
+- [@egjs/react-infinitegrid](https://github.com/naver/egjs-infinitegrid/blob/master/packages/react-infinitegrid) - A module used to arrange card elements including content infinitely according to various layout types. ![](https://img.shields.io/github/stars/mkosir/react-parallax-tilt.svg?style=social&label=Star)
+- [af-virtual-scroll](https://github.com/nowaalex/af-virtual-scroll) - Render large scrollable lists and tables. ![](https://img.shields.io/github/stars/nowaalex/af-virtual-scroll.svg?style=social&label=Star)
+
+### Loader
+
+- [react-content-loader](https://github.com/danilowoz/react-content-loader) - SVG-Powered component to easily create placeholder loadings (like Facebook's cards loading). ![](https://img.shields.io/github/stars/danilowoz/react-content-loader.svg?style=social&label=Star)
+- [react-spinners](https://github.com/davidhu2000/react-spinners) - A collection of loading spinner components for react. ![](https://img.shields.io/github/stars/davidhu2000/react-spinners.svg?style=social&label=Star)
+- [react-redux-loading-bar](https://github.com/mironov/react-redux-loading-bar) - Simple Loading Bar for Redux and React. ![](https://img.shields.io/github/stars/mironov/react-redux-loading-bar.svg?style=social&label=Star)
+- [react-loader](https://github.com/TheCognizantFoundry/react-loader) - React component that displays a spinner via spin.js until your component is loaded. ![](https://img.shields.io/github/stars/TheCognizantFoundry/react-loader.svg?style=social&label=Star)
+- [react-spinners-css](https://github.com/JoshK2/react-spinners-css) - Amazing collection of react spinners components. ![](https://img.shields.io/github/stars/JoshK2/react-spinners-css.svg?style=social&label=Star)
+- [react-block-ui](https://github.com/availity/react-block-ui) - Easy way to block the user from interacting with your UI. ![](https://img.shields.io/github/stars/availity/react-block-ui.svg?style=social&label=Star)
+
+### Collapse
+
+- [react-collapse](https://github.com/nkbt/react-collapse) - Component-wrapper for collapse animation with react-motion. ![](https://img.shields.io/github/stars/nkbt/react-collapse.svg?style=social&label=Star)
+- [react-accessible-accordion](https://github.com/springload/react-accessible-accordion) - Accessible Accordion component for React. ![](https://img.shields.io/github/stars/springload/react-accessible-accordion.svg?style=social&label=Star)
+- [react-tabbordion](https://github.com/Merri/react-tabbordion) - [demo](https://merri.github.io/react-tabbordion) - Tabbordion is a component for managing active state between multiple items. You can make anything out of it: Tabs component, Accordion component, Multi select list component,Option component, List of options, List of checkboxes. ![](https://img.shields.io/github/stars/Merri/react-tabbordion.svg?style=social&label=Star)
+
+### Tree
+
+- [react-treebeard](https://github.com/alexcurtis/react-treebeard) - React Tree View Component. Data-Driven, Fast, Efficient and Customisable. ![](https://img.shields.io/github/stars/alexcurtis/react-treebeard.svg?style=social&label=Star)
+- [react-treeview](https://github.com/chenglou/react-treeview) - Easy, light, flexible tree view made with React. ![](https://img.shields.io/github/stars/chenglou/react-treeview.svg?style=social&label=Star)
+- [react-complex-tree](https://github.com/lukasbach/react-complex-tree) - Unopinionated Accessible Tree Component with Multi-Select, Drag-And-Drop and Search. ![](https://img.shields.io/github/stars/lukasbach/react-complex-tree.svg?style=social&label=Star)
+
+### Navigation
+
+- [react-swipeable-views](https://github.com/oliviertassinari/react-swipeable-views) - A React Component for binded Tabs and Swipeable Views. ![](https://img.shields.io/github/stars/oliviertassinari/react-swipeable-views.svg?style=social&label=Star)
+- [react-scroll](https://github.com/fisshy/react-scroll) - React scroll component. ![](https://img.shields.io/github/stars/fisshy/react-scroll.svg?style=social&label=Star)
+
+### Custom Scrollbar
+
+- [react-custom-scroll](https://github.com/rommguy/react-custom-scroll) - Easily customize the browser scroll bar with native OS scroll behavior. ![](https://img.shields.io/github/stars/rommguy/react-custom-scroll.svg?style=social&label=Star)
+- [rc-scrollbars](https://github.com/sakhnyuk/rc-scrollbars) - React scrollbars component. ![](https://img.shields.io/github/stars/sakhnyuk/rc-scrollbars.svg?style=social&label=Star)
+- [react-shadow-scroll](https://github.com/andrelmlins/react-shadow-scroll) - Component that customizes the list and inserts shadow when scrolling exist. ![](https://img.shields.io/github/stars/andrelmlins/react-shadow-scroll.svg?style=social&label=Star)
+
+### Audio / Video
+
+- [react-player](https://github.com/CookPete/react-player) - A react component for playing a variety of URLs, including YouTube. ![](https://img.shields.io/github/stars/CookPete/react-player.svg?style=social&label=Star)
+- [video-react](https://github.com/video-react/video-react) - A web video player built for the HTML5 world using React library. ![](https://img.shields.io/github/stars/video-react/video-react.svg?style=social&label=Star)
+- [react-soundplayer](https://github.com/soundblogs/react-soundplayer) - Create custom SoundCloud players with React. ![](https://img.shields.io/github/stars/soundblogs/react-soundplayer.svg?style=social&label=Star)
+- [react-youtube](https://github.com/troybetz/react-youtube) - React.js powered YouTube player component. ![](https://img.shields.io/github/stars/troybetz/react-youtube.svg?style=social&label=Star)
+- [material-ui-audio-player](https://github.com/Werter12/material-ui-audio-player) - Audio player for material ui design. ![](https://img.shields.io/github/stars/Werter12/material-ui-audio-player.svg?style=social&label=Star)
+- [react-dailymotion](https://github.com/u-wave/react-dailymotion) - Dailymotion player component for React. ![](https://img.shields.io/github/stars/u-wave/react-dailymotion.svg?style=social&label=Star)
+
+### Time / Date / Age
+
+- [react-timeago](https://github.com/nmn/react-timeago) - A simple time-ago component for ReactJs. ![](https://img.shields.io/github/stars/nmn/react-timeago.svg?style=social&label=Star)
+- [timeago-react](https://github.com/hustcc/timeago-react) - Format date with `*** time ago` statement. eg: '3 hours ago'. ![](https://img.shields.io/github/stars/hustcc/timeago-react.svg?style=social&label=Star)
+
+### Photo / Image
+
+- [lightGallery](https://github.com/sachinchoolur/lightGallery) - Full-featured lightbox gallery component. ![](https://img.shields.io/github/stars/sachinchoolur/lightGallery.svg?style=social&label=Star)
+- [react-image-gallery](https://github.com/xiaolin/react-image-gallery) - Responsive image gallery, carousel, image slider react component. ![](https://img.shields.io/github/stars/xiaolin/react-image-gallery.svg?style=social&label=Star)
+- [react-photo-gallery](https://github.com/neptunian/react-photo-gallery) - Responsive React Photo Gallery. ![](https://img.shields.io/github/stars/neptunian/react-photo-gallery.svg?style=social&label=Star)
+- [react-image-lightbox](https://github.com/fritz-c/react-image-lightbox) - React lightbox component. ![](https://img.shields.io/github/stars/fritz-c/react-image-lightbox.svg?style=social&label=Star)
+- [react-svg-pan-zoom](https://github.com/chrvadala/react-svg-pan-zoom) - A React component that adds pan and zoom features to SVG. ![](https://img.shields.io/github/stars/chrvadala/react-svg-pan-zoom.svg?style=social&label=Star)
+- [react-particle-image](https://github.com/malerba118/react-particle-image) - Render images as interactive particles. ![](https://img.shields.io/github/stars/malerba118/react-particle-image.svg?style=social&label=Star)
+- [react-imgix](https://github.com/imgix/react-imgix) - Add fast, responsive images as an image, picture, or background! ![](https://img.shields.io/github/stars/imgix/react-imgix.svg?style=social&label=Star)
+- [react-compare-image](https://github.com/junkboy0315/react-compare-image) - React component to compare two images using a slider. ![](https://img.shields.io/github/stars/junkboy0315/react-compare-image.svg?style=social&label=Star)
+- [react-intense](https://github.com/brycedorn/react-intense) - A React component for viewing large images up close. ![](https://img.shields.io/github/stars/brycedorn/react-intense.svg?style=social&label=Star)
+
+### Paginator
+
+- [react-paginate](https://github.com/AdeleD/react-paginate) - A ReactJS component that creates a pagination. ![](https://img.shields.io/github/stars/AdeleD/react-paginate.svg?style=social&label=Star)
+- [react-laravel-paginex](https://github.com/lionix-team/react-laravel-paginex) - Laravel Pagination with ReactJS (customizable). ![](https://img.shields.io/github/stars/lionix-team/react-laravel-paginex.svg?style=social&label=Star)
+- [paginated](https://github.com/makotot/paginated) - React render props & custom hook to build pagination. ![](https://img.shields.io/github/stars/makotot/paginated.svg?style=social&label=Star)
+
+### Canvas
+
+- [react-konva](https://github.com/konvajs/react-konva) - React Konva is a JavaScript library for drawing complex canvas graphics with bindings to the Konva Framework. ![](https://img.shields.io/github/stars/konvajs/react-konva.svg?style=social&label=Star)
+- [react-sketch](https://github.com/tbolis/react-sketch) - A Sketch tool for React based applications, backed-up by FabricJS. ![](https://img.shields.io/github/stars/tbolis/react-sketch.svg?style=social&label=Star)
+- [react-sketch-canvas](https://github.com/vinothpandian/react-sketch-canvas) - Freehand vector drawing tool for React using SVG as canvas. Accepts input from Mouse, touch, and graphic tablets. ![](https://img.shields.io/github/stars/vinothpandian/react-sketch-canvas.svg?style=social&label=Star)
+
 ### Data Visualization
 
 #### Charts
@@ -219,12 +313,23 @@ English | [简体中文](./README.md)
 - [rumble-charts](https://github.com/rumble-charts/rumble-charts) - React components for building composable and flexible charts. ![](https://img.shields.io/github/stars/rumble-charts/rumble-charts.svg?style=social&label=Star)
 - [ej2-react-charts](https://github.com/syncfusion/ej2-react-ui-components/tree/master/components/charts) - Beautiful and interactive charts & graphs for react. ![](https://img.shields.io/github/stars/syncfusion/ej2-react-ui-components.svg?style=social&label=Star)
 - [react-charty](https://github.com/99ff00/react-charty) - Small but powerful interactive data viz with multiple chart types, animations, zooming, theming. ![](https://img.shields.io/github/stars/99ff00/react-charty.svg?style=social&label=Star)
+- [react-heat-map](https://github.com/uiwjs/react-heat-map) - A lightweight calendar heatmap react component built on SVG, customizable version of GitHub's contribution graph. ![](https://img.shields.io/github/stars/uiwjs/react-heat-map.svg?style=social&label=Star)
 - [react-muze](https://github.com/chartshq/react-muze) - React wrapper for [muze](https://muzejs.org/)(free data visualization library for creating exploratory data visualizations in browser, using WebAssembly) ![](https://img.shields.io/github/stars/chartshq/react-muze.svg?style=social&label=Star)
 
 #### Graphs
 
 - [graphin](https://github.com/antvis/graphin) - A React toolkit for graph visualization based on G6. ![](https://img.shields.io/github/stars/antvis/graphin.svg?style=social&label=Star)
 - [react-sigmajs](https://github.com/dunnock/react-sigma) - Lightweight but powerful library for drawing network graphs built on top of SigmaJS. ![](https://img.shields.io/github/stars/dunnock/react-sigma.svg?style=social&label=Star)
+
+#### Map
+
+- [react-map-gl](https://github.com/uber/react-map-gl) - A React wrapper for MapboxGL-js and overlay API. ![](https://img.shields.io/github/stars/uber/react-map-gl.svg?style=social&label=Star)
+- [google-map-react](https://github.com/istarkov/google-map-react) - Universal google map react component, allows render react components on the google map. ![](https://img.shields.io/github/stars/istarkov/google-map-react.svg?style=social&label=Star)
+- [react-leaflet](https://github.com/PaulLeCam/react-leaflet) - React components for Leaflet maps. ![](https://img.shields.io/github/stars/PaulLeCam/react-leaflet.svg?style=social&label=Star)
+- [pigeon-maps](https://github.com/mariusandra/pigeon-maps) - ReactJS Maps without external dependencies. ![](https://img.shields.io/github/stars/mariusandra/pigeon-maps.svg?style=social&label=Star)
+- [react-mapbox-gl](https://github.com/alex3165/react-mapbox-gl) - A React binding of mapbox-gl-js. ![](https://img.shields.io/github/stars/alex3165/react-mapbox-gl.svg?style=social&label=Star)
+- [react-geosuggest](https://github.com/ubilabs/react-geosuggest) - A React autosuggest for the Google Maps Places API. ![](https://img.shields.io/github/stars/ubilabs/react-geosuggest.svg?style=social&label=Star)
+- [react-svg-map](https://github.com/VictorCazanave/react-svg-map)- A set of components to display an interactive SVG map. ![](https://img.shields.io/github/stars/VictorCazanave/react-svg-map.svg?style=social&label=Star)
 
 ### Form Components
 
@@ -238,9 +343,10 @@ English | [简体中文](./README.md)
 - [react-datetime](https://github.com/YouCanBookMe/react-datetime) - A lightweight but complete datetime picker react component. ![](https://img.shields.io/github/stars/YouCanBookMe/react-datetime.svg?style=social&label=Star)
 - [devextreme-reactive](https://github.com/DevExpress/devextreme-reactive) - High-performance plugin-based scheduler/calendar for Material Design. ![](https://img.shields.io/github/stars/DevExpress/devextreme-reactive.svg?style=social&label=Star)
 - [react-nice-dates](https://github.com/hernansartorio/react-nice-dates) - A responsive, touch-friendly, and modular date picker library. ![](https://img.shields.io/github/stars/hernansartorio/react-nice-dates.svg?style=social&label=Star)
-- [react-flatpickr](https://github.com/coderhaoxin/react-flatpickr) - Flatpickr for React. ![](https://img.shields.io/github/stars/coderhaoxin/react-flatpickr.svg?style=social&label=Star)
 - [react-date-picker](https://github.com/wojtekmaj/react-date-picker) - A date picker for your React app. ![](https://img.shields.io/github/stars/wojtekmaj/react-date-picker.svg?style=social&label=Star)
 - [react-yearly-calendar](https://github.com/BelkaLab/react-yearly-calendar) - React.js Yearly Calendar Component. ![](https://img.shields.io/github/stars/BelkaLab/react-yearly-calendar.svg?style=social&label=Star)
+- [react-flatpickr](https://github.com/coderhaoxin/react-flatpickr) - Flatpickr for React. ![](https://img.shields.io/github/stars/coderhaoxin/react-flatpickr.svg?style=social&label=Star)
+- [react-google-flight-datepicker](https://github.com/JSLancerTeam/react-google-flight-datepicker) - React date picker inspired by Google Flight. ![](https://img.shields.io/github/stars/JSLancerTeam/react-google-flight-datepicker.svg?style=social&label=Star)
 - [react-datepicker2](https://github.com/mberneti/react-datepicker2) - A simple and reusable datepicker component (with persian jalali calendar support). ![](https://img.shields.io/github/stars/mberneti/react-datepicker2.svg?style=social&label=Star)
 - [date-range-picker](https://github.com/almogtavor/date-range-picker) - A calendar component that supports date, range & ranges picks. ![](https://img.shields.io/github/stars/almogtavor/date-range-picker.svg?style=social&label=Star)
 - [react-simple-timefield](https://github.com/antonfisher/react-simple-timefield) - Simple time input field. ![](https://img.shields.io/github/stars/antonfisher/react-simple-timefield.svg?style=social&label=Star)
