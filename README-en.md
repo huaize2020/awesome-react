@@ -6,6 +6,8 @@ English | [简体中文](./README.md)
 
 - [Table of contents](#table-of-contents)
 - [UI Frameworks](#ui-frameworks)
+  - [Mobile](#mobile)
+  - [Solution](#solution)
 - [UI Components](#ui-components)
   - [Buttons](#buttons)
   - [Icons](#icons)
@@ -39,9 +41,19 @@ English | [简体中文](./README.md)
     - [Graphs](#graphs)
     - [Map](#map)
   - [Form Components](#form-components)
-    - [Date / Time picker](#date--time-picker)
+    - [Input Types](#input-types)
+    - [Autocomplete](#autocomplete)
+    - [Autosize Input / Textarea](#autosize-input--textarea)
+    - [Tag Input](#tag-input)
+    - [Select](#select)
+    - [Radio Button](#radio-button)
+    - [Star Rating](#star-rating)
     - [Toggle](#toggle)
+    - [Date / Time picker](#date--time-picker)
     - [Emoji picker](#emoji-picker)
+    - [Color Picker](#color-picker)
+    - [Slider](#slider)
+    - [Sortable List](#sortable-list)
     - [Rich Text Editor](#rich-text-editor)
     - [Code Editor](#code-editor)
     - [Markdown Editor](#markdown-editor)
@@ -87,6 +99,16 @@ English | [简体中文](./README.md)
 - [react-bulma](https://github.com/kulakowka/react-bulma) - React.js components for Modern CSS framework based on Flexbox. ![](https://img.shields.io/github/stars/kulakowka/react-bulma.svg?style=social&label=Star)
 - [trunx](https://github.com/fibo/trunx) - Super Saiyan React components, son of awesome Bulma, implemented in TypeScript. ![](https://img.shields.io/github/stars/fibo/trunx.svg?style=social&label=Star)
 - [cdbreact](https://github.com/Devwares-Team/cdbreact) - Elegant UI Kit library and reusable components for building mobile-first, responsive websites and web apps. ![](https://img.shields.io/github/stars/Devwares-Team/cdbreact.svg?style=social&label=Star)
+
+### Mobile
+
+- [antd-mobile](https://github.com/ant-design/ant-design-mobile) - Configurable Mobile UI from China. ![](https://img.shields.io/github/stars/ant-design/ant-design-mobile.svg?style=social&label=Star)
+- [OnsenUI](https://github.com/OnsenUI/OnsenUI) - Mobile app framework with Material and flat (iOS) designs. Based on Web Components. ![](https://img.shields.io/github/stars/OnsenUI/OnsenUI.svg?style=social&label=Star)
+
+### Solution
+
+- [ant-design-pro](https://github.com/ant-design/ant-design-pro) - An out-of-box UI solution for enterprise applications as a React boilerplate. ![](https://img.shields.io/github/stars/ant-design/ant-design-pro.svg?style=social&label=Star)
+- [react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design. ![](https://img.shields.io/github/stars/marmelab/react-admin.svg?style=social&label=Star)
 
 ## UI Components
 
@@ -333,6 +355,58 @@ English | [简体中文](./README.md)
 
 ### Form Components
 
+#### Input Types
+
+- [react-text-mask](https://github.com/msafi/text-mask) - Input mask for React, Angular, and vanilla JavaScript. Flexible, robust &amp; tiny. ![](https://img.shields.io/github/stars/msafi/text-mask.svg?style=social&label=Star)
+- [react-credit-cards](https://github.com/amarofashion/react-credit-cards) - Beautiful credit cards for your payment forms. ![](https://img.shields.io/github/stars/amarofashion/react-credit-cards.svg?style=social&label=Star)
+- [react-input-mask](https://github.com/sanniassin/react-input-mask) - Yet another react component for input masking. ![](https://img.shields.io/github/stars/sanniassin/react-input-mask.svg?style=social&label=Star)
+- [react-maskedinput](https://github.com/insin/react-maskedinput) - Masked &lt;input/&gt; React component. ![](https://img.shields.io/github/stars/insin/react-maskedinput.svg?style=social&label=Star)
+- [react-payment-inputs](https://github.com/medipass/react-payment-inputs) - A zero-dependency container to help with payment card input fields. ![](https://img.shields.io/github/stars/medipass/react-payment-inputs.svg?style=social&label=Star)
+- [react-numpad](https://github.com/gpietro/react-numpad) - Extensible number pad control for numbers, dates and times. ![](https://img.shields.io/github/stars/gpietro/react-numpad.svg?style=social&label=Star)
+
+#### Autocomplete
+
+- [react-autosuggest](https://github.com/moroshko/react-autosuggest) - WAI-ARIA compliant React autosuggest component. ![](https://img.shields.io/github/stars/moroshko/react-autosuggest.svg?style=social&label=Star)
+- [react-mentions](https://github.com/effektif/react-mentions) - Mention people in a textarea. ![](https://img.shields.io/github/stars/effektif/react-mentions.svg?style=social&label=Star)
+- [react-typeahead](https://github.com/fmoo/react-typeahead) - Pure react-based typeahead and typeahead-tokenizer. ![](https://img.shields.io/github/stars/fmoo/react-typeahead.svg?style=social&label=Star)
+- [react-autocomplete-input](https://github.com/yury-dymov/react-autocomplete-input) - Autocomplete input field for React. ![](https://img.shields.io/github/stars/yury-dymov/react-autocomplete-input.svg?style=social&label=Star)
+
+#### Autosize Input / Textarea
+
+- [react-textarea-autosize](https://github.com/andreypopp/react-textarea-autosize) - &lt;textarea /&gt; component for React which grows with content. ![](https://img.shields.io/github/stars/andreypopp/react-textarea-autosize.svg?style=social&label=Star)
+- [react-input-autosize](https://github.com/JedWatson/react-input-autosize) - Auto-resizing input field for React. ![](https://img.shields.io/github/stars/JedWatson/react-input-autosize.svg?style=social&label=Star)
+- [react-autowidth-input](https://github.com/kierien/react-autowidth-input) - Highly configurable & extensible automatically sized input field built with hooks. ![](https://img.shields.io/github/stars/kierien/react-autowidth-input.svg?style=social&label=Star)
+
+#### Tag Input
+
+- [react-tagsinput](https://github.com/olahol/react-tagsinput) - A simple react component for inputing tags. ![](https://img.shields.io/github/stars/olahol/react-tagsinput.svg?style=social&label=Star)
+- [react-tag-input](https://github.com/prakhar1989/react-tags) - A fantastically simple tagging component for your React projects. ![](https://img.shields.io/github/stars/prakhar1989/react-tags.svg?style=social&label=Star)
+- [react-tokeninput](https://github.com/instructure-react/react-tokeninput) - Tokeninput component for React. ![](https://img.shields.io/github/stars/instructure-react/react-tokeninput.svg?style=social&label=Star)
+- [@pathofdev/react-tag-input](https://github.com/pathofdev/react-tag-input) - Minimal tagging component with editable tags ![](https://img.shields.io/github/stars/pathofdev/react-tag-input.svg?style=social&label=Star)
+
+#### Select
+
+- [react-select](https://github.com/JedWatson/react-select) - A Select control built with and for React JS. ![](https://img.shields.io/github/stars/JedWatson/react-select.svg?style=social&label=Star)
+- [react-aria-menubutton](https://github.com/davidtheclark/react-aria-menubutton) - A fully accessible, easily themeable, React-powered menu button. ![](https://img.shields.io/github/stars/davidtheclark/react-aria-menubutton.svg?style=social&label=Star)
+- [react-select-box](https://github.com/instructure-react/react-select-box) - An accessible select box component for React. ![](https://img.shields.io/github/stars/instructure-react/react-select-box.svg?style=social&label=Star)
+- [react-functional-select](https://github.com/based-ghost/react-functional-select) - Micro-sized & micro-optimized select component for React.js. ![](https://img.shields.io/github/stars/based-ghost/react-functional-select.svg?style=social&label=Star)
+- [react-column-select](https://github.com/chr-ge/react-column-select) - A column select component built for react. ![](https://img.shields.io/github/stars/chr-ge/react-column-select.svg?style=social&label=Star)
+
+#### Radio Button
+
+- [react-radio-group](https://github.com/chenglou/react-radio-group) - Better radio buttons. ![](https://img.shields.io/github/stars/chenglou/react-radio-group.svg?style=social&label=Star)
+
+#### Star Rating
+
+- [react-star-rating](https://github.com/cameronroe/react-star-rating) - A simple star rating component built with React. ![](https://img.shields.io/github/stars/cameronroe/react-star-rating.svg?style=social&label=Star)
+- [react-star-rating-input](https://github.com/ikr/react-star-rating-input) - React.js component for entering 0-5 (or more) stars. ![](https://img.shields.io/github/stars/ikr/react-star-rating-input.svg?style=social&label=Star)
+- [react-awesome-stars-rating](https://github.com/fedoryakubovich/react-awesome-stars-rating) - [demo](https://react-awesome-stars-rating.herokuapp.com/) - The star rating component with accessibility. ![](https://img.shields.io/github/stars/fedoryakubovich/react-awesome-stars-rating.svg?style=social&label=Star)
+
+#### Toggle
+
+- [react-toggle](https://github.com/instructure-react/react-toggle) - An elegant, accessible toggle component for React. Also a glorified checkbox. ![](https://img.shields.io/github/stars/instructure-react/react-toggle.svg?style=social&label=Star)
+- [react-ios-switch](https://github.com/clari/react-ios-switch) - React switch component. ![](https://img.shields.io/github/stars/clari/react-ios-switch.svg?style=social&label=Star)
+
 #### Date / Time picker
 
 - [react-datepicker](https://github.com/Hacker0x01/react-datepicker) - A simple and reusable datepicker component for React. ![](https://img.shields.io/github/stars/Hacker0x01/react-datepicker.svg?style=social&label=Star)
@@ -352,14 +426,26 @@ English | [简体中文](./README.md)
 - [react-simple-timefield](https://github.com/antonfisher/react-simple-timefield) - Simple time input field. ![](https://img.shields.io/github/stars/antonfisher/react-simple-timefield.svg?style=social&label=Star)
 - [react-timezone-select](https://github.com/ndom91/react-timezone-select) - Dynamic, succinct timezone select. Based on `react-select`. ![](https://img.shields.io/github/stars/ndom91/react-timezone-select.svg?style=social&label=Star)
 
-#### Toggle
-
-- [react-toggle](https://github.com/instructure-react/react-toggle) - An elegant, accessible toggle component for React. Also a glorified checkbox. ![](https://img.shields.io/github/stars/instructure-react/react-toggle.svg?style=social&label=Star)
-- [react-ios-switch](https://github.com/clari/react-ios-switch) - React switch component. ![](https://img.shields.io/github/stars/clari/react-ios-switch.svg?style=social&label=Star)
-
 #### Emoji picker
 
 - [interweave-emoji-picker](https://github.com/milesj/interweave/tree/master/packages/emoji-picker) - A React based emoji picker powered by Interweave and Emojibase. ![](https://img.shields.io/github/stars/milesj/interweave.svg?style=social&label=Star)
+
+#### Color Picker
+
+- [react-colorful](https://github.com/omgovich/react-colorful) - A tiny (2,5 KB), dependency-free, fast and accessible color picker component. ![](https://img.shields.io/github/stars/omgovich/react-colorful.svg?style=social&label=Star)
+- [react-input-color](https://github.com/wangzuo/react-input-color) - React input color component with hsv color picker. ![](https://img.shields.io/github/stars/wangzuo/react-input-color.svg?style=social&label=Star)
+- [coloreact](https://github.com/elrumordelaluz/coloreact) - A tiny Color Picker for React. ![](https://img.shields.io/github/stars/elrumordelaluz/coloreact.svg?style=social&label=Star)
+- [react-color](https://github.com/uiwjs/react-color) - Is a tiny color picker widget component for React apps. ![](https://img.shields.io/github/stars/uiwjs/react-color.svg?style=social&label=Star)
+
+#### Slider
+
+- [react-slider](https://github.com/mpowaga/react-slider) - Slider component for React. ![](https://img.shields.io/github/stars/mpowaga/react-slider.svg?style=social&label=Star)
+
+#### Sortable List
+
+- [sortablejs](https://github.com/SortableJS/Sortable) - Lists reorderable by drag-and-drop, within and among lists. ![](https://img.shields.io/github/stars/SortableJS/Sortable.svg?style=social&label=Star)
+- [react-anything-sortable](https://github.com/jasonslyvia/react-anything-sortable) - Sort any children with touch support and IE8 compatibility. ![](https://img.shields.io/github/stars/jasonslyvia/react-anything-sortable.svg?style=social&label=Star)
+- [react-sortable](https://github.com/danielstocks/react-sortable) - A sortable list component built with React. ![](https://img.shields.io/github/stars/danielstocks/react-sortable.svg?style=social&label=Star)
 
 #### Rich Text Editor
 
