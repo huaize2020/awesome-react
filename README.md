@@ -235,10 +235,11 @@
 ### 懒加载组件
 
 - [react-lazyload](https://github.com/jasonslyvia/react-lazyload) - 延迟加载组件、图像或任何对性能影响的东西。 ![](https://img.shields.io/github/stars/jasonslyvia/react-lazyload.svg?style=social&label=Star)
+- [react-lazy-load](https://github.com/loktar00/react-lazy-load) - 当子元素进入视图范围内时，才渲染它们。 ![](https://img.shields.io/github/stars/loktar00/react-lazy-load.svg?style=social&label=Star)
 
 ### 虚拟滚动列表/模块
 
-- [react-window](https://github.com/bvaughn/react-window) -可有效渲染大型列表和表格数据的React组件。 ![](https://img.shields.io/github/stars/bvaughn/react-window.svg?style=social&label=Star)
+- [react-window](https://github.com/bvaughn/react-window) - 可有效渲染大型列表和表格数据的React组件。 ![](https://img.shields.io/github/stars/bvaughn/react-window.svg?style=social&label=Star)
 - [react-list](https://github.com/orgsync/react-list) - 多功能的虚拟滚动组件。 ![](https://img.shields.io/github/stars/orgsync/react-list.svg?style=social&label=Star)
 - [@egjs/react-infinitegrid](https://github.com/naver/egjs-infinitegrid/blob/master/packages/react-infinitegrid) - 根据各种布局类型排列包含内容的卡片元素。 ![](https://img.shields.io/github/stars/mkosir/react-parallax-tilt.svg?style=social&label=Star)
 - [af-virtual-scroll](https://github.com/nowaalex/af-virtual-scroll) - 渲染大型可滚动列表和表格。 ![](https://img.shields.io/github/stars/nowaalex/af-virtual-scroll.svg?style=social&label=Star)
