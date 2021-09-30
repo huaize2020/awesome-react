@@ -235,6 +235,7 @@ English | [简体中文](./README.md)
 ### Lazy Load
 
 - [react-lazyload](https://github.com/jasonslyvia/react-lazyload) - Lazyload your Component, Image or anything matters the performance. ![](https://img.shields.io/github/stars/jasonslyvia/react-lazyload.svg?style=social&label=Star)
+- [react-lazy-load](https://github.com/loktar00/react-lazy-load) - React component that renders children elements when they enter the viewport. ![](https://img.shields.io/github/stars/loktar00/react-lazy-load.svg?style=social&label=Star)
 
 ### Infinite Scroll
 
