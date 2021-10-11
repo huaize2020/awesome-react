@@ -5,6 +5,8 @@
 ## 目录
 
 - [目录](#目录)
+- [工具](#工具)
+  - [路由](#路由)
 - [UI框架](#ui框架)
   - [移动端](#移动端)
   - [解决方案](#解决方案)
@@ -62,6 +64,17 @@
   - [视觉差](#视觉差)
 - [开发工具](#开发工具)
   - [测试相关](#测试相关)
+
+## 工具
+
+### 路由
+
+- [react-router](https://github.com/ReactTraining/react-router) - React 的声明式路由。 ![](https://img.shields.io/github/stars/ReactTraining/react-router.svg?style=social&label=Star)
+- [reach](https://github.com/reach/router) - React 的下一代路由。 ![](https://img.shields.io/github/stars/reach/router.svg?style=social&label=Star)
+- [wouter](https://github.com/molefrog/wouter) - 一个极简友好的 ~1.3KB 路由库。 ![](https://img.shields.io/github/stars/molefrog/wouter.svg?style=social&label=Star)
+- [navi](https://github.com/frontarm/navi) - React 的声明式异步路由。 ![](https://img.shields.io/github/stars/frontarm/navi.svg?style=social&label=Star)
+- [universal-router](https://github.com/kriasoft/universal-router) - 简单中间件式路由，用于同构 JavaScript Web 应用程序的。 ![](https://img.shields.io/github/stars/kriasoft/universal-router.svg?style=social&label=Star)
+- [curi](https://github.com/pshrmn/curi) - 用于单页应用程序的 JavaScript 路由。 ![](https://img.shields.io/github/stars/pshrmn/curi.svg?style=social&label=Star)
 
 ## UI框架
 
