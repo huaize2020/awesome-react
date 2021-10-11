@@ -5,6 +5,8 @@ English | [简体中文](./README.md)
 ## Table of contents
 
 - [Table of contents](#table-of-contents)
+- [Tools](#tools)
+  - [Router](#router)
 - [UI Frameworks](#ui-frameworks)
   - [Mobile](#mobile)
   - [Solution](#solution)
@@ -62,6 +64,17 @@ English | [简体中文](./README.md)
   - [Parallax](#parallax)
 - [Dev Tools](#dev-tools)
   - [Test](#test)
+
+## Tools
+
+### Router
+
+- [react-router](https://github.com/ReactTraining/react-router) - Declarative routing for React. ![](https://img.shields.io/github/stars/ReactTraining/react-router.svg?style=social&label=Star)
+- [reach](https://github.com/reach/router) - Next Generation Routing for React. ![](https://img.shields.io/github/stars/reach/router.svg?style=social&label=Star)
+- [wouter](https://github.com/molefrog/wouter) - A minimalist-friendly ~1.3KB routing library. ![](https://img.shields.io/github/stars/molefrog/wouter.svg?style=social&label=Star)
+- [navi](https://github.com/frontarm/navi) - Declarative, asynchronous routing for React. ![](https://img.shields.io/github/stars/frontarm/navi.svg?style=social&label=Star)
+- [universal-router](https://github.com/kriasoft/universal-router) - A simple middleware-style router for isomorphic JavaScript web apps. ![](https://img.shields.io/github/stars/kriasoft/universal-router.svg?style=social&label=Star)
+- [curi](https://github.com/pshrmn/curi) - JavaScript router for single-page applications. ![](https://img.shields.io/github/stars/pshrmn/curi.svg?style=social&label=Star)
 
 ## UI Frameworks
 
