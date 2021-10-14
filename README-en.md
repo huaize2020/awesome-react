@@ -5,8 +5,9 @@ English | [简体中文](./README.md)
 ## Table of contents
 
 - [Table of contents](#table-of-contents)
-- [Tools](#tools)
+- [Utilities](#utilities)
   - [Router](#router)
+  - [i18n](#i18n)
 - [UI Frameworks](#ui-frameworks)
   - [Mobile](#mobile)
   - [Solution](#solution)
@@ -65,7 +66,7 @@ English | [简体中文](./README.md)
 - [Dev Tools](#dev-tools)
   - [Test](#test)
 
-## Tools
+## Utilities
 
 ### Router
 
@@ -75,6 +76,15 @@ English | [简体中文](./README.md)
 - [navi](https://github.com/frontarm/navi) - Declarative, asynchronous routing for React. ![](https://img.shields.io/github/stars/frontarm/navi.svg?style=social&label=Star)
 - [universal-router](https://github.com/kriasoft/universal-router) - A simple middleware-style router for isomorphic JavaScript web apps. ![](https://img.shields.io/github/stars/kriasoft/universal-router.svg?style=social&label=Star)
 - [curi](https://github.com/pshrmn/curi) - JavaScript router for single-page applications. ![](https://img.shields.io/github/stars/pshrmn/curi.svg?style=social&label=Star)
+
+### i18n
+
+- [react-intl](https://github.com/yahoo/react-intl) - Internationalize React apps. ![](https://img.shields.io/github/stars/yahoo/react-intl.svg?style=social&label=Star)
+- [react-i18next](https://github.com/i18next/react-i18next) - Internationalization for react done right. Using the i18next i18n ecosystem. ![](https://img.shields.io/github/stars/i18next/react-i18next.svg?style=social&label=Star)
+- [js-lingui](https://github.com/lingui/js-lingui) – A readable, automated, and optimized (5 kb) internationalization for JavaScript. ![](https://img.shields.io/github/stars/lingui/js-lingui.svg?style=social&label=Star)
+- [react-intl-universal](https://github.com/alibaba/react-intl-universal) - Internationalize React apps. Not only for React.Component but also for Vanilla JS. ![](https://img.shields.io/github/stars/alibaba/react-intl-universal.svg?style=social&label=Star)
+- [react-translate-maker](https://github.com/cherry-projects/react-translate-maker) - Universal internationalization (i18n) open source library for React. ![](https://img.shields.io/github/stars/cherry-projects/react-translate-maker.svg?style=social&label=Star)
+- [react-localized](https://github.com/fakundo/react-localized) - Internationalization for React components based on `gettext` format. ![](https://img.shields.io/github/stars/fakundo/react-localized.svg?style=social&label=Star)
 
 ## UI Frameworks
 
