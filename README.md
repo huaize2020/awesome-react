@@ -7,6 +7,7 @@
 - [目录](#目录)
 - [工具](#工具)
   - [路由](#路由)
+  - [i18n](#i18n)
 - [UI框架](#ui框架)
   - [移动端](#移动端)
   - [解决方案](#解决方案)
@@ -75,6 +76,15 @@
 - [navi](https://github.com/frontarm/navi) - React 的声明式异步路由。 ![](https://img.shields.io/github/stars/frontarm/navi.svg?style=social&label=Star)
 - [universal-router](https://github.com/kriasoft/universal-router) - 简单中间件式路由，用于同构 JavaScript Web 应用程序的。 ![](https://img.shields.io/github/stars/kriasoft/universal-router.svg?style=social&label=Star)
 - [curi](https://github.com/pshrmn/curi) - 用于单页应用程序的 JavaScript 路由。 ![](https://img.shields.io/github/stars/pshrmn/curi.svg?style=social&label=Star)
+
+### i18n
+
+- [react-intl](https://github.com/yahoo/react-intl) - React 应用国际化。 ![](https://img.shields.io/github/stars/yahoo/react-intl.svg?style=social&label=Star)
+- [react-i18next](https://github.com/i18next/react-i18next) - 使用 i18next 的 React 国际化。 ![](https://img.shields.io/github/stars/i18next/react-i18next.svg?style=social&label=Star)
+- [js-lingui](https://github.com/lingui/js-lingui) – 可读、自动化和优化的 (5 kb) JavaScript 国际化。 ![](https://img.shields.io/github/stars/lingui/js-lingui.svg?style=social&label=Star)
+- [react-intl-universal](https://github.com/alibaba/react-intl-universal) - React 应用程序国际化。不仅适用于 React 组件，同样适用于原生 JS。 ![](https://img.shields.io/github/stars/alibaba/react-intl-universal.svg?style=social&label=Star)
+- [react-translate-maker](https://github.com/cherry-projects/react-translate-maker) - 通用国际化 (i18n) 开源 React 库。 ![](https://img.shields.io/github/stars/cherry-projects/react-translate-maker.svg?style=social&label=Star)
+- [react-localized](https://github.com/fakundo/react-localized) - 基于 `gettext` 格式的 React 组件国际化。 ![](https://img.shields.io/github/stars/fakundo/react-localized.svg?style=social&label=Star)
 
 ## UI框架
 
