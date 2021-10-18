@@ -347,6 +347,7 @@
 - [react-vis](https://github.com/uber/react-vis) - 基于D3和React的数据可视化。 ![](https://img.shields.io/github/stars/uber/react-vis.svg?style=social&label=Star)
 - [BizCharts](https://github.com/alibaba/BizCharts) - 使用G2和React强大的数据可视化库。 ![](https://img.shields.io/github/stars/alibaba/BizCharts.svg?style=social&label=Star)
 - [react-chartjs-2](https://github.com/jerairrest/react-chartjs-2) - 使用Chart.js 2.0的通用React图表组件。 ![](https://img.shields.io/github/stars/jerairrest/react-chartjs-2.svg?style=social&label=Star)
+- [echarts-for-react](https://github.com/hustcc/echarts-for-react) - 一个简单的 Apache echarts 的 React 封装。 ![](https://img.shields.io/github/stars/hustcc/echarts-for-react.svg?style=social&label=Star)
 - [react-sparklines](https://github.com/borisyankov/react-sparklines) - 美丽而富有表现力的React微线图组件。 ![](https://img.shields.io/github/stars/borisyankov/react-sparklines.svg?style=social&label=Star)
 - [semiotic](https://github.com/nteract/semiotic) - Semiotic是一个React数据可视化框架。 ![](https://img.shields.io/github/stars/nteract/semiotic.svg?style=social&label=Star)
 - [react-d3-components](https://github.com/codesuki/react-d3-components) - React D3组件。 ![](https://img.shields.io/github/stars/codesuki/react-d3-components.svg?style=social&label=Star)
@@ -474,10 +475,11 @@
 
 #### 富文本编辑器
 
-- [slate](https://github.com/ianstormtaylor/slate) - 一个完全可定制的框架，用于在浏览器中构建富文本编辑器。 ![](https://img.shields.io/github/stars/ianstormtaylor/slate.svg?style=social&label=Star)
+- [slate](https://github.com/ianstormtaylor/slate/tree/main/packages/slate-react) - 一个完全可定制的框架，用于在浏览器中构建富文本编辑器。 ![](https://img.shields.io/github/stars/ianstormtaylor/slate.svg?style=social&label=Star)
 - [draft-js](https://github.com/facebook/draft-js) - Draft.js是一个 JavaScript富文本编辑器框架，为React构建并由不可变模型支持。 ![](https://img.shields.io/github/stars/facebook/draft-js.svg?style=social&label=Star)
 - [react-draft-wysiwyg](https://github.com/jpuri/react-draft-wysiwyg) - 基于[DraftJS](https://draftjs.org/)封装的可见即可得的编辑器。 ![](https://img.shields.io/github/stars/jpuri/react-draft-wysiwyg.svg?style=social&label=Star)
 - [react-quill](https://github.com/zenoamaro/react-quill) - 基于Quill封装。 ![](https://img.shields.io/github/stars/zenoamaro/react-quill.svg?style=social&label=Star)
+- [braft-editor](https://github.com/margox/braft-editor) - 美观易用的 React 富文本编辑器，基于 draft-js 开发。 ![](https://img.shields.io/github/stars/margox/braft-editor.svg?style=social&label=Star)
 - [alloyeditor](https://github.com/liferay/alloy-editor) - 基于CKEditor完全重写的UI可见即可得的编辑器 ![](https://img.shields.io/github/stars/liferay/alloy-editor.svg?style=social&label=Star)
 - [remirror](https://github.com/remirror/remirror) - 用于React的`ProseMirror` 工具包。 ![](https://img.shields.io/github/stars/remirror/remirror.svg?style=social&label=Star)
 - [react-contenteditable](https://github.com/lovasoa/react-contenteditable) - 基于div可编辑内容的React组件。 ![](https://img.shields.io/github/stars/lovasoa/react-contenteditable.svg?style=social&label=Star)
