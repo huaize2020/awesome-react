@@ -116,6 +116,7 @@
 - [ChatUI](https://github.com/alibaba/ChatUI) - 服务于对话领域的设计和开发体系。 ![](https://img.shields.io/github/stars/alibaba/ChatUI.svg?style=social&label=Star)
 - [orbit-components](https://github.com/kiwicom/orbit-components) - 用于构建面向旅行的项目的组件。 ![](https://img.shields.io/github/stars/kiwicom/orbit-components.svg?style=social&label=Star)
 - [react-bulma-components](https://github.com/couds/react-bulma-components) - Bulma 的React组件。 ![](https://img.shields.io/github/stars/couds/react-bulma-components.svg?style=social&label=Star)
+- [semi-design](https://github.com/DouyinFE/semi-design) - 抖音前端团队出品现代、全面、灵活的设计系统和 UI 库。 快速搭建美观的React 应用。 ![](https://img.shields.io/github/stars/DouyinFE/semi-design.svg?style=social&label=Star)
 - [bumbag-ui](https://github.com/bumbag/bumbag-ui) - 使用 Bumbag 构建具备可访问性且主题化的 React 应用程序。 ![](https://img.shields.io/github/stars/bumbag/bumbag-ui.svg?style=social&label=Star)
 - [shineout](https://github.com/sheinsight/shineout) - 中文友好的组件集：表单元素、导航、表格、树、树选择下拉等。 ![](https://img.shields.io/github/stars/sheinsight/shineout.svg?style=social&label=Star)
 - [pivotal-ui-react](https://github.com/pivotal-cf/pivotal-ui) - 基于自定义版本的Bootstrap库的React组件。 ![](https://img.shields.io/github/stars/pivotal-cf/pivotal-ui.svg?style=social&label=Star)
