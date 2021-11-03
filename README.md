@@ -14,6 +14,7 @@
 - [目录](#目录)
 - [工具](#工具)
   - [路由](#路由)
+  - [Hooks](#hooks)
   - [i18n](#i18n)
 - [UI框架](#ui框架)
   - [移动端](#移动端)
@@ -84,6 +85,12 @@
 - [universal-router](https://github.com/kriasoft/universal-router) - 简单中间件式路由，用于同构 JavaScript Web 应用程序的。 ![](https://img.shields.io/github/stars/kriasoft/universal-router.svg?style=social&label=Star)
 - [react-keepalive-router](https://github.com/GoodLuckAlien/react-keepalive-router) - 基于react 16.8+ ,react-router 4+ 开发的react缓存组件，可以用于缓存页面组件，类似vue的keepalive包裹vue-router的效果功能。 ![](https://img.shields.io/github/stars/GoodLuckAlien/react-keepalive-router.svg?style=social&label=Star)
 - [curi](https://github.com/pshrmn/curi) - 用于单页应用程序的 JavaScript 路由。 ![](https://img.shields.io/github/stars/pshrmn/curi.svg?style=social&label=Star)
+
+
+### Hooks
+
+- [ahooks](https://github.com/alibaba/hooks) - 专门针对企业应用程序的 React Hook 集合。 ![](https://img.shields.io/github/stars/alibaba/hooks.svg?style=social&label=Star)
+- [beautiful-react-hooks](https://github.com/antonioru/beautiful-react-hooks) - 用于加速组件和开发自定义 Hooks 的 Hooks 集合。 ![](https://img.shields.io/github/stars/antonioru/beautiful-react-hooks.svg?style=social&label=Star)
 
 ### i18n
 
