@@ -7,6 +7,7 @@ English | [简体中文](./README.md)
 - [Table of contents](#table-of-contents)
 - [Utilities](#utilities)
   - [Router](#router)
+  - [Hooks](#hooks)
   - [i18n](#i18n)
 - [UI Frameworks](#ui-frameworks)
   - [Mobile](#mobile)
@@ -77,6 +78,11 @@ English | [简体中文](./README.md)
 - [universal-router](https://github.com/kriasoft/universal-router) - A simple middleware-style router for isomorphic JavaScript web apps. ![](https://img.shields.io/github/stars/kriasoft/universal-router.svg?style=social&label=Star)
 - [react-keepalive-router](https://github.com/GoodLuckAlien/react-keepalive-router) - The react cache component developed based on react 16.8 +, react router 4 + can be used to cache page components, similar to Vue keepalive package Vue router effect function. ![](https://img.shields.io/github/stars/GoodLuckAlien/react-keepalive-router.svg?style=social&label=Star)
 - [curi](https://github.com/pshrmn/curi) - JavaScript router for single-page applications. ![](https://img.shields.io/github/stars/pshrmn/curi.svg?style=social&label=Star)
+
+### Hooks
+
+- [ahooks](https://github.com/alibaba/hooks) - A collection of React Hooks specifically aiming at enterprise applications. ![](https://img.shields.io/github/stars/alibaba/hooks.svg?style=social&label=Star)
+- [beautiful-react-hooks](https://github.com/antonioru/beautiful-react-hooks) - A collection of hooks to speed-up your components and custom hooks development. ![](https://img.shields.io/github/stars/antonioru/beautiful-react-hooks.svg?style=social&label=Star)
 
 ### i18n
 
