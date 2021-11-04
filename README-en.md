@@ -7,7 +7,7 @@ English | [简体中文](./README.md)
 - [Table of contents](#table-of-contents)
 - [Utilities](#utilities)
   - [Router](#router)
-  - [Hooks](#hooks)
+  - [Hooks Collection](#hooks-collection)
   - [i18n](#i18n)
 - [UI Frameworks](#ui-frameworks)
   - [Mobile](#mobile)
@@ -80,8 +80,9 @@ English | [简体中文](./README.md)
 - [react-keepalive-router](https://github.com/GoodLuckAlien/react-keepalive-router) - The react cache component developed based on react 16.8 +, react router 4 + can be used to cache page components, similar to Vue keepalive package Vue router effect function. ![](https://img.shields.io/github/stars/GoodLuckAlien/react-keepalive-router.svg?style=social&label=Star)
 - [curi](https://github.com/pshrmn/curi) - JavaScript router for single-page applications. ![](https://img.shields.io/github/stars/pshrmn/curi.svg?style=social&label=Star)
 
-### Hooks
+### Hooks Collection
 
+- [react-use](https://github.com/streamich/react-use) - React Hooks.  ![](https://img.shields.io/github/stars/streamich/react-use.svg?style=social&label=Star)
 - [ahooks](https://github.com/alibaba/hooks) - A collection of React Hooks specifically aiming at enterprise applications. ![](https://img.shields.io/github/stars/alibaba/hooks.svg?style=social&label=Star)
 - [beautiful-react-hooks](https://github.com/antonioru/beautiful-react-hooks) - A collection of hooks to speed-up your components and custom hooks development. ![](https://img.shields.io/github/stars/antonioru/beautiful-react-hooks.svg?style=social&label=Star)
 
@@ -565,6 +566,7 @@ English | [简体中文](./README.md)
 - [jest](https://github.com/facebook/jest) - Delightful JavaScript Testing. ![](https://img.shields.io/github/stars/facebook/jest.svg?style=social&label=Star)
 - [enzyme](https://github.com/airbnb/enzyme) - JavaScript Testing utilities for React. ![](https://img.shields.io/github/stars/airbnb/enzyme.svg?style=social&label=Star)
 - [react-testing-library](https://github.com/testing-library/react-testing-library) - 🐐 Simple and complete React DOM testing utilities that encourage good testing practices. ![](https://img.shields.io/github/stars/testing-library/react-testing-library.svg?style=social&label=Star)
+- [react-hooks-testing-library](https://github.com/testing-library/react-hooks-testing-library) - Simple and complete React hooks testing utilities that encourage good testing practices. ![](https://img.shields.io/github/stars/testing-library/react-hooks-testing-library.svg?style=social&label=Star)
 - [chai-enzyme](https://github.com/producthunt/chai-enzyme) - Chai.js assertions and convenience functions for testing React Components with enzyme. ![](https://img.shields.io/github/stars/producthunt/chai-enzyme.svg?style=social&label=Star)
 - [ui-harness](https://github.com/philcockfield/ui-harness) - Create, isolate and test modular UI components in React. ![](https://img.shields.io/github/stars/philcockfield/ui-harness.svg?style=social&label=Star)
 - [react-unit](https://github.com/pzavolinsky/react-unit) - Lightweight unit test library for ReactJS. ![](https://img.shields.io/github/stars/pzavolinsky/react-unit.svg?style=social&label=Star)

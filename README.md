@@ -14,7 +14,7 @@
 - [目录](#目录)
 - [工具](#工具)
   - [路由](#路由)
-  - [Hooks](#hooks)
+  - [Hooks集合](#hooks集合)
   - [i18n](#i18n)
 - [UI框架](#ui框架)
   - [移动端](#移动端)
@@ -88,8 +88,9 @@
 - [curi](https://github.com/pshrmn/curi) - 用于单页应用程序的 JavaScript 路由。 ![](https://img.shields.io/github/stars/pshrmn/curi.svg?style=social&label=Star)
 
 
-### Hooks
+### Hooks集合
 
+- [react-use](https://github.com/streamich/react-use) - React Hooks.  ![](https://img.shields.io/github/stars/streamich/react-use.svg?style=social&label=Star)
 - [ahooks](https://github.com/alibaba/hooks) - 专门针对企业应用程序的 React Hook 集合。 ![](https://img.shields.io/github/stars/alibaba/hooks.svg?style=social&label=Star)
 - [beautiful-react-hooks](https://github.com/antonioru/beautiful-react-hooks) - 用于加速组件和开发自定义 Hooks 的 Hooks 集合。 ![](https://img.shields.io/github/stars/antonioru/beautiful-react-hooks.svg?style=social&label=Star)
 
@@ -574,6 +575,7 @@
 - [jest](https://github.com/facebook/jest) - 愉悦的JavaScript测试。 ![](https://img.shields.io/github/stars/facebook/jest.svg?style=social&label=Star)
 - [enzyme](https://github.com/airbnb/enzyme) - 用于React的测试工具。 ![](https://img.shields.io/github/stars/airbnb/enzyme.svg?style=social&label=Star)
 - [react-testing-library](https://github.com/testing-library/react-testing-library) - 🐐 简单而完整的React DOM测试实用程序，鼓励良好的测试实践。 ![](https://img.shields.io/github/stars/testing-library/react-testing-library.svg?style=social&label=Star)
+- [react-hooks-testing-library](https://github.com/testing-library/react-hooks-testing-library) - Simple and complete React hooks testing utilities that encourage good testing practices. ![](https://img.shields.io/github/stars/testing-library/react-hooks-testing-library.svg?style=social&label=Star)
 - [chai-enzyme](https://github.com/producthunt/chai-enzyme) - 配合enzyme使用的Chai.js断言库和便利函数 ![](https://img.shields.io/github/stars/producthunt/chai-enzyme.svg?style=social&label=Star)
 - [ui-harness](https://github.com/philcockfield/ui-harness) - 在React中创建、隔离和测试模块化UI组件。 ![](https://img.shields.io/github/stars/philcockfield/ui-harness.svg?style=social&label=Star)
 - [react-unit](https://github.com/pzavolinsky/react-unit) - 轻量级单元测试库。 ![](https://img.shields.io/github/stars/pzavolinsky/react-unit.svg?style=social&label=Star)
