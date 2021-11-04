@@ -313,6 +313,7 @@ English | [简体中文](./README.md)
 - [video-react](https://github.com/video-react/video-react) - A web video player built for the HTML5 world using React library. ![](https://img.shields.io/github/stars/video-react/video-react.svg?style=social&label=Star)
 - [react-soundplayer](https://github.com/soundblogs/react-soundplayer) - Create custom SoundCloud players with React. ![](https://img.shields.io/github/stars/soundblogs/react-soundplayer.svg?style=social&label=Star)
 - [react-youtube](https://github.com/troybetz/react-youtube) - React.js powered YouTube player component. ![](https://img.shields.io/github/stars/troybetz/react-youtube.svg?style=social&label=Star)
+- [react-audio-player](https://github.com/justinmc/react-audio-player) - A simple React wrapper on the HTML5 audio tag. ![](https://img.shields.io/github/stars/justinmc/react-audio-player.svg?style=social&label=Star)
 - [material-ui-audio-player](https://github.com/Werter12/material-ui-audio-player) - Audio player for material ui design. ![](https://img.shields.io/github/stars/Werter12/material-ui-audio-player.svg?style=social&label=Star)
 - [react-dailymotion](https://github.com/u-wave/react-dailymotion) - Dailymotion player component for React. ![](https://img.shields.io/github/stars/u-wave/react-dailymotion.svg?style=social&label=Star)
 

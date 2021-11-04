@@ -321,6 +321,7 @@
 - [video-react](https://github.com/video-react/video-react) - 为HTML5世界构建的网络视频播放器。 ![](https://img.shields.io/github/stars/video-react/video-react.svg?style=social&label=Star)
 - [react-soundplayer](https://github.com/soundblogs/react-soundplayer) - 使用React创建自定义SoundCloud播放器。 ![](https://img.shields.io/github/stars/soundblogs/react-soundplayer.svg?style=social&label=Star)
 - [react-youtube](https://github.com/troybetz/react-youtube) - React.js 版 YouTube 播放器组件。 ![](https://img.shields.io/github/stars/troybetz/react-youtube.svg?style=social&label=Star)
+- [react-audio-player](https://github.com/justinmc/react-audio-player) - 基于 HTML5 audio 标签的简单封装。 ![](https://img.shields.io/github/stars/justinmc/react-audio-player.svg?style=social&label=Star)
 - [material-ui-audio-player](https://github.com/Werter12/material-ui-audio-player) - 用于Material UI Design的音频播放器. ![](https://img.shields.io/github/stars/Werter12/material-ui-audio-player.svg?style=social&label=Star)
 - [react-dailymotion](https://github.com/u-wave/react-dailymotion) - Dailymotion播放器组件。 ![](https://img.shields.io/github/stars/u-wave/react-dailymotion.svg?style=social&label=Star)
 
