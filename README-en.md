@@ -44,6 +44,7 @@ English | [简体中文](./README.md)
     - [Charts](#charts)
     - [Graphs](#graphs)
     - [Map](#map)
+    - [Common](#common)
   - [Form Components](#form-components)
     - [Input Types](#input-types)
     - [Autocomplete](#autocomplete)
@@ -387,6 +388,10 @@ English | [简体中文](./README.md)
 - [react-geosuggest](https://github.com/ubilabs/react-geosuggest) - A React autosuggest for the Google Maps Places API. ![](https://img.shields.io/github/stars/ubilabs/react-geosuggest.svg?style=social&label=Star)
 - [react-svg-map](https://github.com/VictorCazanave/react-svg-map)- A set of components to display an interactive SVG map. ![](https://img.shields.io/github/stars/VictorCazanave/react-svg-map.svg?style=social&label=Star)
 
+#### Common
+
+- [@ant-design/charts](https://github.com/ant-design/ant-design-charts) - A React chart library, based on G2Plot, G6, X6, L7.  ![](https://img.shields.io/github/stars/ant-design/ant-design-charts.svg?style=social&label=Star)
+
 ### Form Components
 
 #### Input Types
@@ -503,6 +508,7 @@ English | [简体中文](./README.md)
 #### Code Editor
 
 - [react-ace](https://github.com/securingsincity/react-ace) - Ace (Advanced Code Editor) wraper. ![](https://img.shields.io/github/stars/securingsincity/react-ace.svg?style=social&label=Star)
+- [react-codemirror2](https://github.com/scniro/react-codemirror2) - Codemirror integrated components for React. ![](https://img.shields.io/github/stars/scniro/react-codemirror2.svg?style=social&label=Star)
 - [react-codemirror](https://github.com/uiwjs/react-codemirror) - CodeMirror component for React. ![](https://img.shields.io/github/stars/uiwjs/react-codemirror.svg?style=social&label=Star)
 - [react-monacoeditor](https://github.com/jaywcjlove/react-monacoeditor) - Monaco Editor component for React. ![](https://img.shields.io/github/stars/jaywcjlove/react-monacoeditor.svg?style=social&label=Star)
 

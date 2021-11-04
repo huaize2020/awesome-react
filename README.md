@@ -51,6 +51,7 @@
     - [图表](#图表)
     - [关系图](#关系图)
     - [地图](#地图)
+    - [通用](#通用)
   - [表单组件](#表单组件)
     - [各类输入框](#各类输入框)
     - [自动完成](#自动完成)
@@ -395,6 +396,10 @@
 - [react-geosuggest](https://github.com/ubilabs/react-geosuggest) - 为 Google Maps Places API做出自动建议的React组件。 ![](https://img.shields.io/github/stars/ubilabs/react-geosuggest.svg?style=social&label=Star)
 - [react-svg-map](https://github.com/VictorCazanave/react-svg-map) - 一组用于显示交互式 SVG 地图的组件。 ![](https://img.shields.io/github/stars/VictorCazanave/react-svg-map.svg?style=social&label=Star)
 
+#### 通用
+
+- [@ant-design/charts](https://github.com/ant-design/ant-design-charts) - 基于 G2Plot, G6, X6, L7 React图表库。 ![](https://img.shields.io/github/stars/ant-design/ant-design-charts.svg?style=social&label=Star)
+
 ### 表单组件
 
 #### 各类输入框
@@ -512,6 +517,7 @@
 #### 代码编辑器
 
 - [react-ace](https://github.com/securingsincity/react-ace) - 基于Ace (Advanced Code Editor)封装。 ![](https://img.shields.io/github/stars/securingsincity/react-ace.svg?style=social&label=Star)
+- [react-codemirror2](https://github.com/scniro/react-codemirror2) - 基于 CodeMirror 封装的 React 组件。 ![](https://img.shields.io/github/stars/scniro/react-codemirror2.svg?style=social&label=Star)
 - [react-codemirror](https://github.com/uiwjs/react-codemirror) - 基于CodeMirror封装的React组件。 ![](https://img.shields.io/github/stars/uiwjs/react-codemirror.svg?style=social&label=Star)
 - [react-monacoeditor](https://github.com/jaywcjlove/react-monacoeditor) - 基于Monaco Editor封装的React组件。 ![](https://img.shields.io/github/stars/jaywcjlove/react-monacoeditor.svg?style=social&label=Star)
 
