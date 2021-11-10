@@ -356,6 +356,7 @@ English | [简体中文](./README.md)
 
 - [recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3. ![](https://img.shields.io/github/stars/recharts/recharts.svg?style=social&label=Star)
 - [visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components.  ![](https://img.shields.io/github/stars/airbnb/visx.svg?style=social&label=Star)
+- [nivo](https://github.com/plouc/nivo) - Provides a rich set of dataviz components, built on top of the awesome d3 and Reactjs libraries. ![](https://img.shields.io/github/stars/plouc/nivo.svg?style=social&label=Star)
 - [victory](https://github.com/FormidableLabs/victory) - Data viz for React. ![](https://img.shields.io/github/stars/FormidableLabs/victory.svg?style=social&label=Star)
 - [react-vis](https://github.com/uber/react-vis) - Data visualization library based on React and d3. ![](https://img.shields.io/github/stars/uber/react-vis.svg?style=social&label=Star)
 - [BizCharts](https://github.com/alibaba/BizCharts) - Powerful data visualization library based on G2 and React. ![](https://img.shields.io/github/stars/alibaba/BizCharts.svg?style=social&label=Star)

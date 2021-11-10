@@ -364,6 +364,7 @@
 
 - [recharts](https://github.com/recharts/recharts) - 使用React和D3重新定义图表库。 ![](https://img.shields.io/github/stars/recharts/recharts.svg?style=social&label=Star)
 - [visx](https://github.com/airbnb/visx) - 🐯 visx | 可视化组件。 ![](https://img.shields.io/github/stars/airbnb/visx.svg?style=social&label=Star)
+- [nivo](https://github.com/plouc/nivo) - 提供一组丰富的 dataviz 组件，基于 d3 和 React。 ![](https://img.shields.io/github/stars/plouc/nivo.svg?style=social&label=Star)
 - [victory](https://github.com/FormidableLabs/victory) - 数据可视化。 ![](https://img.shields.io/github/stars/FormidableLabs/victory.svg?style=social&label=Star)
 - [react-vis](https://github.com/uber/react-vis) - 基于D3和React的数据可视化。 ![](https://img.shields.io/github/stars/uber/react-vis.svg?style=social&label=Star)
 - [BizCharts](https://github.com/alibaba/BizCharts) - 使用G2和React强大的数据可视化库。 ![](https://img.shields.io/github/stars/alibaba/BizCharts.svg?style=social&label=Star)
