@@ -250,6 +250,7 @@ English | [简体中文](./README.md)
 
 ### Viewer
 
+- [@react-pdf/renderer](https://github.com/diegomura/react-pdf) - React renderer for creating PDF files on the browser and server. ![](https://img.shields.io/github/stars/diegomura/react-pdf.svg?style=social&label=Star)
 - [react-markdown](https://github.com/rexxars/react-markdown) - Render Markdown as React components. ![](https://img.shields.io/github/stars/rexxars/react-markdown.svg?style=social&label=Star)
 - [react-pdf](https://github.com/wojtekmaj/react-pdf) - Display PDFs in your React app as easily as if they were images. ![](https://img.shields.io/github/stars/wojtekmaj/react-pdf.svg?style=social&label=Star)
 - [react-json-tree](https://github.com/alexkuz/react-json-tree) - React JSON Viewer Component, Extracted from redux-devtools.![](https://img.shields.io/github/stars/alexkuz/react-json-tree.svg?style=social&label=Star)
