@@ -8,6 +8,7 @@ English | [简体中文](./README.md)
 - [Utilities](#utilities)
   - [Router](#router)
   - [Hooks Collection](#hooks-collection)
+  - [State Management](#state-management)
   - [i18n](#i18n)
 - [UI Frameworks](#ui-frameworks)
   - [Mobile](#mobile)
@@ -85,6 +86,21 @@ English | [简体中文](./README.md)
 - [react-use](https://github.com/streamich/react-use) - React Hooks.  ![](https://img.shields.io/github/stars/streamich/react-use.svg?style=social&label=Star)
 - [ahooks](https://github.com/alibaba/hooks) - A collection of React Hooks specifically aiming at enterprise applications. ![](https://img.shields.io/github/stars/alibaba/hooks.svg?style=social&label=Star)
 - [beautiful-react-hooks](https://github.com/antonioru/beautiful-react-hooks) - A collection of hooks to speed-up your components and custom hooks development. ![](https://img.shields.io/github/stars/antonioru/beautiful-react-hooks.svg?style=social&label=Star)
+
+### State Management
+
+- [redux](https://github.com/reduxjs/redux) - Predictable State Container for JavaScript Apps. ![](https://img.shields.io/github/stars/reduxjs/redux.svg?style=social&label=Star)
+- [react-query](https://github.com/tannerlinsley/react-query) - Hooks for fetching, caching and updating asynchronous data in React. ![](https://img.shields.io/github/stars/tannerlinsley/react-query.svg?style=social&label=Star)
+- [mobx](https://github.com/mobxjs/mobx) - Simple, scalable state management. ![](https://img.shields.io/github/stars/mobxjs/mobx.svg?style=social&label=Star)
+- [xstate-react](https://github.com/statelyai/xstate/tree/main/packages/xstate-reactt) - State machines and statecharts for the modern web. ![](https://img.shields.io/github/stars/statelyai/xstate.svg?style=social&label=Star)
+- [flux](https://github.com/facebook/flux) - Application architecture for building user interfaces. ![](https://img.shields.io/github/stars/facebook/flux.svg?style=social&label=Star)
+- [dva](https://github.com/dvajs/dva) - 🌱 React and redux based, lightweight and elm-style framework. (Inspired by elm and choo). ![](https://img.shields.io/github/stars/facebook/flux.svg?style=social&label=Star)
+- [recoil](https://github.com/facebookexperimental/Recoil) - Experimental state management library for React apps. ![](https://img.shields.io/github/stars/facebookexperimental/Recoil.svg?style=social&label=Star)
+- [zustand](https://github.com/pmndrs/zustand) - Bear necessities for state management in React. ![](https://img.shields.io/github/stars/pmndrs/zustand.svg?style=social&label=Star)
+- [easy-peasy](https://github.com/ctrlplusb/easy-peasy) - Vegetarian friendly state for React. ![](https://img.shields.io/github/stars/antonioru/beautiful-react-hooks.svg?style=social&label=Star)
+- [effector](https://github.com/zerobias/effector) - Fast and powerful reactive state manager. ![](https://img.shields.io/github/stars/zerobias/effector.svg?style=social&label=Star)
+- [reactn](https://github.com/CharlesStover/reactn) - React, but with built-in global state management. ![](https://img.shields.io/github/stars/CharlesStover/reactn.svg?style=social&label=Star)
+- [hookstate](https://github.com/avkonst/hookstate) - The simple but very powerful and incredibly fast state management for React that is based on hooks. ![](https://img.shields.io/github/stars/avkonst/hookstate.svg?style=social&label=Star)
 
 ### i18n
 
