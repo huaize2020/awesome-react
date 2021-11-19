@@ -4,9 +4,9 @@
 
 > 同时推荐你查看我正在维护的其他仓库
 > - [awesome-nodejs](https://github.com/huaize2020/awesome-nodejs)
-> - [awesome-koa](https://github.com/huaize2020/awesome-koa)
-> - [awesome-egg](https://github.com/huaize2020/awesome-egg)
-> - [awesome-electron](https://github.com/electron-modules/awesome-electron)
+>   - [awesome-koa](https://github.com/huaize2020/awesome-koa)
+>   - [awesome-egg](https://github.com/huaize2020/awesome-egg)
+>   - [awesome-electron](https://github.com/electron-modules/awesome-electron)
 > - [awesome-frontend](https://github.com/huaize2020/awesome-frontend)
 
 ## 目录
@@ -15,6 +15,7 @@
 - [工具](#工具)
   - [路由](#路由)
   - [Hooks集合](#hooks集合)
+  - [状态管理](#状态管理)
   - [i18n](#i18n)
 - [UI框架](#ui框架)
   - [移动端](#移动端)
@@ -93,6 +94,20 @@
 - [react-use](https://github.com/streamich/react-use) - React Hooks.  ![](https://img.shields.io/github/stars/streamich/react-use.svg?style=social&label=Star)
 - [ahooks](https://github.com/alibaba/hooks) - 专门针对企业应用程序的 React Hook 集合。 ![](https://img.shields.io/github/stars/alibaba/hooks.svg?style=social&label=Star)
 - [beautiful-react-hooks](https://github.com/antonioru/beautiful-react-hooks) - 用于加速组件和开发自定义 Hooks 的 Hooks 集合。 ![](https://img.shields.io/github/stars/antonioru/beautiful-react-hooks.svg?style=social&label=Star)
+
+### 状态管理
+
+- [redux](https://github.com/reduxjs/redux) - 用于 JavaScript 应用程序的可预测状态容器。 ![](https://img.shields.io/github/stars/reduxjs/redux.svg?style=social&label=Star)
+- [mobx](https://github.com/mobxjs/mobx) - 简单、可扩展的状态管理。 ![](https://img.shields.io/github/stars/mobxjs/mobx.svg?style=social&label=Star)
+- [xstate-react](https://github.com/statelyai/xstate/tree/main/packages/xstate-reactt) - 现代网络的状态机和状态图。 ![](https://img.shields.io/github/stars/statelyai/xstate.svg?style=social&label=Star)
+- [flux](https://github.com/facebook/flux) - 用于构建用户界面的应用程序架构。 ![](https://img.shields.io/github/stars/facebook/flux.svg?style=social&label=Star)
+- [dva](https://github.com/dvajs/dva) - 🌱 基于 React 和 redux 的轻量级 elm 风格的框架。 （灵感来自 elm 和 choo）。 ![](https://img.shields.io/github/stars/facebook/flux.svg?style=social&label=Star)
+- [recoil](https://github.com/facebookexperimental/Recoil) - 实验级的状态管理库。 ![](https://img.shields.io/github/stars/facebookexperimental/Recoil.svg?style=social&label=Star)
+- [zustand](https://github.com/pmndrs/zustand) - 在 React 中承担状态管理。 ![](https://img.shields.io/github/stars/pmndrs/zustand.svg?style=social&label=Star)
+- [easy-peasy](https://github.com/ctrlplusb/easy-peasy) - Redux 的抽象，提供重构的 API，专注于开发人员体验。 ![](https://img.shields.io/github/stars/antonioru/beautiful-react-hooks.svg?style=social&label=Star)
+- [effector](https://github.com/zerobias/effector) - 快速而强大的 React 状态管理器。 ![](https://img.shields.io/github/stars/zerobias/effector.svg?style=social&label=Star)
+- [reactn](https://github.com/CharlesStover/reactn) - 内置全局状态管理的 React。 ![](https://img.shields.io/github/stars/CharlesStover/reactn.svg?style=social&label=Star)
+- [hookstate](https://github.com/avkonst/hookstate) - 基于Hooks 的简单但非常强大且非常快速的 React 状态管理库。 ![](https://img.shields.io/github/stars/avkonst/hookstate.svg?style=social&label=Star)
 
 ### i18n
 
