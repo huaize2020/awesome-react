@@ -5,6 +5,7 @@ English | [简体中文](./README.md)
 ## Table of contents
 
 - [Table of contents](#table-of-contents)
+- [Official](#official)
 - [Utilities](#utilities)
   - [Router](#router)
   - [Hooks Collection](#hooks-collection)
@@ -68,6 +69,12 @@ English | [简体中文](./README.md)
   - [Parallax](#parallax)
 - [Dev Tools](#dev-tools)
   - [Test](#test)
+
+## Official
+
+- [Website](https://reactjs.org/)
+- [Documentation](https://reactjs.org/docs/getting-started.html)
+- [Repository](https://github.com/facebook/react) ![](https://img.shields.io/github/stars/facebook/react.svg?style=social&label=Star)
 
 ## Utilities
 
@@ -211,8 +218,9 @@ English | [简体中文](./README.md)
 - [react-modal](https://github.com/reactjs/react-modal) - Accessible modal dialog component for React. ![](https://img.shields.io/github/stars/reactjs/react-modal.svg?style=social&label=Star)
 - [react-aria-modal](https://github.com/davidtheclark/react-aria-modal) - A fully accessible and flexible React modal built according WAI-ARIA Authoring Practices. ![](https://img.shields.io/github/stars/davidtheclark/react-aria-modal.svg?style=social&label=Star)
 - [react-skylight](https://github.com/marcio/react-skylight) - A react component for modals and dialogs. ![](https://img.shields.io/github/stars/marcio/react-skylight.svg?style=social&label=Star)
-- [reoverlay](https://github.com/hiradary/reoverlay) - The missing solution for managing modals. ![](https://img.shields.io/github/stars/hiradary/reoverlay.svg?style=social&label=Star)
+- [nice-modal-react](https://github.com/eBay/nice-modal-react) - A nice modal manager for React. ![](https://img.shields.io/github/stars/eBay/nice-modal-react.svg?style=social&label=Star)
 - [sweetalert2-react-content](https://github.com/sweetalert2/sweetalert2-react-content) - Official SweetAlert2 enhancer adding support for React elements as content.  ![](https://img.shields.io/github/stars/sweetalert2/sweetalert2-react-content.svg?style=social&label=Star)
+- [reoverlay](https://github.com/hiradary/reoverlay) - The missing solution for managing modals. ![](https://img.shields.io/github/stars/hiradary/reoverlay.svg?style=social&label=Star)
 - [reboron](https://github.com/bold-commerce/reboron) - A collection of dialog animations with React.js. ![](https://img.shields.io/github/stars/bold-commerce/reboron.svg?style=social&label=Star)
 
 ### Menu
