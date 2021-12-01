@@ -13,6 +13,8 @@
 ## 目录
 
 - [目录](#目录)
+- [官方资料](#官方资料)
+- [资源](#资源)
 - [工具](#工具)
   - [路由](#路由)
   - [Hooks集合](#hooks集合)
@@ -76,6 +78,16 @@
   - [视觉差](#视觉差)
 - [开发工具](#开发工具)
   - [测试相关](#测试相关)
+
+## 官方资料
+
+- [官网](https://reactjs.org/)
+- [文档](https://reactjs.org/docs/getting-started.html)
+- [仓库](https://github.com/facebook/react) ![](https://img.shields.io/github/stars/facebook/react.svg?style=social&label=Star)
+
+## 资源
+
+- [中文社区](http://react-china.org)
 
 ## 工具
 
@@ -220,6 +232,7 @@
 - [react-modal](https://github.com/reactjs/react-modal) - 可访问的模态对话框组件。 ![](https://img.shields.io/github/stars/reactjs/react-modal.svg?style=social&label=Star)
 - [react-aria-modal](https://github.com/davidtheclark/react-aria-modal) - 一个完全可访问且灵活的 React 模态对话框，根据 WAI-ARIA 最佳实践构建的。 ![](https://img.shields.io/github/stars/davidtheclark/react-aria-modal.svg?style=social&label=Star)
 - [react-skylight](https://github.com/marcio/react-skylight) - 一个模态弹窗和对话框组件。 ![](https://img.shields.io/github/stars/marcio/react-skylight.svg?style=social&label=Star)
+- [nice-modal-react](https://github.com/eBay/nice-modal-react) - 模态弹窗管理。 ![](https://img.shields.io/github/stars/eBay/nice-modal-react.svg?style=social&label=Star)
 - [sweetalert2-react-content](https://github.com/sweetalert2/sweetalert2-react-content) - 官方 SweetAlert2 的增强，添加了对 React 元素作为内容的支持。 ![](https://img.shields.io/github/stars/sweetalert2/sweetalert2-react-content.svg?style=social&label=Star)
 - [reoverlay](https://github.com/hiradary/reoverlay) - 一个管理模态对话框的方案。 ![](https://img.shields.io/github/stars/hiradary/reoverlay.svg?style=social&label=Star)
 - [reboron](https://github.com/bold-commerce/reboron) - 一组对话框动画。 ![](https://img.shields.io/github/stars/bold-commerce/reboron.svg?style=social&label=Star)
