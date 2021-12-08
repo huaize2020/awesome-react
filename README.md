@@ -15,6 +15,7 @@
 - [目录](#目录)
 - [官方资料](#官方资料)
 - [资源](#资源)
+  - [书籍](#书籍)
   - [小册](#小册)
 - [工具](#工具)
   - [路由](#路由)
@@ -89,6 +90,10 @@
 ## 资源
 
 - [中文社区](http://react-china.org)
+
+### 书籍
+
+- [React技术揭秘](https://github.com/BetaSu/just-react) - [@卡颂] 一本自顶向下的React源码分析书。 ![](https://img.shields.io/github/stars/BetaSu/just-react.svg?style=social&label=Star)
 
 ### 小册
 
