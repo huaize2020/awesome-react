@@ -26,6 +26,7 @@ English | [简体中文](./README.md)
   - [Sticky](#sticky)
   - [Tabs](#tabs)
   - [Drag and Drop](#drag-and-drop)
+  - [Resizable](#resizable)
   - [Editable data grid / spreadsheet](#editable-data-grid--spreadsheet)
   - [Table](#table)
   - [Viewer](#viewer)
@@ -250,6 +251,13 @@ English | [简体中文](./README.md)
 - [react-movable](https://github.com/tajo/react-movable) - Accessible and minimalistic (<4kB gzipped) library for vertical drag and drop in lists and tables. ![](https://img.shields.io/github/stars/tajo/react-movable.svg?style=social&label=Star)
 - [react-dragula](https://github.com/bevacqua/react-dragula) - Drag and drop so simple it hurts. ![](https://img.shields.io/github/stars/bevacqua/react-dragula.svg?style=social&label=Star)
 - [react-sortable-pane](https://github.com/bokuweb/react-sortable-pane) - Sortable and resizable pane component for React. ![](https://img.shields.io/github/stars/bokuweb/react-sortable-pane.svg?style=social&label=Star)
+
+### Resizable
+
+- [react-resizable-and-movable](https://github.com/bokuweb/react-resizable-and-movable) - A resizable and draggable component for React. ![](https://img.shields.io/github/stars/bokuweb/react-resizable-and-movable.svg?style=social&label=Star)
+- [react-resizable](https://github.com/strml/react-resizable) - A simple React component that is resizable with a handle. ![](https://img.shields.io/github/stars/strml/react-resizable.svg?style=social&label=Star)
+- [react-resizable-box](https://github.com/bokuweb/react-resizable-box) - A resizable component for React. ![](https://img.shields.io/github/stars/bokuweb/react-resizable-box.svg?style=social&label=Star)
+- [react-spaces](https://github.com/aeagle/react-spaces) - Nestable resizable, anchored, scrollable components. ![](https://img.shields.io/github/stars/aeagle/react-spaces.svg?style=social&label=Star)
 
 ### Editable data grid / spreadsheet
 

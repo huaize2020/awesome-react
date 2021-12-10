@@ -37,6 +37,7 @@
   - [粘性吸顶](#粘性吸顶)
   - [标签页](#标签页)
   - [拖放](#拖放)
+  - [缩放(放大缩小)](#缩放放大缩小)
   - [可编辑数据网格/电子表格](#可编辑数据网格电子表格)
   - [表格](#表格)
   - [查看/预览器](#查看预览器)
@@ -277,6 +278,12 @@
 - [react-dragula](https://github.com/bevacqua/react-dragula) - 拖放如此简单，让人心痛。 ![](https://img.shields.io/github/stars/bevacqua/react-dragula.svg?style=social&label=Star)
 - [react-sortable-pane](https://github.com/bokuweb/react-sortable-pane) - 可排序和可调整大小的窗格组件。 ![](https://img.shields.io/github/stars/bokuweb/react-sortable-pane.svg?style=social&label=Star)
 
+### 缩放(放大缩小)
+
+- [react-resizable-and-movable](https://github.com/bokuweb/react-resizable-and-movable) - 可缩放和可拖动组件。 ![](https://img.shields.io/github/stars/bokuweb/react-resizable-and-movable.svg?style=social&label=Star)
+- [react-resizable](https://github.com/strml/react-resizable) -一个简单可缩放的组件。 ![](https://img.shields.io/github/stars/strml/react-resizable.svg?style=social&label=Star)
+- [react-resizable-box](https://github.com/bokuweb/react-resizable-box) - 可缩放组件。 ![](https://img.shields.io/github/stars/bokuweb/react-resizable-box.svg?style=social&label=Star)
+- [react-spaces](https://github.com/aeagle/react-spaces) - 可嵌套的可调整大小、锚定、可滚动的组件。 ![](https://img.shields.io/github/stars/aeagle/react-spaces.svg?style=social&label=Star)
 ### 可编辑数据网格/电子表格
 
 - [ag-grid](https://github.com/ceolter/ag-grid) - 高级数据网格/数据表，支持原生JavaScript/React/AngularJS/Web Components. ![](https://img.shields.io/github/stars/ceolter/ag-grid.svg?style=social&label=Star)
