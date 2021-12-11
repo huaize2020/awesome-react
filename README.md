@@ -60,6 +60,7 @@
     - [地图](#地图)
     - [通用](#通用)
   - [表单组件](#表单组件)
+    - [表单逻辑](#表单逻辑)
     - [各类输入框](#各类输入框)
     - [自动完成](#自动完成)
     - [自动缩放的输入框/文本输入框](#自动缩放的输入框文本输入框)
@@ -454,6 +455,18 @@
 
 ### 表单组件
 
+#### 表单逻辑
+
+- [formik](https://github.com/jaredpalmer/formik) - React 中开发表单，从此没有眼泪。 ![](https://img.shields.io/github/stars/jaredpalmer/formik.svg?style=social&label=Star)
+- [react-hook-form](https://github.com/react-hook-form/react-hook-form) - 用于表单校验的不麻烦的 React hooks。 ![](https://img.shields.io/github/stars/react-hook-form/react-hook-form.svg?style=social&label=Star)
+- [redux-form](https://github.com/redux-form/redux-form) - Redux 表单状态管理(Web and Native)。 ![](https://img.shields.io/github/stars/redux-form/redux-form.svg?style=social&label=Star)
+- [react-jsonschema-form](https://github.com/mozilla-services/react-jsonschema-form) - 基于 JSONSchema 构建表单。 ![](https://img.shields.io/github/stars/mozilla-services/react-jsonschema-form.svg?style=social&label=Star)
+- [react-final-form](https://github.com/final-form/react-final-form) - 基于订阅的表单状态管理。![](https://img.shields.io/github/stars/final-form/react-final-form.svg?style=social&label=Star)
+- [formily](https://github.com/alibaba/formily) - 高性能、高扩展、TypeScript友好的表单解决方案。 ![](https://img.shields.io/github/stars/alibaba/formily.svg?style=social&label=Star)
+- [surveyjs](https://github.com/surveyjs/survey-library) - 先进的调查和表单库。 ![](https://img.shields.io/github/stars/surveyjs/survey-library.svg?style=social&label=Star)
+- [formsy-react](https://github.com/formsy/formsy-react) - React JS 的表单输入构建器和验证。 ![](https://img.shields.io/github/stars/formsy/formsy-react.svg?style=social&label=Star)
+- [react-validation-mixin](https://github.com/jurassix/react-validation-mixin) - eact 的简单验证Mixin (HoC高阶组件)。 ![](https://img.shields.io/github/stars/jurassix/react-validation-mixin.svg?style=social&label=Star)
+
 #### 各类输入框
 
 - [react-text-mask](https://github.com/msafi/text-mask) - 灵活、健壮、微小的输入框屏蔽(遮罩)，可用于React、Angular 和 vanilla JavaScript。![](https://img.shields.io/github/stars/msafi/text-mask.svg?style=social&label=Star)
@@ -626,7 +639,7 @@
 - [jest](https://github.com/facebook/jest) - 愉悦的JavaScript测试。 ![](https://img.shields.io/github/stars/facebook/jest.svg?style=social&label=Star)
 - [enzyme](https://github.com/airbnb/enzyme) - 用于React的测试工具。 ![](https://img.shields.io/github/stars/airbnb/enzyme.svg?style=social&label=Star)
 - [react-testing-library](https://github.com/testing-library/react-testing-library) - 🐐 简单而完整的React DOM测试实用程序，鼓励良好的测试实践。 ![](https://img.shields.io/github/stars/testing-library/react-testing-library.svg?style=social&label=Star)
-- [react-hooks-testing-library](https://github.com/testing-library/react-hooks-testing-library) - Simple and complete React hooks testing utilities that encourage good testing practices. ![](https://img.shields.io/github/stars/testing-library/react-hooks-testing-library.svg?style=social&label=Star)
+- [react-hooks-testing-library](https://github.com/testing-library/react-hooks-testing-library) - 🐏 简单而完整的 React hooks 测试实用程序，鼓励良好的测试实践。 ![](https://img.shields.io/github/stars/testing-library/react-hooks-testing-library.svg?style=social&label=Star)
 - [chai-enzyme](https://github.com/producthunt/chai-enzyme) - 配合enzyme使用的Chai.js断言库和便利函数 ![](https://img.shields.io/github/stars/producthunt/chai-enzyme.svg?style=social&label=Star)
 - [ui-harness](https://github.com/philcockfield/ui-harness) - 在React中创建、隔离和测试模块化UI组件。 ![](https://img.shields.io/github/stars/philcockfield/ui-harness.svg?style=social&label=Star)
 - [react-unit](https://github.com/pzavolinsky/react-unit) - 轻量级单元测试库。 ![](https://img.shields.io/github/stars/pzavolinsky/react-unit.svg?style=social&label=Star)
