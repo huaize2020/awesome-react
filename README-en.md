@@ -11,6 +11,7 @@ English | [简体中文](./README.md)
   - [Hooks Collection](#hooks-collection)
   - [State Management](#state-management)
   - [i18n](#i18n)
+  - [style](#style)
 - [UI Frameworks](#ui-frameworks)
   - [Mobile](#mobile)
   - [Solution](#solution)
@@ -118,6 +119,10 @@ English | [简体中文](./README.md)
 - [react-intl-universal](https://github.com/alibaba/react-intl-universal) - Internationalize React apps. Not only for React.Component but also for Vanilla JS. ![](https://img.shields.io/github/stars/alibaba/react-intl-universal.svg?style=social&label=Star)
 - [react-translate-maker](https://github.com/cherry-projects/react-translate-maker) - Universal internationalization (i18n) open source library for React. ![](https://img.shields.io/github/stars/cherry-projects/react-translate-maker.svg?style=social&label=Star)
 - [react-localized](https://github.com/fakundo/react-localized) - Internationalization for React components based on `gettext` format. ![](https://img.shields.io/github/stars/fakundo/react-localized.svg?style=social&label=Star)
+
+### style
+
+- [classnames](https://github.com/JedWatson/classnames) - A simple javascript utility for conditionally joining classNames together. ![](https://img.shields.io/github/stars/JedWatson/classnames.svg?style=social&label=Star)
 
 ## UI Frameworks
 
