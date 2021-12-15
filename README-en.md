@@ -15,6 +15,7 @@ English | [简体中文](./README.md)
 - [UI Frameworks](#ui-frameworks)
   - [Mobile](#mobile)
   - [Solution](#solution)
+- [Boilerplate](#boilerplate)
 - [UI Components](#ui-components)
   - [Buttons](#buttons)
   - [Icons](#icons)
@@ -172,6 +173,16 @@ English | [简体中文](./README.md)
 
 - [ant-design-pro](https://github.com/ant-design/ant-design-pro) - An out-of-box UI solution for enterprise applications as a React boilerplate. ![](https://img.shields.io/github/stars/ant-design/ant-design-pro.svg?style=social&label=Star)
 - [react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design. ![](https://img.shields.io/github/stars/marmelab/react-admin.svg?style=social&label=Star)
+
+## Boilerplate
+
+- [create-react-app](https://github.com/facebook/create-react-app) - Create React apps with no build configuration. ![](https://img.shields.io/github/stars/facebookincubator/create-react-app.svg?style=social&label=Star)
+- [react-boilerplate](https://github.com/mxstbr/react-boilerplate) - Quick packager-agnostic boilerplate for React modules using JSX. ![](https://img.shields.io/github/stars/mxstbr/react-boilerplate.svg?style=social&label=Star)
+- [electron-react-boilerplate](https://github.com/chentsulin/electron-react-boilerplate) - Live editing development on desktop app. ![](https://img.shields.io/github/stars/chentsulin/electron-react-boilerplate.svg?style=social&label=Star)
+- [react-hot-boilerplate](https://github.com/gaearon/react-hot-boilerplate) - Minimal live-editing boilerplate for your next ReactJS project. ![](https://img.shields.io/github/stars/gaearon/react-hot-boilerplate.svg?style=social&label=Star)
+- [generator-react-webpack](https://github.com/react-webpack-generators/generator-react-webpack) - Yeoman generator for ReactJS and Webpack. ![](https://img.shields.io/github/stars/react-webpack-generators/generator-react-webpack.svg?style=social&label=Star)
+- [essential-react](https://github.com/pheuter/essential-react) - A minimal skeleton for building testable React apps using Babel. ![](https://img.shields.io/github/stars/pheuter/essential-react.svg?style=social&label=Star)
+- [generator-starhackit](https://github.com/FredericHeem/starhackit) - Full-stack starter kit. ![](https://img.shields.io/github/stars/FredericHeem/starhackit.svg?style=social&label=Star)
 
 ## UI Components
 
