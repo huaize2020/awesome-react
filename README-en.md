@@ -45,10 +45,12 @@ English | [简体中文](./README.md)
   - [Photo / Image](#photo--image)
   - [Paginator](#paginator)
   - [Canvas](#canvas)
+    - [Whiteboard/Sketch/Draw Editor](#whiteboardsketchdraw-editor)
   - [Data Visualization](#data-visualization)
     - [Charts](#charts)
     - [Graphs](#graphs)
     - [Map](#map)
+    - [Gantt](#gantt)
     - [Common](#common)
   - [Form Components](#form-components)
     - [Form Logic](#form-logic)
@@ -393,8 +395,13 @@ English | [简体中文](./README.md)
 ### Canvas
 
 - [react-konva](https://github.com/konvajs/react-konva) - React Konva is a JavaScript library for drawing complex canvas graphics with bindings to the Konva Framework. ![](https://img.shields.io/github/stars/konvajs/react-konva.svg?style=social&label=Star)
+
+#### Whiteboard/Sketch/Draw Editor
+
+- [@excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams. ![](https://img.shields.io/github/stars/excalidraw/excalidraw.svg?style=social&label=Star)
 - [react-sketch](https://github.com/tbolis/react-sketch) - A Sketch tool for React based applications, backed-up by FabricJS. ![](https://img.shields.io/github/stars/tbolis/react-sketch.svg?style=social&label=Star)
 - [react-sketch-canvas](https://github.com/vinothpandian/react-sketch-canvas) - Freehand vector drawing tool for React using SVG as canvas. Accepts input from Mouse, touch, and graphic tablets. ![](https://img.shields.io/github/stars/vinothpandian/react-sketch-canvas.svg?style=social&label=Star)
+- [react-design-editor](https://github.com/salgum1114/react-design-editor) - React Design Editor has started to developed direct manipulation of editable design tools like Powerpoint, We've developed it with reactjs, ant.design, fabricjs. ![](https://img.shields.io/github/stars/salgum1114/react-design-editor.svg?style=social&label=Star)
 
 ### Data Visualization
 
@@ -437,6 +444,10 @@ English | [简体中文](./README.md)
 - [react-mapbox-gl](https://github.com/alex3165/react-mapbox-gl) - A React binding of mapbox-gl-js. ![](https://img.shields.io/github/stars/alex3165/react-mapbox-gl.svg?style=social&label=Star)
 - [react-geosuggest](https://github.com/ubilabs/react-geosuggest) - A React autosuggest for the Google Maps Places API. ![](https://img.shields.io/github/stars/ubilabs/react-geosuggest.svg?style=social&label=Star)
 - [react-svg-map](https://github.com/VictorCazanave/react-svg-map)- A set of components to display an interactive SVG map. ![](https://img.shields.io/github/stars/VictorCazanave/react-svg-map.svg?style=social&label=Star)
+
+#### Gantt
+
+- [gantt-for-react](https://github.com/hustcc/gantt-for-react) - Frappe Gantt components for React wrapper. ![](https://img.shields.io/github/stars/hustcc/gantt-for-react.svg?style=social&label=Star)
 
 #### Common
 
