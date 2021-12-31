@@ -56,10 +56,12 @@
   - [照片/图像](#照片图像)
   - [分页](#分页)
   - [画布](#画布)
+  - [白板/草图/绘图编辑器](#白板草图绘图编辑器)
   - [数据可视化](#数据可视化)
     - [图表](#图表)
     - [关系图](#关系图)
     - [地图](#地图)
+    - [甘特图](#甘特图)
     - [通用](#通用)
   - [表单组件](#表单组件)
     - [表单逻辑](#表单逻辑)
@@ -417,8 +419,13 @@
 ### 画布
 
 - [react-konva](https://github.com/konvajs/react-konva) - React Konva 是一个 JavaScript 库，用于绘制复杂的画布图形。 ![](https://img.shields.io/github/stars/konvajs/react-konva.svg?style=social&label=Star)
+
+### 白板/草图/绘图编辑器
+
+- [@excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - 用于手绘(如绘制图表)的虚拟白板。 ![](https://img.shields.io/github/stars/excalidraw/excalidraw.svg?style=social&label=Star)
 - [react-sketch](https://github.com/tbolis/react-sketch) - 基于FabricJS， 用于React应用程序的 Sketch 工具。 ![](https://img.shields.io/github/stars/tbolis/react-sketch.svg?style=social&label=Star)
 - [react-sketch-canvas](https://github.com/vinothpandian/react-sketch-canvas) - 使用 SVG 作为画布的 React 手绘矢量绘图工具。接受来自鼠标、触摸板和图形输入板的输入。 ![](https://img.shields.io/github/stars/vinothpandian/react-sketch-canvas.svg?style=social&label=Star)
+- [react-design-editor](https://github.com/salgum1114/react-design-editor) - 基于React、Fabricjs的可编辑设计工具 ![](https://img.shields.io/github/stars/salgum1114/react-design-editor.svg?style=social&label=Star)
 
 ### 数据可视化
 
@@ -461,6 +468,10 @@
 - [react-mapbox-gl](https://github.com/alex3165/react-mapbox-gl) - 基于mapbox-gl-js React封装。 ![](https://img.shields.io/github/stars/alex3165/react-mapbox-gl.svg?style=social&label=Star)
 - [react-geosuggest](https://github.com/ubilabs/react-geosuggest) - 为 Google Maps Places API做出自动建议的React组件。 ![](https://img.shields.io/github/stars/ubilabs/react-geosuggest.svg?style=social&label=Star)
 - [react-svg-map](https://github.com/VictorCazanave/react-svg-map) - 一组用于显示交互式 SVG 地图的组件。 ![](https://img.shields.io/github/stars/VictorCazanave/react-svg-map.svg?style=social&label=Star)
+
+#### 甘特图
+
+- [gantt-for-react](https://github.com/hustcc/gantt-for-react) - 基于 frappe-gantt 封装的甘特图。 ![](https://img.shields.io/github/stars/hustcc/gantt-for-react.svg?style=social&label=Star)
 
 #### 通用
 
