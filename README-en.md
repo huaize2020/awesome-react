@@ -73,6 +73,7 @@ English | [简体中文](./README.md)
     - [Image Editing](#image-editing)
 - [UI Animation](#ui-animation)
   - [Parallax](#parallax)
+- [Static Site Generator & Blogging](#static-site-generator--blogging)
 - [Dev Tools](#dev-tools)
   - [Test](#test)
 
@@ -630,6 +631,11 @@ English | [简体中文](./README.md)
 - [react-parallax](https://github.com/rrutsche/react-parallax) - A React Component for parallax effect. ![](https://img.shields.io/github/stars/rrutsche/react-parallax.svg?style=social&label=Star)
 - [react-parallax-tilt](https://github.com/mkosir/react-parallax-tilt) - Easily apply parallax tilt hover effect on components. ![](https://img.shields.io/github/stars/mkosir/react-parallax-tilt.svg?style=social&label=Star)
 - [react-parallax-component](https://github.com/keske/react-parallax-component) - Easiest way to add scroll parallax effect on the component. ![](https://img.shields.io/github/stars/keske/react-parallax-component.svg?style=social&label=Star)
+
+## Static Site Generator & Blogging
+
+- [gatsby](https://github.com/gatsbyjs/gatsby) - Build blazing fast, modern apps and websites with React. ![](https://img.shields.io/github/stars/gatsbyjs/gatsby.svg?style=social&label=Star)
+- [react-static](https://github.com/react-static/react-static) - A progressive static site generator for React. ![](https://img.shields.io/github/stars/react-static/react-static.svg?style=social&label=Star)
 
 ## Dev Tools
 
