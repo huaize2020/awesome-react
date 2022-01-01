@@ -84,6 +84,7 @@
     - [图片编辑](#图片编辑)
 - [UI动画](#ui动画)
   - [视觉差](#视觉差)
+- [静态网站生成 & 博客](#静态网站生成--博客)
 - [开发工具](#开发工具)
   - [测试相关](#测试相关)
 
@@ -655,6 +656,11 @@
 - [react-parallax](https://github.com/rrutsche/react-parallax) - 视觉差效果。 ![](https://img.shields.io/github/stars/rrutsche/react-parallax.svg?style=social&label=Star)
 - [react-parallax-tilt](https://github.com/mkosir/react-parallax-tilt) - 轻松在组件上应用视差倾斜悬停效果。Easily apply parallax tilt hover effect on components. ![](https://img.shields.io/github/stars/mkosir/react-parallax-tilt.svg?style=social&label=Star)
 - [react-parallax-component](https://github.com/keske/react-parallax-component) - 在组件上添加滚动视差效果的最简单方法。 ![](https://img.shields.io/github/stars/keske/react-parallax-component.svg?style=social&label=Star)
+
+## 静态网站生成 & 博客
+
+- [gatsby](https://github.com/gatsbyjs/gatsby) - 使用 React 构建快速、现代的应用程序和网站。 ![](https://img.shields.io/github/stars/gatsbyjs/gatsby.svg?style=social&label=Star)
+- [react-static](https://github.com/react-static/react-static) - 渐进式的 React 静态网站生成工具。 ![](https://img.shields.io/github/stars/react-static/react-static.svg?style=social&label=Star)
 
 ## 开发工具
 
