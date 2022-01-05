@@ -38,8 +38,13 @@
   - [导航菜单](#导航菜单)
   - [粘性吸顶](#粘性吸顶)
   - [标签页](#标签页)
-  - [拖放](#拖放)
-  - [缩放(放大缩小)](#缩放放大缩小)
+  - [设备输入/用户操作](#设备输入用户操作)
+    - [键盘事件](#键盘事件)
+    - [滚动事件](#滚动事件)
+    - [触摸滑动](#触摸滑动)
+    - [鼠标事件](#鼠标事件)
+    - [拖放](#拖放)
+    - [缩放(放大缩小)](#缩放放大缩小)
   - [可编辑数据网格/电子表格](#可编辑数据网格电子表格)
   - [表格](#表格)
   - [查看/预览器](#查看预览器)
@@ -285,7 +290,32 @@
 - [react-tabs](https://github.com/reactjs/react-tabs) - 选项卡切换组件。 ![](https://img.shields.io/github/stars/reactjs/react-tabs.svg?style=social&label=Star)
 - [react-tabtab](https://github.com/ctxhou/react-tabtab) - 选项卡切换组件。 ![](https://img.shields.io/github/stars/ctxhou/react-tabtab.svg?style=social&label=Star)
 
-### 拖放
+
+### 设备输入/用户操作
+
+#### 键盘事件
+
+- [react-hotkeys](https://github.com/chrisui/react-hotkeys) - 声明式热键和焦点区域管理。 ![](https://img.shields.io/github/stars/chrisui/react-hotkeys.svg?style=social&label=Star)
+- [react-keydown](https://github.com/glortho/react-keydown) - 轻量的 Keydown 键盘按下 React 封装。 ![](https://img.shields.io/github/stars/glortho/react-keydown.svg?style=social&label=Star)
+- [react-key-handler](https://github.com/ayrton/react-key-handler) - 处理键盘事件。 ![](https://img.shields.io/github/stars/ayrton/react-key-handler.svg?style=social&label=Star)
+- [react-shortcuts](https://github.com/avocode/react-shortcuts) - 在一个地方统一管理键盘快捷键。 ![](https://img.shields.io/github/stars/avocode/react-shortcuts.svg?style=social&label=Star)
+- [useKeyCapture](https://github.com/pranesh239/use-key-capture) - 自定义Hook，以侦听目标或全局的键盘按下事件。 ![](https://img.shields.io/github/stars/pranesh239/use-key-capture.svg?style=social&label=Star)
+
+#### 滚动事件
+
+- [react-scroll-components](https://github.com/jeroencoumans/react-scroll-components) - 页面滚动的组件集合。 ![](https://img.shields.io/github/stars/jeroencoumans/react-scroll-components.svg?style=social&label=Star)
+
+#### 触摸滑动
+
+- [react-swipe](https://github.com/voronianski/react-swipe) - 基于Swipe.js 封装的 React 组件。  ![](https://img.shields.io/github/stars/voronianski/react-swipe.svg?style=social&label=Star)
+
+#### 鼠标事件
+
+- [react-fastclick](https://github.com/JakeSidSmith/react-fastclick) - React版的 fastclick。 ![](https://img.shields.io/github/stars/JakeSidSmith/react-fastclick.svg?style=social&label=Star)
+- [react-aim](https://github.com/gabrielbull/react-aim) - 确定用于触发鼠标事件的光标。 ![](https://img.shields.io/github/stars/gabrielbull/react-aim.svg?style=social&label=Star)
+- [react-hook-mighty-mouse](https://github.com/mkosir/react-hook-mighty-mouse) - 跟踪所选元素上的鼠标事件的Hook。 ![](https://img.shields.io/github/stars/mkosir/react-hook-mighty-mouse.svg?style=social&label=Star)
+
+#### 拖放
 
 - [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) - 漂亮且易于使用的 React 列表拖拽。 ![](https://img.shields.io/github/stars/atlassian/react-beautiful-dnd.svg?style=social&label=Star)
 - [react-dnd](https://github.com/gaearon/react-dnd) - 拖拽库 ![](https://img.shields.io/github/stars/gaearon/react-dnd.svg?style=social&label=Star)
@@ -295,7 +325,7 @@
 - [react-dragula](https://github.com/bevacqua/react-dragula) - 拖放如此简单，让人心痛。 ![](https://img.shields.io/github/stars/bevacqua/react-dragula.svg?style=social&label=Star)
 - [react-sortable-pane](https://github.com/bokuweb/react-sortable-pane) - 可排序和可调整大小的窗格组件。 ![](https://img.shields.io/github/stars/bokuweb/react-sortable-pane.svg?style=social&label=Star)
 
-### 缩放(放大缩小)
+#### 缩放(放大缩小)
 
 - [react-resizable-and-movable](https://github.com/bokuweb/react-resizable-and-movable) - 可缩放和可拖动组件。 ![](https://img.shields.io/github/stars/bokuweb/react-resizable-and-movable.svg?style=social&label=Star)
 - [react-resizable](https://github.com/strml/react-resizable) -一个简单可缩放的组件。 ![](https://img.shields.io/github/stars/strml/react-resizable.svg?style=social&label=Star)

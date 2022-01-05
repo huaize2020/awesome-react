@@ -27,8 +27,13 @@ English | [简体中文](./README.md)
   - [Menu](#menu)
   - [Sticky](#sticky)
   - [Tabs](#tabs)
-  - [Drag and Drop](#drag-and-drop)
-  - [Resizable](#resizable)
+  - [Device Input/User Action](#device-inputuser-action)
+    - [Keyboard Events](#keyboard-events)
+    - [Scroll Events](#scroll-events)
+    - [Touch Swipe](#touch-swipe)
+    - [Mouse Events](#mouse-events)
+    - [Drag and Drop](#drag-and-drop)
+    - [Resizable](#resizable)
   - [Editable data grid / spreadsheet](#editable-data-grid--spreadsheet)
   - [Table](#table)
   - [Viewer](#viewer)
@@ -260,7 +265,32 @@ English | [简体中文](./README.md)
 - [react-tabs](https://github.com/reactjs/react-tabs) - React tabs component. ![](https://img.shields.io/github/stars/reactjs/react-tabs.svg?style=social&label=Star)
 - [react-tabtab](https://github.com/ctxhou/react-tabtab) - React, tabs. ![](https://img.shields.io/github/stars/ctxhou/react-tabtab.svg?style=social&label=Star)
 
-### Drag and Drop
+
+### Device Input/User Action
+
+####  Keyboard Events
+
+- [react-hotkeys](https://github.com/chrisui/react-hotkeys) - Declarative hotkey and focus area management for React. ![](https://img.shields.io/github/stars/chrisui/react-hotkeys.svg?style=social&label=Star)
+- [react-keydown](https://github.com/glortho/react-keydown) - Lightweight keydown wrapper for React components. ![](https://img.shields.io/github/stars/glortho/react-keydown.svg?style=social&label=Star)
+- [react-key-handler](https://github.com/ayrton/react-key-handler) - React component to handle keyboard events. ![](https://img.shields.io/github/stars/ayrton/react-key-handler.svg?style=social&label=Star)
+- [react-shortcuts](https://github.com/avocode/react-shortcuts) - Manage keyboard shortcuts from one place. ![](https://img.shields.io/github/stars/avocode/react-shortcuts.svg?style=social&label=Star)
+- [useKeyCapture](https://github.com/pranesh239/use-key-capture) - A custom hook to ease the key-press listeners of a target/global. ![](https://img.shields.io/github/stars/pranesh239/use-key-capture.svg?style=social&label=Star)
+
+#### Scroll Events
+
+- [react-scroll-components](https://github.com/jeroencoumans/react-scroll-components) - A set of components that react to page scrolling. ![](https://img.shields.io/github/stars/jeroencoumans/react-scroll-components.svg?style=social&label=Star)
+
+#### Touch Swipe
+
+- [react-swipe](https://github.com/voronianski/react-swipe) - Swipe.js as a React component. ![](https://img.shields.io/github/stars/voronianski/react-swipe.svg?style=social&label=Star)
+
+#### Mouse Events
+
+- [react-fastclick](https://github.com/JakeSidSmith/react-fastclick) - Fast Touch Events for React. ![](https://img.shields.io/github/stars/JakeSidSmith/react-fastclick.svg?style=social&label=Star)
+- [react-aim](https://github.com/gabrielbull/react-aim) - Determine the cursor aim for triggering mouse events. ![](https://img.shields.io/github/stars/gabrielbull/react-aim.svg?style=social&label=Star)
+- [react-hook-mighty-mouse](https://github.com/mkosir/react-hook-mighty-mouse) - Hook that tracks mouse events on selected element. ![](https://img.shields.io/github/stars/mkosir/react-hook-mighty-mouse.svg?style=social&label=Star)
+
+#### Drag and Drop
 
 - [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) - Beautiful and accessible drag and drop for lists with React. ![](https://img.shields.io/github/stars/atlassian/react-beautiful-dnd.svg?style=social&label=Star)
 - [react-dnd](https://github.com/gaearon/react-dnd) - Drag and Drop for React. ![](https://img.shields.io/github/stars/gaearon/react-dnd.svg?style=social&label=Star)
@@ -270,7 +300,7 @@ English | [简体中文](./README.md)
 - [react-dragula](https://github.com/bevacqua/react-dragula) - Drag and drop so simple it hurts. ![](https://img.shields.io/github/stars/bevacqua/react-dragula.svg?style=social&label=Star)
 - [react-sortable-pane](https://github.com/bokuweb/react-sortable-pane) - Sortable and resizable pane component for React. ![](https://img.shields.io/github/stars/bokuweb/react-sortable-pane.svg?style=social&label=Star)
 
-### Resizable
+#### Resizable
 
 - [react-resizable-and-movable](https://github.com/bokuweb/react-resizable-and-movable) - A resizable and draggable component for React. ![](https://img.shields.io/github/stars/bokuweb/react-resizable-and-movable.svg?style=social&label=Star)
 - [react-resizable](https://github.com/strml/react-resizable) - A simple React component that is resizable with a handle. ![](https://img.shields.io/github/stars/strml/react-resizable.svg?style=social&label=Star)
