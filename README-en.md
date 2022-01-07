@@ -78,7 +78,7 @@ English | [简体中文](./README.md)
     - [Image Editing](#image-editing)
 - [UI Animation](#ui-animation)
   - [Parallax](#parallax)
-- [Static Site Generator & Blogging](#static-site-generator--blogging)
+- [Static Site Generator & Documentation Generator & Blogging](#static-site-generator--documentation-generator--blogging)
 - [Dev Tools](#dev-tools)
   - [Test](#test)
 
@@ -662,10 +662,13 @@ English | [简体中文](./README.md)
 - [react-parallax-tilt](https://github.com/mkosir/react-parallax-tilt) - Easily apply parallax tilt hover effect on components. ![](https://img.shields.io/github/stars/mkosir/react-parallax-tilt.svg?style=social&label=Star)
 - [react-parallax-component](https://github.com/keske/react-parallax-component) - Easiest way to add scroll parallax effect on the component. ![](https://img.shields.io/github/stars/keske/react-parallax-component.svg?style=social&label=Star)
 
-## Static Site Generator & Blogging
+## Static Site Generator & Documentation Generator & Blogging
 
 - [gatsby](https://github.com/gatsbyjs/gatsby) - Build blazing fast, modern apps and websites with React. ![](https://img.shields.io/github/stars/gatsbyjs/gatsby.svg?style=social&label=Star)
+- [Docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites. ![](https://img.shields.io/github/stars/facebook/docusaurus.svg?style=social&label=Star)
 - [react-static](https://github.com/react-static/react-static) - A progressive static site generator for React. ![](https://img.shields.io/github/stars/react-static/react-static.svg?style=social&label=Star)
+- [dumi](https://github.com/umijs/dumi) - 📖 Documentation Generator of React Component. ![](https://img.shields.io/github/stars/umijs/dumi.svg?style=social&label=Star)
+- [component-controls](https://github.com/ccontrols/component-controls) - A next-generation tool to create blazing-fast documentation sites. ![](https://img.shields.io/github/stars/ccontrols/component-controls.svg?style=social&label=Star)
 
 ## Dev Tools
 
