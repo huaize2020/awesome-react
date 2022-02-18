@@ -141,6 +141,7 @@
 - [dva](https://github.com/dvajs/dva) - 🌱 基于 React 和 redux 的轻量级 elm 风格的框架。 （灵感来自 elm 和 choo）。 ![](https://img.shields.io/github/stars/facebook/flux.svg?style=social&label=Star)
 - [recoil](https://github.com/facebookexperimental/Recoil) - 实验级的状态管理库。 ![](https://img.shields.io/github/stars/facebookexperimental/Recoil.svg?style=social&label=Star)
 - [zustand](https://github.com/pmndrs/zustand) - 在 React 中承担状态管理。 ![](https://img.shields.io/github/stars/pmndrs/zustand.svg?style=social&label=Star)
+- [jotai](https://github.com/pmndrs/jotai) - 灵活的状态管理。 ![](https://img.shields.io/github/stars/pmndrs/jotai.svg?style=social&label=Star)
 - [easy-peasy](https://github.com/ctrlplusb/easy-peasy) - Redux 的抽象，提供重构的 API，专注于开发人员体验。 ![](https://img.shields.io/github/stars/antonioru/beautiful-react-hooks.svg?style=social&label=Star)
 - [effector](https://github.com/zerobias/effector) - 快速而强大的 React 状态管理器。 ![](https://img.shields.io/github/stars/zerobias/effector.svg?style=social&label=Star)
 - [reactn](https://github.com/CharlesStover/reactn) - 内置全局状态管理的 React。 ![](https://img.shields.io/github/stars/CharlesStover/reactn.svg?style=social&label=Star)
