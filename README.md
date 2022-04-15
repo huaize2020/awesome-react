@@ -124,6 +124,7 @@
 - [universal-router](https://github.com/kriasoft/universal-router) - 简单中间件式路由，用于同构 JavaScript Web 应用程序的。 ![](https://img.shields.io/github/stars/kriasoft/universal-router.svg?style=social&label=Star)
 - [react-keepalive-router](https://github.com/GoodLuckAlien/react-keepalive-router) - 基于react 16.8+ ,react-router 4+ 开发的react缓存组件，可以用于缓存页面组件，类似vue的keepalive包裹vue-router的效果功能。 ![](https://img.shields.io/github/stars/GoodLuckAlien/react-keepalive-router.svg?style=social&label=Star)
 - [curi](https://github.com/pshrmn/curi) - 用于单页应用程序的 JavaScript 路由。 ![](https://img.shields.io/github/stars/pshrmn/curi.svg?style=social&label=Star)
+- [react-location](https://github.com/tanstack/react-location) - React 的企业客户端路由 ![](https://img.shields.io/github/stars/tanstack/react-location.svg?style=social&label=Star)
 
 
 ### Hooks集合

@@ -99,6 +99,7 @@ English | [简体中文](./README.md)
 - [universal-router](https://github.com/kriasoft/universal-router) - A simple middleware-style router for isomorphic JavaScript web apps. ![](https://img.shields.io/github/stars/kriasoft/universal-router.svg?style=social&label=Star)
 - [react-keepalive-router](https://github.com/GoodLuckAlien/react-keepalive-router) - The react cache component developed based on react 16.8 +, react router 4 + can be used to cache page components, similar to Vue keepalive package Vue router effect function. ![](https://img.shields.io/github/stars/GoodLuckAlien/react-keepalive-router.svg?style=social&label=Star)
 - [curi](https://github.com/pshrmn/curi) - JavaScript router for single-page applications. ![](https://img.shields.io/github/stars/pshrmn/curi.svg?style=social&label=Star)
+- [react-location](https://github.com/tanstack/react-location) - Enterprise Client-Side Routing for React ![](https://img.shields.io/github/stars/tanstack/react-location.svg?style=social&label=Star)
 
 ### Hooks Collection
 
