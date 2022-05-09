@@ -572,6 +572,7 @@ English | [简体中文](./README.md)
 
 #### Emoji picker
 
+- [emoji-mart](https://github.com/missive/emoji-mart) - Emoji Mart is a customizable emoji picker HTML component for the web. ![](https://img.shields.io/github/stars/missive/emoji-mart.svg?style=social)
 - [interweave-emoji-picker](https://github.com/milesj/interweave/tree/master/packages/emoji-picker) - A React based emoji picker powered by Interweave and Emojibase. ![](https://img.shields.io/github/stars/milesj/interweave.svg?style=social&label=Star)
 
 #### Color Picker

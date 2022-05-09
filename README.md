@@ -596,6 +596,7 @@
 
 #### 表情符号选择器
 
+- [emoji-mart](https://github.com/missive/emoji-mart) - Emoji Mart 是一个可定制的表情选择器组件。![](https://img.shields.io/github/stars/missive/emoji-mart.svg?style=social)
 - [interweave-emoji-picker](https://github.com/milesj/interweave/tree/master/packages/emoji-picker) - 由`Interweave`和`Emojibase`提供支持的基于 React的表情符号选择器。 ![](https://img.shields.io/github/stars/milesj/interweave.svg?style=social&label=Star)
 
 
