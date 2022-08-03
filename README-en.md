@@ -76,6 +76,7 @@ English | [简体中文](./README.md)
     - [Code Editor](#code-editor)
     - [Markdown Editor](#markdown-editor)
     - [Image Editing](#image-editing)
+  - [GraphQL](#graphql)
 - [UI Animation](#ui-animation)
   - [Parallax](#parallax)
 - [Static Site Generator & Documentation Generator & Blogging](#static-site-generator--documentation-generator--blogging)
@@ -632,6 +633,10 @@ English | [简体中文](./README.md)
 - [react-easy-crop](https://github.com/ricardo-ch/react-easy-crop) - Component to crop/rotate images/videos with easy interactions. Touch friendly. ![](https://img.shields.io/github/stars/ricardo-ch/react-easy-crop.svg?style=social&label=Star)
 - [react-image-cropper](https://github.com/jerryshew/react-image-cropper) - Image cropper. ![](https://img.shields.io/github/stars/jerryshew/react-image-cropper.svg?style=social&label=Star)
 - [react-avatar-generator](https://github.com/JosephSmith127/react-avatar-generator) - Generate fun kaleidoscope for user avatars. ![](https://img.shields.io/github/stars/JosephSmith127/react-avatar-generator.svg?style=social&label=Star)
+
+### GraphQL
+
+- [react-relay](https://github.com/facebook/relay/tree/main/packages/react-relay) - Relay is a JavaScript framework for building data-driven React applications. ![](https://img.shields.io/github/stars/facebook/relay.svg?style=social&label=Star)
 
 ## UI Animation
 
