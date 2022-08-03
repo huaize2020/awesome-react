@@ -87,6 +87,7 @@
     - [代码编辑器](#代码编辑器)
     - [Markdown编辑器](#markdown编辑器)
     - [图片编辑](#图片编辑)
+  - [GraphQL](#graphql)
 - [UI动画](#ui动画)
   - [视觉差](#视觉差)
 - [静态网站生成 & 文档生成 & 博客](#静态网站生成--文档生成--博客)
@@ -657,6 +658,10 @@
 - [react-easy-crop](https://github.com/ricardo-ch/react-easy-crop) - 通过简单的交互来裁剪/旋转图像/视频的组件。移动端触摸友好。 ![](https://img.shields.io/github/stars/ricardo-ch/react-easy-crop.svg?style=social&label=Star)
 - [react-image-cropper](https://github.com/jerryshew/react-image-cropper) - 图像裁剪。 ![](https://img.shields.io/github/stars/jerryshew/react-image-cropper.svg?style=social&label=Star)
 - [react-avatar-generator](https://github.com/JosephSmith127/react-avatar-generator) - 为用户头像生成有趣的万花筒。 ![](https://img.shields.io/github/stars/JosephSmith127/react-avatar-generator.svg?style=social&label=Star)
+
+### GraphQL
+
+- [react-relay](https://github.com/facebook/relay/tree/main/packages/react-relay) - Relay 用于构建基于数据驱动的 React 应用。 ![](https://img.shields.io/github/stars/facebook/relay.svg?style=social&label=Star)
 
 ## UI动画
 
