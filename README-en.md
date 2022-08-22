@@ -358,6 +358,7 @@ English | [简体中文](./README.md)
 - [react-window](https://github.com/bvaughn/react-window) - React components for efficiently rendering large lists and tabular data. ![](https://img.shields.io/github/stars/bvaughn/react-window.svg?style=social&label=Star)
 - [react-list](https://github.com/orgsync/react-list) - A versatile infinite scroll React component. ![](https://img.shields.io/github/stars/orgsync/react-list.svg?style=social&label=Star)
 - [@egjs/react-infinitegrid](https://github.com/naver/egjs-infinitegrid/blob/master/packages/react-infinitegrid) - A module used to arrange card elements including content infinitely according to various layout types. ![](https://img.shields.io/github/stars/mkosir/react-parallax-tilt.svg?style=social&label=Star)
+- [react-virtualized-tree](https://github.com/diogofcunha/react-virtualized-tree) - A virtualized tree view component making use of react. ![](https://img.shields.io/github/stars/mkosir/react-parallax-tilt.svg?style=social&label=Star)
 - [af-virtual-scroll](https://github.com/nowaalex/af-virtual-scroll) - Render large scrollable lists and tables. ![](https://img.shields.io/github/stars/nowaalex/af-virtual-scroll.svg?style=social&label=Star)
 
 ### Loader
