@@ -79,7 +79,7 @@ English | [简体中文](./README.md)
   - [GraphQL](#graphql)
 - [UI Animation](#ui-animation)
   - [Parallax](#parallax)
-- [Static Site Generator & Documentation Generator & Blogging](#static-site-generator--documentation-generator--blogging)
+- [Static Site Generator \& Documentation Generator \& Blogging](#static-site-generator--documentation-generator--blogging)
 - [Dev Tools](#dev-tools)
   - [Test](#test)
 
@@ -133,6 +133,7 @@ English | [简体中文](./README.md)
 
 ### style
 
+- [@emotion/react](https://github.com/emotion-js/emotion/) - 👩‍🎤 CSS-in-JS library designed for high performance style composition. ![](https://img.shields.io/github/stars/emotion-js/emotion.svg?style=social&label=Star)
 - [classnames](https://github.com/JedWatson/classnames) - A simple javascript utility for conditionally joining classNames together. ![](https://img.shields.io/github/stars/JedWatson/classnames.svg?style=social&label=Star)
 
 ## UI Frameworks
@@ -645,6 +646,7 @@ English | [简体中文](./README.md)
 - [react-motion](https://github.com/chenglou/react-motion) - A spring that solves your animation problems. ![](https://img.shields.io/github/stars/chenglou/react-motion.svg?style=social&label=Star)
 - [framer-motion](https://github.com/framer/motion) - An animation and gesture library. ![](https://img.shields.io/github/stars/framer/motion.svg?style=social&label=Star)
 - [react-flip-move](https://github.com/joshwcomeau/react-flip-move) - Effortless animation between DOM changes (eg. list reordering) using the FLIP technique. ![](https://img.shields.io/github/stars/joshwcomeau/react-flip-move.svg?style=social&label=Star)
+- [react-flip-toolkit](https://github.com/aholachek/react-flip-toolkit) - A lightweight magic-move library for configurable layout transitions. ![](https://img.shields.io/github/stars/aholachek/react-flip-toolkit.svg?style=social&label=Star)
 - [velocity-react](https://github.com/twitter-fabric/velocity-react) - Velocity.js wrapper. ![](https://img.shields.io/github/stars/twitter-fabric/velocity-react.svg?style=social&label=Star)
 - [react-animations](https://github.com/FormidableLabs/react-animations) - A collection of animations for inline style libraries, React-animations implements all animations from animate.css. ![](https://img.shields.io/github/stars/FormidableLabs/react-animations.svg?style=social&label=Star)
 - [react-router-transition](https://github.com/maisano/react-router-transition) - Transitions built for react-router, powered by react-motion. ![](https://img.shields.io/github/stars/maisano/react-router-transition.svg?style=social&label=Star)
