@@ -92,6 +92,7 @@
   - [视觉差](#视觉差)
 - [静态网站生成 \& 文档生成 \& 博客](#静态网站生成--文档生成--博客)
 - [开发工具](#开发工具)
+  - [调试相关](#调试相关)
   - [测试相关](#测试相关)
 
 ## 官方资料
@@ -706,6 +707,10 @@
 - [component-controls](https://github.com/ccontrols/component-controls) - 用于创建极速文档站点的新一代工具。 ![](https://img.shields.io/github/stars/ccontrols/component-controls.svg?style=social&label=Star)
 
 ## 开发工具
+
+### 调试相关
+
+- [react-dev-inspector](https://github.com/zthxxx/react-dev-inspector) - 只需单击一下，即可直接从浏览器 React 组件跳转到本地 IDE 代码。 ![](https://img.shields.io/github/stars/zthxxx/react-dev-inspector.svg?style=social&label=Star)
 
 ### 测试相关
 

@@ -81,6 +81,7 @@ English | [简体中文](./README.md)
   - [Parallax](#parallax)
 - [Static Site Generator \& Documentation Generator \& Blogging](#static-site-generator--documentation-generator--blogging)
 - [Dev Tools](#dev-tools)
+  - [Debug](#debug)
   - [Test](#test)
 
 ## Official
@@ -681,6 +682,10 @@ English | [简体中文](./README.md)
 - [component-controls](https://github.com/ccontrols/component-controls) - A next-generation tool to create blazing-fast documentation sites. ![](https://img.shields.io/github/stars/ccontrols/component-controls.svg?style=social&label=Star)
 
 ## Dev Tools
+
+### Debug
+
+- [react-dev-inspector](https://github.com/zthxxx/react-dev-inspector) - Jump to local IDE code directly from browser React component by just a simple click.  ![](https://img.shields.io/github/stars/zthxxx/react-dev-inspector.svg?style=social&label=Star)
 
 ### Test
 
