@@ -93,6 +93,7 @@
 - [静态网站生成 \& 文档生成 \& 博客](#静态网站生成--文档生成--博客)
 - [开发工具](#开发工具)
   - [调试相关](#调试相关)
+  - [性能相关](#性能相关)
   - [测试相关](#测试相关)
 
 ## 官方资料
@@ -333,7 +334,7 @@
 
 - [react-resizable-and-movable](https://github.com/bokuweb/react-resizable-and-movable) - 可缩放和可拖动组件。 ![](https://img.shields.io/github/stars/bokuweb/react-resizable-and-movable.svg?style=social&label=Star)
 - [react-resizable](https://github.com/strml/react-resizable) -一个简单可缩放的组件。 ![](https://img.shields.io/github/stars/strml/react-resizable.svg?style=social&label=Star)
-- [react-resizable-box](https://github.com/bokuweb/react-resizable-box) - 可缩放组件。 ![](https://img.shields.io/github/stars/bokuweb/react-resizable-box.svg?style=social&label=Star)
+- [re-resizable](https://github.com/bokuweb/re-resizable) - 可缩放组件。 ![](https://img.shields.io/github/stars/bokuweb/re-resizable.svg?style=social&label=Star)
 - [react-spaces](https://github.com/aeagle/react-spaces) - 可嵌套的可调整大小、锚定、可滚动的组件。 ![](https://img.shields.io/github/stars/aeagle/react-spaces.svg?style=social&label=Star)
 ### 可编辑数据网格/电子表格
 
@@ -711,6 +712,10 @@
 ### 调试相关
 
 - [react-dev-inspector](https://github.com/zthxxx/react-dev-inspector) - 只需单击一下，即可直接从浏览器 React 组件跳转到本地 IDE 代码。 ![](https://img.shields.io/github/stars/zthxxx/react-dev-inspector.svg?style=social&label=Star)
+
+### 性能相关
+
+- [@welldone-software/why-did-you-render](https://github.com/welldone-software/why-did-you-render) - 由 Welldone Software 开发，通过对 React 进行猴子补丁 (Monkey Patch)，通知你有关于可能避免的重新渲染的信息。它也可以在 React Native 中使用。  ![](https://img.shields.io/github/stars/welldone-software/why-did-you-render.svg?style=social&label=Star)
 
 ### 测试相关
 

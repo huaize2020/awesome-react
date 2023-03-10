@@ -82,6 +82,7 @@ English | [简体中文](./README.md)
 - [Static Site Generator \& Documentation Generator \& Blogging](#static-site-generator--documentation-generator--blogging)
 - [Dev Tools](#dev-tools)
   - [Debug](#debug)
+  - [Performance](#performance)
   - [Test](#test)
 
 ## Official
@@ -308,7 +309,7 @@ English | [简体中文](./README.md)
 
 - [react-resizable-and-movable](https://github.com/bokuweb/react-resizable-and-movable) - A resizable and draggable component for React. ![](https://img.shields.io/github/stars/bokuweb/react-resizable-and-movable.svg?style=social&label=Star)
 - [react-resizable](https://github.com/strml/react-resizable) - A simple React component that is resizable with a handle. ![](https://img.shields.io/github/stars/strml/react-resizable.svg?style=social&label=Star)
-- [react-resizable-box](https://github.com/bokuweb/react-resizable-box) - A resizable component for React. ![](https://img.shields.io/github/stars/bokuweb/react-resizable-box.svg?style=social&label=Star)
+- [re-resizable](https://github.com/bokuweb/re-resizable) - A resizable component for React. ![](https://img.shields.io/github/stars/bokuweb/re-resizable.svg?style=social&label=Star)
 - [react-spaces](https://github.com/aeagle/react-spaces) - Nestable resizable, anchored, scrollable components. ![](https://img.shields.io/github/stars/aeagle/react-spaces.svg?style=social&label=Star)
 
 ### Editable data grid / spreadsheet
@@ -686,6 +687,10 @@ English | [简体中文](./README.md)
 ### Debug
 
 - [react-dev-inspector](https://github.com/zthxxx/react-dev-inspector) - Jump to local IDE code directly from browser React component by just a simple click.  ![](https://img.shields.io/github/stars/zthxxx/react-dev-inspector.svg?style=social&label=Star)
+
+### Performance
+
+- [@welldone-software/why-did-you-render](https://github.com/welldone-software/why-did-you-render) - why-did-you-render by Welldone Software monkey patches React to notify you about potentially avoidable re-renders. (Works with React Native as well.)  ![](https://img.shields.io/github/stars/welldone-software/why-did-you-render.svg?style=social&label=Star)
 
 ### Test
 
