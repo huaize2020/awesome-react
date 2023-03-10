@@ -59,6 +59,7 @@
   - [音视频](#音视频)
   - [日期/时间](#日期时间)
   - [照片/图像](#照片图像)
+    - [二维码](#二维码)
   - [分页](#分页)
   - [画布](#画布)
   - [白板/草图/绘图编辑器](#白板草图绘图编辑器)
@@ -449,6 +450,10 @@
 - [react-imgix](https://github.com/imgix/react-imgix) - 添加快速响应式的图像作为图像、图片或背景！ ![](https://img.shields.io/github/stars/imgix/react-imgix.svg?style=social&label=Star)
 - [react-compare-image](https://github.com/junkboy0315/react-compare-image) - 使用滑块对比两张图片。 ![](https://img.shields.io/github/stars/junkboy0315/react-compare-image.svg?style=social&label=Star)
 - [react-intense](https://github.com/brycedorn/react-intense) - 用于查看大图像。 ![](https://img.shields.io/github/stars/brycedorn/react-intense.svg?style=social&label=Star)
+
+#### 二维码
+
+- [qrcode.react](https://github.com/zpao/qrcode.react) - 一个 <QRCode/> React 组件 ![](https://img.shields.io/github/stars/zpao/qrcode.react.svg?style=social&label=Star)
 
 ### 分页
 

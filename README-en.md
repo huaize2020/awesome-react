@@ -48,6 +48,7 @@ English | [简体中文](./README.md)
   - [Audio / Video](#audio--video)
   - [Time / Date / Age](#time--date--age)
   - [Photo / Image](#photo--image)
+    - [QrCode](#qrcode)
   - [Paginator](#paginator)
   - [Canvas](#canvas)
     - [Whiteboard/Sketch/Draw Editor](#whiteboardsketchdraw-editor)
@@ -424,6 +425,10 @@ English | [简体中文](./README.md)
 - [react-imgix](https://github.com/imgix/react-imgix) - Add fast, responsive images as an image, picture, or background! ![](https://img.shields.io/github/stars/imgix/react-imgix.svg?style=social&label=Star)
 - [react-compare-image](https://github.com/junkboy0315/react-compare-image) - React component to compare two images using a slider. ![](https://img.shields.io/github/stars/junkboy0315/react-compare-image.svg?style=social&label=Star)
 - [react-intense](https://github.com/brycedorn/react-intense) - A React component for viewing large images up close. ![](https://img.shields.io/github/stars/brycedorn/react-intense.svg?style=social&label=Star)
+
+#### QrCode
+
+- [qrcode.react](https://github.com/zpao/qrcode.react) - A <QRCode/> component for use with React. ![](https://img.shields.io/github/stars/zpao/qrcode.react.svg?style=social&label=Star)
 
 ### Paginator
 
