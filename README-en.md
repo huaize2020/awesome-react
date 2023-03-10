@@ -310,6 +310,7 @@ English | [简体中文](./README.md)
 - [react-resizable-and-movable](https://github.com/bokuweb/react-resizable-and-movable) - A resizable and draggable component for React. ![](https://img.shields.io/github/stars/bokuweb/react-resizable-and-movable.svg?style=social&label=Star)
 - [react-resizable](https://github.com/strml/react-resizable) - A simple React component that is resizable with a handle. ![](https://img.shields.io/github/stars/strml/react-resizable.svg?style=social&label=Star)
 - [re-resizable](https://github.com/bokuweb/re-resizable) - A resizable component for React. ![](https://img.shields.io/github/stars/bokuweb/re-resizable.svg?style=social&label=Star)
+- [react-sizeme](https://github.com/ctrlplusb/react-sizeme) - Make your React Components aware of their width and height! ![](https://img.shields.io/github/stars/ctrlplusb/react-sizeme.svg?style=social&label=Star)
 - [react-spaces](https://github.com/aeagle/react-spaces) - Nestable resizable, anchored, scrollable components. ![](https://img.shields.io/github/stars/aeagle/react-spaces.svg?style=social&label=Star)
 
 ### Editable data grid / spreadsheet
