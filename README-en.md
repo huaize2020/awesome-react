@@ -51,6 +51,7 @@ English | [简体中文](./README.md)
   - [Paginator](#paginator)
   - [Canvas](#canvas)
     - [Whiteboard/Sketch/Draw Editor](#whiteboardsketchdraw-editor)
+  - [Guided Tours](#guided-tours)
   - [Data Visualization](#data-visualization)
     - [Charts](#charts)
     - [Graphs](#graphs)
@@ -440,6 +441,10 @@ English | [简体中文](./README.md)
 - [react-sketch](https://github.com/tbolis/react-sketch) - A Sketch tool for React based applications, backed-up by FabricJS. ![](https://img.shields.io/github/stars/tbolis/react-sketch.svg?style=social&label=Star)
 - [react-sketch-canvas](https://github.com/vinothpandian/react-sketch-canvas) - Freehand vector drawing tool for React using SVG as canvas. Accepts input from Mouse, touch, and graphic tablets. ![](https://img.shields.io/github/stars/vinothpandian/react-sketch-canvas.svg?style=social&label=Star)
 - [react-design-editor](https://github.com/salgum1114/react-design-editor) - React Design Editor has started to developed direct manipulation of editable design tools like Powerpoint, We've developed it with reactjs, ant.design, fabricjs. ![](https://img.shields.io/github/stars/salgum1114/react-design-editor.svg?style=social&label=Star)
+
+### Guided Tours
+
+- [react-joyride](https://github.com/gilbarbara/react-joyride) - Create guided tours in your apps. ![](https://img.shields.io/github/stars/gilbarbara/react-joyride.svg?style=social&label=Star)
 
 ### Data Visualization
 

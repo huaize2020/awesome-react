@@ -62,6 +62,7 @@
   - [分页](#分页)
   - [画布](#画布)
   - [白板/草图/绘图编辑器](#白板草图绘图编辑器)
+  - [应用程序导览（可交互式教程）](#应用程序导览可交互式教程)
   - [数据可视化](#数据可视化)
     - [图表](#图表)
     - [关系图](#关系图)
@@ -465,6 +466,10 @@
 - [react-sketch](https://github.com/tbolis/react-sketch) - 基于FabricJS， 用于React应用程序的 Sketch 工具。 ![](https://img.shields.io/github/stars/tbolis/react-sketch.svg?style=social&label=Star)
 - [react-sketch-canvas](https://github.com/vinothpandian/react-sketch-canvas) - 使用 SVG 作为画布的 React 手绘矢量绘图工具。接受来自鼠标、触摸板和图形输入板的输入。 ![](https://img.shields.io/github/stars/vinothpandian/react-sketch-canvas.svg?style=social&label=Star)
 - [react-design-editor](https://github.com/salgum1114/react-design-editor) - 基于React、Fabricjs的可编辑设计工具 ![](https://img.shields.io/github/stars/salgum1114/react-design-editor.svg?style=social&label=Star)
+
+### 应用程序导览（可交互式教程）
+
+- [react-joyride](https://github.com/gilbarbara/react-joyride) - 为应用程序创建一个交互式教程。 ![](https://img.shields.io/github/stars/gilbarbara/react-joyride.svg?style=social&label=Star)
 
 ### 数据可视化
 
