@@ -39,7 +39,7 @@ English | [简体中文](./README.md)
   - [Viewer](#viewer)
   - [Carousel](#carousel)
   - [Lazy Load](#lazy-load)
-  - [Infinite Scroll](#infinite-scroll)
+  - [Infinite Scroll / Virtualized List / Virtualized Tree](#infinite-scroll--virtualized-list--virtualized-tree)
   - [Loader](#loader)
   - [Collapse](#collapse)
   - [Tree](#tree)
@@ -359,8 +359,9 @@ English | [简体中文](./README.md)
 - [react-lazyload](https://github.com/jasonslyvia/react-lazyload) - Lazyload your Component, Image or anything matters the performance. ![](https://img.shields.io/github/stars/jasonslyvia/react-lazyload.svg?style=social&label=Star)
 - [react-lazy-load](https://github.com/loktar00/react-lazy-load) - React component that renders children elements when they enter the viewport. ![](https://img.shields.io/github/stars/loktar00/react-lazy-load.svg?style=social&label=Star)
 
-### Infinite Scroll
+### Infinite Scroll / Virtualized List / Virtualized Tree
 
+- [react-virtualized](https://github.com/bvaughn/react-virtualized) - React components for efficiently rendering large lists and tabular data. ![](https://img.shields.io/github/stars/bvaughn/react-window.svg?style=social&label=Star)
 - [react-window](https://github.com/bvaughn/react-window) - React components for efficiently rendering large lists and tabular data. ![](https://img.shields.io/github/stars/bvaughn/react-window.svg?style=social&label=Star)
 - [react-list](https://github.com/orgsync/react-list) - A versatile infinite scroll React component. ![](https://img.shields.io/github/stars/orgsync/react-list.svg?style=social&label=Star)
 - [@egjs/react-infinitegrid](https://github.com/naver/egjs-infinitegrid/blob/master/packages/react-infinitegrid) - A module used to arrange card elements including content infinitely according to various layout types. ![](https://img.shields.io/github/stars/mkosir/react-parallax-tilt.svg?style=social&label=Star)

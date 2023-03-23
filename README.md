@@ -386,6 +386,7 @@
 
 ### 虚拟滚动列表/树/模块
 
+- [react-virtualized](https://github.com/bvaughn/react-virtualized) - 用于高效呈现大型列表和表格数据的 React 组件。 ![](https://img.shields.io/github/stars/bvaughn/react-window.svg?style=social&label=Star)
 - [react-window](https://github.com/bvaughn/react-window) - 可有效渲染大型列表和表格数据的React组件。 ![](https://img.shields.io/github/stars/bvaughn/react-window.svg?style=social&label=Star)
 - [react-list](https://github.com/orgsync/react-list) - 多功能的虚拟滚动组件。 ![](https://img.shields.io/github/stars/orgsync/react-list.svg?style=social&label=Star)
 - [@egjs/react-infinitegrid](https://github.com/naver/egjs-infinitegrid/blob/master/packages/react-infinitegrid) - 根据各种布局类型排列包含内容的卡片元素。 ![](https://img.shields.io/github/stars/mkosir/react-parallax-tilt.svg?style=social&label=Star)
