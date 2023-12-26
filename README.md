@@ -134,6 +134,7 @@
 ### Hooks集合
 
 - [react-use](https://github.com/streamich/react-use) - React Hooks.  ![](https://img.shields.io/github/stars/streamich/react-use.svg?style=social&label=Star)
+- [react-query](https://github.com/TanStack/query/tree/main/packages/react-query) - 用于在 React 中获取、缓存和更新异步数据的Hooks。 ![](https://img.shields.io/github/stars/TanStack/query.svg?style=social&label=Star)
 - [ahooks](https://github.com/alibaba/hooks) - 专门针对企业应用程序的 React Hook 集合。 ![](https://img.shields.io/github/stars/alibaba/hooks.svg?style=social&label=Star)
 - [beautiful-react-hooks](https://github.com/antonioru/beautiful-react-hooks) - 用于加速组件和开发自定义 Hooks 的 Hooks 集合。 ![](https://img.shields.io/github/stars/antonioru/beautiful-react-hooks.svg?style=social&label=Star)
 

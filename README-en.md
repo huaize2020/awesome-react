@@ -108,6 +108,7 @@ English | [简体中文](./README.md)
 ### Hooks Collection
 
 - [react-use](https://github.com/streamich/react-use) - React Hooks.  ![](https://img.shields.io/github/stars/streamich/react-use.svg?style=social&label=Star)
+- [react-query](https://github.com/TanStack/query/tree/main/packages/react-query) - Hooks for fetching, caching and updating asynchronous data in React. ![](https://img.shields.io/github/stars/TanStack/query.svg?style=social&label=Star)
 - [ahooks](https://github.com/alibaba/hooks) - A collection of React Hooks specifically aiming at enterprise applications. ![](https://img.shields.io/github/stars/alibaba/hooks.svg?style=social&label=Star)
 - [beautiful-react-hooks](https://github.com/antonioru/beautiful-react-hooks) - A collection of hooks to speed-up your components and custom hooks development. ![](https://img.shields.io/github/stars/antonioru/beautiful-react-hooks.svg?style=social&label=Star)
 
