@@ -197,6 +197,7 @@ English | [简体中文](./README.md)
 - [electron-react-boilerplate](https://github.com/chentsulin/electron-react-boilerplate) - Electron React Boilerplate uses Electron, React, React Router, Webpack and React Fast Refresh.
  ![](https://img.shields.io/github/stars/chentsulin/electron-react-boilerplate.svg?style=social&label=Star)
 - [generator-starhackit](https://github.com/FredericHeem/starhackit) - Full-stack starter kit. ![](https://img.shields.io/github/stars/FredericHeem/starhackit.svg?style=social&label=Star)
+- [react-enterprise-starter-kit](https://github.com/anandgupta193/react-enterprise-starter-kit) - Highly Scalable and Performant Awesome React Starter Kit for an enterprise application with a very easy maintainable codebase. ![](https://img.shields.io/github/stars/anandgupta193/react-enterprise-starter-kit.svg?style=social&label=Star)
 
 ## UI Components
 
